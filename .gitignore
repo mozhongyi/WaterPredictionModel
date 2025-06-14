@@ -2,4 +2,3 @@
 /已知区域模型代码/OutputData
 /已知区域模型代码/model/*.pth
 /已知区域模型代码/OutputData/*.xlsx
-/已知区域模型代码/OutputData/interpolated_linear_original_data.xlsx
