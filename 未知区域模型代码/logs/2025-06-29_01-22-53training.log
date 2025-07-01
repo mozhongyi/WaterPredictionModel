@@ -1,0 +1,3885 @@
+训练开始: 2025-06-29 01:22:53
+最优模型参数保存路径：model/2025-06-29_01-22-53best_model.pth
+scaler参数保存路径：model/2025-06-29_01-22-53best_model.pth
+-------------------第0次训练----------------------
+Epoch epoch Train RMSE:115.1323117927804
+Epoch epoch Val RMSE: 113.63882358843081
+Best model saved at epoch 0 with Val RMSE: 113.63882358843081
+-------------------第1次训练----------------------
+Epoch epoch Train RMSE:115.11535060673924
+Epoch epoch Val RMSE: 113.62353890699761
+Best model saved at epoch 1 with Val RMSE: 113.62353890699761
+-------------------第2次训练----------------------
+Epoch epoch Train RMSE:115.09979959664352
+Epoch epoch Val RMSE: 113.60895702886943
+Best model saved at epoch 2 with Val RMSE: 113.60895702886943
+-------------------第3次训练----------------------
+Epoch epoch Train RMSE:115.08494654764802
+Epoch epoch Val RMSE: 113.59426581726078
+Best model saved at epoch 3 with Val RMSE: 113.59426581726078
+-------------------第4次训练----------------------
+Epoch epoch Train RMSE:115.06998549795685
+Epoch epoch Val RMSE: 113.57805943903735
+Best model saved at epoch 4 with Val RMSE: 113.57805943903735
+-------------------第5次训练----------------------
+Epoch epoch Train RMSE:115.05335039667467
+Epoch epoch Val RMSE: 113.55927090208223
+Best model saved at epoch 5 with Val RMSE: 113.55927090208223
+-------------------第6次训练----------------------
+Epoch epoch Train RMSE:115.03410245037121
+Epoch epoch Val RMSE: 113.53757207831028
+Best model saved at epoch 6 with Val RMSE: 113.53757207831028
+-------------------第7次训练----------------------
+Epoch epoch Train RMSE:115.01183702667304
+Epoch epoch Val RMSE: 113.51223863668842
+Best model saved at epoch 7 with Val RMSE: 113.51223863668842
+-------------------第8次训练----------------------
+Epoch epoch Train RMSE:114.98585595764594
+Epoch epoch Val RMSE: 113.48272600516124
+Best model saved at epoch 8 with Val RMSE: 113.48272600516124
+-------------------第9次训练----------------------
+Epoch epoch Train RMSE:114.95560029447239
+Epoch epoch Val RMSE: 113.4487382518532
+Best model saved at epoch 9 with Val RMSE: 113.4487382518532
+-------------------第10次训练----------------------
+Epoch epoch Train RMSE:114.92080748144568
+Epoch epoch Val RMSE: 113.40957817519207
+Best model saved at epoch 10 with Val RMSE: 113.40957817519207
+-------------------第11次训练----------------------
+Epoch epoch Train RMSE:114.88067008585475
+Epoch epoch Val RMSE: 113.36463310513777
+Best model saved at epoch 11 with Val RMSE: 113.36463310513777
+-------------------第12次训练----------------------
+Epoch epoch Train RMSE:114.83444265006035
+Epoch epoch Val RMSE: 113.31306880717688
+Best model saved at epoch 12 with Val RMSE: 113.31306880717688
+-------------------第13次训练----------------------
+Epoch epoch Train RMSE:114.78146695460029
+Epoch epoch Val RMSE: 113.25409588343814
+Best model saved at epoch 13 with Val RMSE: 113.25409588343814
+-------------------第14次训练----------------------
+Epoch epoch Train RMSE:114.72092496576202
+Epoch epoch Val RMSE: 113.1868442830261
+Best model saved at epoch 14 with Val RMSE: 113.1868442830261
+-------------------第15次训练----------------------
+Epoch epoch Train RMSE:114.65185498526616
+Epoch epoch Val RMSE: 113.11028478187781
+Best model saved at epoch 15 with Val RMSE: 113.11028478187781
+-------------------第16次训练----------------------
+Epoch epoch Train RMSE:114.5733594143944
+Epoch epoch Val RMSE: 113.02340482865706
+Best model saved at epoch 16 with Val RMSE: 113.02340482865706
+-------------------第17次训练----------------------
+Epoch epoch Train RMSE:114.48436966869102
+Epoch epoch Val RMSE: 112.92519475021949
+Best model saved at epoch 17 with Val RMSE: 112.92519475021949
+-------------------第18次训练----------------------
+Epoch epoch Train RMSE:114.38383247999911
+Epoch epoch Val RMSE: 112.81417935038131
+Best model saved at epoch 18 with Val RMSE: 112.81417935038131
+-------------------第19次训练----------------------
+Epoch epoch Train RMSE:114.27021754240035
+Epoch epoch Val RMSE: 112.68877391126856
+Best model saved at epoch 19 with Val RMSE: 112.68877391126856
+-------------------第20次训练----------------------
+Epoch epoch Train RMSE:114.14189873519277
+Epoch epoch Val RMSE: 112.54729908465151
+Best model saved at epoch 20 with Val RMSE: 112.54729908465151
+-------------------第21次训练----------------------
+Epoch epoch Train RMSE:113.99713452401994
+Epoch epoch Val RMSE: 112.38785643225651
+Best model saved at epoch 21 with Val RMSE: 112.38785643225651
+-------------------第22次训练----------------------
+Epoch epoch Train RMSE:113.83400915642477
+Epoch epoch Val RMSE: 112.20837201385643
+Best model saved at epoch 22 with Val RMSE: 112.20837201385643
+-------------------第23次训练----------------------
+Epoch epoch Train RMSE:113.65039423325817
+Epoch epoch Val RMSE: 112.00678341622886
+Best model saved at epoch 23 with Val RMSE: 112.00678341622886
+-------------------第24次训练----------------------
+Epoch epoch Train RMSE:113.44405111937338
+Epoch epoch Val RMSE: 111.78058166560058
+Best model saved at epoch 24 with Val RMSE: 111.78058166560058
+-------------------第25次训练----------------------
+Epoch epoch Train RMSE:113.21235836222785
+Epoch epoch Val RMSE: 111.52785263808543
+Best model saved at epoch 25 with Val RMSE: 111.52785263808543
+-------------------第26次训练----------------------
+Epoch epoch Train RMSE:112.95340058238618
+Epoch epoch Val RMSE: 111.24620341134118
+Best model saved at epoch 26 with Val RMSE: 111.24620341134118
+-------------------第27次训练----------------------
+Epoch epoch Train RMSE:112.66485317358293
+Epoch epoch Val RMSE: 110.9331865358604
+Best model saved at epoch 27 with Val RMSE: 110.9331865358604
+-------------------第28次训练----------------------
+Epoch epoch Train RMSE:112.34412378241018
+Epoch epoch Val RMSE: 110.58583346206692
+Best model saved at epoch 28 with Val RMSE: 110.58583346206692
+-------------------第29次训练----------------------
+Epoch epoch Train RMSE:111.98822395541194
+Epoch epoch Val RMSE: 110.20117435002678
+Best model saved at epoch 29 with Val RMSE: 110.20117435002678
+-------------------第30次训练----------------------
+Epoch epoch Train RMSE:111.59431444130566
+Epoch epoch Val RMSE: 109.77625504577482
+Best model saved at epoch 30 with Val RMSE: 109.77625504577482
+-------------------第31次训练----------------------
+Epoch epoch Train RMSE:111.1592897391509
+Epoch epoch Val RMSE: 109.30815368003204
+Best model saved at epoch 31 with Val RMSE: 109.30815368003204
+-------------------第32次训练----------------------
+Epoch epoch Train RMSE:110.68010633126443
+Epoch epoch Val RMSE: 108.79416308734123
+Best model saved at epoch 32 with Val RMSE: 108.79416308734123
+-------------------第33次训练----------------------
+Epoch epoch Train RMSE:110.15406469463576
+Epoch epoch Val RMSE: 108.23108054932742
+Best model saved at epoch 33 with Val RMSE: 108.23108054932742
+-------------------第34次训练----------------------
+Epoch epoch Train RMSE:109.57778077266623
+Epoch epoch Val RMSE: 107.61566724198434
+Best model saved at epoch 34 with Val RMSE: 107.61566724198434
+-------------------第35次训练----------------------
+Epoch epoch Train RMSE:108.9480999217632
+Epoch epoch Val RMSE: 106.9449195628876
+Best model saved at epoch 35 with Val RMSE: 106.9449195628876
+-------------------第36次训练----------------------
+Epoch epoch Train RMSE:108.2620428491676
+Epoch epoch Val RMSE: 106.21564701998948
+Best model saved at epoch 36 with Val RMSE: 106.21564701998948
+-------------------第37次训练----------------------
+Epoch epoch Train RMSE:107.51616884217927
+Epoch epoch Val RMSE: 105.42495386974329
+Best model saved at epoch 37 with Val RMSE: 105.42495386974329
+-------------------第38次训练----------------------
+Epoch epoch Train RMSE:106.70763576825232
+Epoch epoch Val RMSE: 104.56997134096385
+Best model saved at epoch 38 with Val RMSE: 104.56997134096385
+-------------------第39次训练----------------------
+Epoch epoch Train RMSE:105.83380802879107
+Epoch epoch Val RMSE: 103.6488164352951
+Best model saved at epoch 39 with Val RMSE: 103.6488164352951
+-------------------第40次训练----------------------
+Epoch epoch Train RMSE:104.89283500762814
+Epoch epoch Val RMSE: 102.66016449918634
+Best model saved at epoch 40 with Val RMSE: 102.66016449918634
+-------------------第41次训练----------------------
+Epoch epoch Train RMSE:103.88339034254946
+Epoch epoch Val RMSE: 101.60334755496494
+Best model saved at epoch 41 with Val RMSE: 101.60334755496494
+-------------------第42次训练----------------------
+Epoch epoch Train RMSE:102.80490093497488
+Epoch epoch Val RMSE: 100.47852304721641
+Best model saved at epoch 42 with Val RMSE: 100.47852304721641
+-------------------第43次训练----------------------
+Epoch epoch Train RMSE:101.65767655777404
+Epoch epoch Val RMSE: 99.28691556072482
+Best model saved at epoch 43 with Val RMSE: 99.28691556072482
+-------------------第44次训练----------------------
+Epoch epoch Train RMSE:100.44328993112232
+Epoch epoch Val RMSE: 98.03104578397601
+Best model saved at epoch 44 with Val RMSE: 98.03104578397601
+-------------------第45次训练----------------------
+Epoch epoch Train RMSE:99.16465060538205
+Epoch epoch Val RMSE: 96.71535737183883
+Best model saved at epoch 45 with Val RMSE: 96.71535737183883
+-------------------第46次训练----------------------
+Epoch epoch Train RMSE:97.8265015937016
+Epoch epoch Val RMSE: 95.34628499579834
+Best model saved at epoch 46 with Val RMSE: 95.34628499579834
+-------------------第47次训练----------------------
+Epoch epoch Train RMSE:96.43574305755361
+Epoch epoch Val RMSE: 93.93273856861622
+Best model saved at epoch 47 with Val RMSE: 93.93273856861622
+-------------------第48次训练----------------------
+Epoch epoch Train RMSE:95.00179377418355
+Epoch epoch Val RMSE: 92.48660692736814
+Best model saved at epoch 48 with Val RMSE: 92.48660692736814
+-------------------第49次训练----------------------
+Epoch epoch Train RMSE:93.53708113296565
+Epoch epoch Val RMSE: 91.02279612307292
+Best model saved at epoch 49 with Val RMSE: 91.02279612307292
+-------------------第50次训练----------------------
+Epoch epoch Train RMSE:92.05736577672641
+Epoch epoch Val RMSE: 89.56004936022674
+Best model saved at epoch 50 with Val RMSE: 89.56004936022674
+-------------------第51次训练----------------------
+Epoch epoch Train RMSE:90.58208035395302
+Epoch epoch Val RMSE: 88.12115184417274
+Best model saved at epoch 51 with Val RMSE: 88.12115184417274
+-------------------第52次训练----------------------
+Epoch epoch Train RMSE:89.13480617511321
+Epoch epoch Val RMSE: 86.73252142903203
+Best model saved at epoch 52 with Val RMSE: 86.73252142903203
+-------------------第53次训练----------------------
+Epoch epoch Train RMSE:87.7429606774099
+Epoch epoch Val RMSE: 85.4241971401034
+Best model saved at epoch 53 with Val RMSE: 85.4241971401034
+-------------------第54次训练----------------------
+Epoch epoch Train RMSE:86.4371977805635
+Epoch epoch Val RMSE: 84.2281041883067
+Best model saved at epoch 54 with Val RMSE: 84.2281041883067
+-------------------第55次训练----------------------
+Epoch epoch Train RMSE:85.24967066010431
+Epoch epoch Val RMSE: 83.17557202237926
+Best model saved at epoch 55 with Val RMSE: 83.17557202237926
+-------------------第56次训练----------------------
+Epoch epoch Train RMSE:84.21194893689375
+Epoch epoch Val RMSE: 82.29471974821654
+Best model saved at epoch 56 with Val RMSE: 82.29471974821654
+-------------------第57次训练----------------------
+Epoch epoch Train RMSE:83.35128680301672
+Epoch epoch Val RMSE: 81.60474540525355
+Best model saved at epoch 57 with Val RMSE: 81.60474540525355
+-------------------第58次训练----------------------
+Epoch epoch Train RMSE:82.6852264899087
+Epoch epoch Val RMSE: 81.11153465868773
+Best model saved at epoch 58 with Val RMSE: 81.11153465868773
+-------------------第59次训练----------------------
+Epoch epoch Train RMSE:82.21674265888609
+Epoch epoch Val RMSE: 80.80256307332553
+Best model saved at epoch 59 with Val RMSE: 80.80256307332553
+-------------------第60次训练----------------------
+Epoch epoch Train RMSE:81.92976758423187
+Epoch epoch Val RMSE: 80.64708091528328
+Best model saved at epoch 60 with Val RMSE: 80.64708091528328
+-------------------第61次训练----------------------
+Epoch epoch Train RMSE:81.78940241654936
+Epoch epoch Val RMSE: 80.59921765574869
+Best model saved at epoch 61 with Val RMSE: 80.59921765574869
+-------------------第62次训练----------------------
+Epoch epoch Train RMSE:81.74570540133898
+Epoch epoch Val RMSE: 80.60487575881344
+-------------------第63次训练----------------------
+Epoch epoch Train RMSE:81.7413329216774
+Epoch epoch Val RMSE: 80.61050923557517
+-------------------第64次训练----------------------
+Epoch epoch Train RMSE:81.72168673021409
+Epoch epoch Val RMSE: 80.5722483677305
+Best model saved at epoch 64 with Val RMSE: 80.5722483677305
+-------------------第65次训练----------------------
+Epoch epoch Train RMSE:81.6431055245175
+Epoch epoch Val RMSE: 80.46231163563473
+Best model saved at epoch 65 with Val RMSE: 80.46231163563473
+-------------------第66次训练----------------------
+Epoch epoch Train RMSE:81.47907910642614
+Epoch epoch Val RMSE: 80.26978131880483
+Best model saved at epoch 66 with Val RMSE: 80.26978131880483
+-------------------第67次训练----------------------
+Epoch epoch Train RMSE:81.22116675896437
+Epoch epoch Val RMSE: 79.99754329723976
+Best model saved at epoch 67 with Val RMSE: 79.99754329723976
+-------------------第68次训练----------------------
+Epoch epoch Train RMSE:80.87652746818758
+Epoch epoch Val RMSE: 79.65932712769735
+Best model saved at epoch 68 with Val RMSE: 79.65932712769735
+-------------------第69次训练----------------------
+Epoch epoch Train RMSE:80.46141350050966
+Epoch epoch Val RMSE: 79.28105907545005
+Best model saved at epoch 69 with Val RMSE: 79.28105907545005
+-------------------第70次训练----------------------
+Epoch epoch Train RMSE:80.0047697552699
+Epoch epoch Val RMSE: 78.88207240974498
+Best model saved at epoch 70 with Val RMSE: 78.88207240974498
+-------------------第71次训练----------------------
+Epoch epoch Train RMSE:79.52897835655567
+Epoch epoch Val RMSE: 78.48379485401748
+Best model saved at epoch 71 with Val RMSE: 78.48379485401748
+-------------------第72次训练----------------------
+Epoch epoch Train RMSE:79.05796059102776
+Epoch epoch Val RMSE: 78.10202162076216
+Best model saved at epoch 72 with Val RMSE: 78.10202162076216
+-------------------第73次训练----------------------
+Epoch epoch Train RMSE:78.6096778094943
+Epoch epoch Val RMSE: 77.74746906049418
+Best model saved at epoch 73 with Val RMSE: 77.74746906049418
+-------------------第74次训练----------------------
+Epoch epoch Train RMSE:78.19531835410608
+Epoch epoch Val RMSE: 77.42422896270101
+Best model saved at epoch 74 with Val RMSE: 77.42422896270101
+-------------------第75次训练----------------------
+Epoch epoch Train RMSE:77.81987603092638
+Epoch epoch Val RMSE: 77.13175808620434
+Best model saved at epoch 75 with Val RMSE: 77.13175808620434
+-------------------第76次训练----------------------
+Epoch epoch Train RMSE:77.48305321266226
+Epoch epoch Val RMSE: 76.86537986046612
+Best model saved at epoch 76 with Val RMSE: 76.86537986046612
+-------------------第77次训练----------------------
+Epoch epoch Train RMSE:77.17971241079161
+Epoch epoch Val RMSE: 76.61848080954425
+Best model saved at epoch 77 with Val RMSE: 76.61848080954425
+-------------------第78次训练----------------------
+Epoch epoch Train RMSE:76.9019737992384
+Epoch epoch Val RMSE: 76.38286004460522
+Best model saved at epoch 78 with Val RMSE: 76.38286004460522
+-------------------第79次训练----------------------
+Epoch epoch Train RMSE:76.64086232124316
+Epoch epoch Val RMSE: 76.15045051266112
+Best model saved at epoch 79 with Val RMSE: 76.15045051266112
+-------------------第80次训练----------------------
+Epoch epoch Train RMSE:76.38687126439007
+Epoch epoch Val RMSE: 75.91318733737077
+Best model saved at epoch 80 with Val RMSE: 75.91318733737077
+-------------------第81次训练----------------------
+Epoch epoch Train RMSE:76.1316833067876
+Epoch epoch Val RMSE: 75.66481389985705
+Best model saved at epoch 81 with Val RMSE: 75.66481389985705
+-------------------第82次训练----------------------
+Epoch epoch Train RMSE:75.86869310690675
+Epoch epoch Val RMSE: 75.4023355542204
+Best model saved at epoch 82 with Val RMSE: 75.4023355542204
+-------------------第83次训练----------------------
+Epoch epoch Train RMSE:75.59360789569115
+Epoch epoch Val RMSE: 75.12365782390891
+Best model saved at epoch 83 with Val RMSE: 75.12365782390891
+-------------------第84次训练----------------------
+Epoch epoch Train RMSE:75.30412297809463
+Epoch epoch Val RMSE: 74.82796349690234
+Best model saved at epoch 84 with Val RMSE: 74.82796349690234
+-------------------第85次训练----------------------
+Epoch epoch Train RMSE:74.99928385074753
+Epoch epoch Val RMSE: 74.51573475825424
+Best model saved at epoch 85 with Val RMSE: 74.51573475825424
+-------------------第86次训练----------------------
+Epoch epoch Train RMSE:74.67978843556835
+Epoch epoch Val RMSE: 74.18857281237791
+Best model saved at epoch 86 with Val RMSE: 74.18857281237791
+-------------------第87次训练----------------------
+Epoch epoch Train RMSE:74.34705357309058
+Epoch epoch Val RMSE: 73.84944963192008
+Best model saved at epoch 87 with Val RMSE: 73.84944963192008
+-------------------第88次训练----------------------
+Epoch epoch Train RMSE:74.00338819840447
+Epoch epoch Val RMSE: 73.50184016616522
+Best model saved at epoch 88 with Val RMSE: 73.50184016616522
+-------------------第89次训练----------------------
+Epoch epoch Train RMSE:73.65200388164092
+Epoch epoch Val RMSE: 73.1484470956151
+Best model saved at epoch 89 with Val RMSE: 73.1484470956151
+-------------------第90次训练----------------------
+Epoch epoch Train RMSE:73.29647030105713
+Epoch epoch Val RMSE: 72.79245968848697
+Best model saved at epoch 90 with Val RMSE: 72.79245968848697
+-------------------第91次训练----------------------
+Epoch epoch Train RMSE:72.93943468942228
+Epoch epoch Val RMSE: 72.43580131744247
+Best model saved at epoch 91 with Val RMSE: 72.43580131744247
+-------------------第92次训练----------------------
+Epoch epoch Train RMSE:72.58318234532707
+Epoch epoch Val RMSE: 72.08015219076435
+Best model saved at epoch 92 with Val RMSE: 72.08015219076435
+-------------------第93次训练----------------------
+Epoch epoch Train RMSE:72.22952307682954
+Epoch epoch Val RMSE: 71.72698414060255
+Best model saved at epoch 93 with Val RMSE: 71.72698414060255
+-------------------第94次训练----------------------
+Epoch epoch Train RMSE:71.87948015928293
+Epoch epoch Val RMSE: 71.37625190452003
+Best model saved at epoch 94 with Val RMSE: 71.37625190452003
+-------------------第95次训练----------------------
+Epoch epoch Train RMSE:71.53288483824241
+Epoch epoch Val RMSE: 71.02760315649297
+Best model saved at epoch 95 with Val RMSE: 71.02760315649297
+-------------------第96次训练----------------------
+Epoch epoch Train RMSE:71.18911529664314
+Epoch epoch Val RMSE: 70.67936928260961
+Best model saved at epoch 96 with Val RMSE: 70.67936928260961
+-------------------第97次训练----------------------
+Epoch epoch Train RMSE:70.84588315601867
+Epoch epoch Val RMSE: 70.33178207832147
+Best model saved at epoch 97 with Val RMSE: 70.33178207832147
+-------------------第98次训练----------------------
+Epoch epoch Train RMSE:70.50280496414663
+Epoch epoch Val RMSE: 69.98304063530321
+Best model saved at epoch 98 with Val RMSE: 69.98304063530321
+-------------------第99次训练----------------------
+Epoch epoch Train RMSE:70.15799691588978
+Epoch epoch Val RMSE: 69.63243340032
+Best model saved at epoch 99 with Val RMSE: 69.63243340032
+-------------------第100次训练----------------------
+Epoch epoch Train RMSE:69.81001702164598
+Epoch epoch Val RMSE: 69.27931887249974
+Best model saved at epoch 100 with Val RMSE: 69.27931887249974
+-------------------第101次训练----------------------
+Epoch epoch Train RMSE:69.4575241154621
+Epoch epoch Val RMSE: 68.92121081917561
+Best model saved at epoch 101 with Val RMSE: 68.92121081917561
+-------------------第102次训练----------------------
+Epoch epoch Train RMSE:69.09867901346776
+Epoch epoch Val RMSE: 68.55788854706108
+Best model saved at epoch 102 with Val RMSE: 68.55788854706108
+-------------------第103次训练----------------------
+Epoch epoch Train RMSE:68.73348878435279
+Epoch epoch Val RMSE: 68.19050749554515
+Best model saved at epoch 103 with Val RMSE: 68.19050749554515
+-------------------第104次训练----------------------
+Epoch epoch Train RMSE:68.3624338601344
+Epoch epoch Val RMSE: 67.81969287889396
+Best model saved at epoch 104 with Val RMSE: 67.81969287889396
+-------------------第105次训练----------------------
+Epoch epoch Train RMSE:67.98631597723362
+Epoch epoch Val RMSE: 67.44518897315805
+Best model saved at epoch 105 with Val RMSE: 67.44518897315805
+-------------------第106次训练----------------------
+Epoch epoch Train RMSE:67.60548037372784
+Epoch epoch Val RMSE: 67.06781855074944
+Best model saved at epoch 106 with Val RMSE: 67.06781855074944
+-------------------第107次训练----------------------
+Epoch epoch Train RMSE:67.22099455806199
+Epoch epoch Val RMSE: 66.68751464385969
+Best model saved at epoch 107 with Val RMSE: 66.68751464385969
+-------------------第108次训练----------------------
+Epoch epoch Train RMSE:66.83319736127585
+Epoch epoch Val RMSE: 66.30459498712175
+Best model saved at epoch 108 with Val RMSE: 66.30459498712175
+-------------------第109次训练----------------------
+Epoch epoch Train RMSE:66.44245336661643
+Epoch epoch Val RMSE: 65.91968805628179
+Best model saved at epoch 109 with Val RMSE: 65.91968805628179
+-------------------第110次训练----------------------
+Epoch epoch Train RMSE:66.04931647663926
+Epoch epoch Val RMSE: 65.53306059730463
+Best model saved at epoch 110 with Val RMSE: 65.53306059730463
+-------------------第111次训练----------------------
+Epoch epoch Train RMSE:65.65397797710928
+Epoch epoch Val RMSE: 65.14468572435514
+Best model saved at epoch 111 with Val RMSE: 65.14468572435514
+-------------------第112次训练----------------------
+Epoch epoch Train RMSE:65.25672708378424
+Epoch epoch Val RMSE: 64.75482230474229
+Best model saved at epoch 112 with Val RMSE: 64.75482230474229
+-------------------第113次训练----------------------
+Epoch epoch Train RMSE:64.85735173608887
+Epoch epoch Val RMSE: 64.361694620131
+Best model saved at epoch 113 with Val RMSE: 64.361694620131
+-------------------第114次训练----------------------
+Epoch epoch Train RMSE:64.45574805268534
+Epoch epoch Val RMSE: 63.96462798150631
+Best model saved at epoch 114 with Val RMSE: 63.96462798150631
+-------------------第115次训练----------------------
+Epoch epoch Train RMSE:64.05198846688914
+Epoch epoch Val RMSE: 63.56363499171027
+Best model saved at epoch 115 with Val RMSE: 63.56363499171027
+-------------------第116次训练----------------------
+Epoch epoch Train RMSE:63.6458171372047
+Epoch epoch Val RMSE: 63.15904867623878
+Best model saved at epoch 116 with Val RMSE: 63.15904867623878
+-------------------第117次训练----------------------
+Epoch epoch Train RMSE:63.23718952224138
+Epoch epoch Val RMSE: 62.749856044406584
+Best model saved at epoch 117 with Val RMSE: 62.749856044406584
+-------------------第118次训练----------------------
+Epoch epoch Train RMSE:62.82653372456378
+Epoch epoch Val RMSE: 62.33614850274478
+Best model saved at epoch 118 with Val RMSE: 62.33614850274478
+-------------------第119次训练----------------------
+Epoch epoch Train RMSE:62.41341267733443
+Epoch epoch Val RMSE: 61.91728944666324
+Best model saved at epoch 119 with Val RMSE: 61.91728944666324
+-------------------第120次训练----------------------
+Epoch epoch Train RMSE:61.99714112612371
+Epoch epoch Val RMSE: 61.49299693359399
+Best model saved at epoch 120 with Val RMSE: 61.49299693359399
+-------------------第121次训练----------------------
+Epoch epoch Train RMSE:61.57776222615799
+Epoch epoch Val RMSE: 61.06377741435077
+Best model saved at epoch 121 with Val RMSE: 61.06377741435077
+-------------------第122次训练----------------------
+Epoch epoch Train RMSE:61.15511224669815
+Epoch epoch Val RMSE: 60.630015498075494
+Best model saved at epoch 122 with Val RMSE: 60.630015498075494
+-------------------第123次训练----------------------
+Epoch epoch Train RMSE:60.7295007852444
+Epoch epoch Val RMSE: 60.19274258384996
+Best model saved at epoch 123 with Val RMSE: 60.19274258384996
+-------------------第124次训练----------------------
+Epoch epoch Train RMSE:60.301676894827104
+Epoch epoch Val RMSE: 59.75159761854699
+Best model saved at epoch 124 with Val RMSE: 59.75159761854699
+-------------------第125次训练----------------------
+Epoch epoch Train RMSE:59.87190713240956
+Epoch epoch Val RMSE: 59.30728869361253
+Best model saved at epoch 125 with Val RMSE: 59.30728869361253
+-------------------第126次训练----------------------
+Epoch epoch Train RMSE:59.44026018827643
+Epoch epoch Val RMSE: 58.86109011637059
+Best model saved at epoch 126 with Val RMSE: 58.86109011637059
+-------------------第127次训练----------------------
+Epoch epoch Train RMSE:59.00637214000705
+Epoch epoch Val RMSE: 58.41171932992663
+Best model saved at epoch 127 with Val RMSE: 58.41171932992663
+-------------------第128次训练----------------------
+Epoch epoch Train RMSE:58.56998476382229
+Epoch epoch Val RMSE: 57.9602272205098
+Best model saved at epoch 128 with Val RMSE: 57.9602272205098
+-------------------第129次训练----------------------
+Epoch epoch Train RMSE:58.13149745270416
+Epoch epoch Val RMSE: 57.505005726403944
+Best model saved at epoch 129 with Val RMSE: 57.505005726403944
+-------------------第130次训练----------------------
+Epoch epoch Train RMSE:57.690301597733914
+Epoch epoch Val RMSE: 57.04560820970905
+Best model saved at epoch 130 with Val RMSE: 57.04560820970905
+-------------------第131次训练----------------------
+Epoch epoch Train RMSE:57.24599126248929
+Epoch epoch Val RMSE: 56.582599588317564
+Best model saved at epoch 131 with Val RMSE: 56.582599588317564
+-------------------第132次训练----------------------
+Epoch epoch Train RMSE:56.79919828466992
+Epoch epoch Val RMSE: 56.11592528251227
+Best model saved at epoch 132 with Val RMSE: 56.11592528251227
+-------------------第133次训练----------------------
+Epoch epoch Train RMSE:56.34950183827604
+Epoch epoch Val RMSE: 55.64704180564094
+Best model saved at epoch 133 with Val RMSE: 55.64704180564094
+-------------------第134次训练----------------------
+Epoch epoch Train RMSE:55.8969475910805
+Epoch epoch Val RMSE: 55.17499902653488
+Best model saved at epoch 134 with Val RMSE: 55.17499902653488
+-------------------第135次训练----------------------
+Epoch epoch Train RMSE:55.44168573896473
+Epoch epoch Val RMSE: 54.70036678993227
+Best model saved at epoch 135 with Val RMSE: 54.70036678993227
+-------------------第136次训练----------------------
+Epoch epoch Train RMSE:54.98377557218016
+Epoch epoch Val RMSE: 54.22202574758596
+Best model saved at epoch 136 with Val RMSE: 54.22202574758596
+-------------------第137次训练----------------------
+Epoch epoch Train RMSE:54.523378729908146
+Epoch epoch Val RMSE: 53.740769556268916
+Best model saved at epoch 137 with Val RMSE: 53.740769556268916
+-------------------第138次训练----------------------
+Epoch epoch Train RMSE:54.06070941760176
+Epoch epoch Val RMSE: 53.25601721064602
+Best model saved at epoch 138 with Val RMSE: 53.25601721064602
+-------------------第139次训练----------------------
+Epoch epoch Train RMSE:53.5948637821585
+Epoch epoch Val RMSE: 52.767260579477686
+Best model saved at epoch 139 with Val RMSE: 52.767260579477686
+-------------------第140次训练----------------------
+Epoch epoch Train RMSE:53.12603399729035
+Epoch epoch Val RMSE: 52.27434531138936
+Best model saved at epoch 140 with Val RMSE: 52.27434531138936
+-------------------第141次训练----------------------
+Epoch epoch Train RMSE:52.65408471067321
+Epoch epoch Val RMSE: 51.777357748253486
+Best model saved at epoch 141 with Val RMSE: 51.777357748253486
+-------------------第142次训练----------------------
+Epoch epoch Train RMSE:52.17817094760509
+Epoch epoch Val RMSE: 51.275620025352936
+Best model saved at epoch 142 with Val RMSE: 51.275620025352936
+-------------------第143次训练----------------------
+Epoch epoch Train RMSE:51.69913714221931
+Epoch epoch Val RMSE: 50.76893360255487
+Best model saved at epoch 143 with Val RMSE: 50.76893360255487
+-------------------第144次训练----------------------
+Epoch epoch Train RMSE:51.21715077201313
+Epoch epoch Val RMSE: 50.25769044851494
+Best model saved at epoch 144 with Val RMSE: 50.25769044851494
+-------------------第145次训练----------------------
+Epoch epoch Train RMSE:50.73271238036411
+Epoch epoch Val RMSE: 49.742530453702294
+Best model saved at epoch 145 with Val RMSE: 49.742530453702294
+-------------------第146次训练----------------------
+Epoch epoch Train RMSE:50.244905583644744
+Epoch epoch Val RMSE: 49.223144645075244
+Best model saved at epoch 146 with Val RMSE: 49.223144645075244
+-------------------第147次训练----------------------
+Epoch epoch Train RMSE:49.75304982407486
+Epoch epoch Val RMSE: 48.70074635272544
+Best model saved at epoch 147 with Val RMSE: 48.70074635272544
+-------------------第148次训练----------------------
+Epoch epoch Train RMSE:49.259036092058786
+Epoch epoch Val RMSE: 48.176134562729814
+Best model saved at epoch 148 with Val RMSE: 48.176134562729814
+-------------------第149次训练----------------------
+Epoch epoch Train RMSE:48.76283885424432
+Epoch epoch Val RMSE: 47.64794241114326
+Best model saved at epoch 149 with Val RMSE: 47.64794241114326
+-------------------第150次训练----------------------
+Epoch epoch Train RMSE:48.26527597801938
+Epoch epoch Val RMSE: 47.117513289580025
+Best model saved at epoch 150 with Val RMSE: 47.117513289580025
+-------------------第151次训练----------------------
+Epoch epoch Train RMSE:47.76781766311787
+Epoch epoch Val RMSE: 46.586366576298374
+Best model saved at epoch 151 with Val RMSE: 46.586366576298374
+-------------------第152次训练----------------------
+Epoch epoch Train RMSE:47.270381992024085
+Epoch epoch Val RMSE: 46.056364605808014
+Best model saved at epoch 152 with Val RMSE: 46.056364605808014
+-------------------第153次训练----------------------
+Epoch epoch Train RMSE:46.77198315448175
+Epoch epoch Val RMSE: 45.52995772874438
+Best model saved at epoch 153 with Val RMSE: 45.52995772874438
+-------------------第154次训练----------------------
+Epoch epoch Train RMSE:46.273956527774615
+Epoch epoch Val RMSE: 45.00603122560006
+Best model saved at epoch 154 with Val RMSE: 45.00603122560006
+-------------------第155次训练----------------------
+Epoch epoch Train RMSE:45.77679692506619
+Epoch epoch Val RMSE: 44.485565930668734
+Best model saved at epoch 155 with Val RMSE: 44.485565930668734
+-------------------第156次训练----------------------
+Epoch epoch Train RMSE:45.28137939940103
+Epoch epoch Val RMSE: 43.9696134199162
+Best model saved at epoch 156 with Val RMSE: 43.9696134199162
+-------------------第157次训练----------------------
+Epoch epoch Train RMSE:44.78910951397323
+Epoch epoch Val RMSE: 43.45516867497251
+Best model saved at epoch 157 with Val RMSE: 43.45516867497251
+-------------------第158次训练----------------------
+Epoch epoch Train RMSE:44.29739031887206
+Epoch epoch Val RMSE: 42.946627828001525
+Best model saved at epoch 158 with Val RMSE: 42.946627828001525
+-------------------第159次训练----------------------
+Epoch epoch Train RMSE:43.815245712376615
+Epoch epoch Val RMSE: 42.44150817549887
+Best model saved at epoch 159 with Val RMSE: 42.44150817549887
+-------------------第160次训练----------------------
+Epoch epoch Train RMSE:43.33330578925407
+Epoch epoch Val RMSE: 41.945780316119105
+Best model saved at epoch 160 with Val RMSE: 41.945780316119105
+-------------------第161次训练----------------------
+Epoch epoch Train RMSE:42.86120205502364
+Epoch epoch Val RMSE: 41.45437062301151
+Best model saved at epoch 161 with Val RMSE: 41.45437062301151
+-------------------第162次训练----------------------
+Epoch epoch Train RMSE:42.39394798991803
+Epoch epoch Val RMSE: 40.97009228588657
+Best model saved at epoch 162 with Val RMSE: 40.97009228588657
+-------------------第163次训练----------------------
+Epoch epoch Train RMSE:41.93644483350297
+Epoch epoch Val RMSE: 40.49599408718565
+Best model saved at epoch 163 with Val RMSE: 40.49599408718565
+-------------------第164次训练----------------------
+Epoch epoch Train RMSE:41.48620670391169
+Epoch epoch Val RMSE: 40.03839252488245
+Best model saved at epoch 164 with Val RMSE: 40.03839252488245
+-------------------第165次训练----------------------
+Epoch epoch Train RMSE:41.04874258218058
+Epoch epoch Val RMSE: 39.59349256279764
+Best model saved at epoch 165 with Val RMSE: 39.59349256279764
+-------------------第166次训练----------------------
+Epoch epoch Train RMSE:40.6225855652716
+Epoch epoch Val RMSE: 39.157490752488854
+Best model saved at epoch 166 with Val RMSE: 39.157490752488854
+-------------------第167次训练----------------------
+Epoch epoch Train RMSE:40.204359252818435
+Epoch epoch Val RMSE: 38.7294189926445
+Best model saved at epoch 167 with Val RMSE: 38.7294189926445
+-------------------第168次训练----------------------
+Epoch epoch Train RMSE:39.794464002350566
+Epoch epoch Val RMSE: 38.314094647176674
+Best model saved at epoch 168 with Val RMSE: 38.314094647176674
+-------------------第169次训练----------------------
+Epoch epoch Train RMSE:39.39564346006818
+Epoch epoch Val RMSE: 37.91170000237806
+Best model saved at epoch 169 with Val RMSE: 37.91170000237806
+-------------------第170次训练----------------------
+Epoch epoch Train RMSE:39.00404376071153
+Epoch epoch Val RMSE: 37.52420605474635
+Best model saved at epoch 170 with Val RMSE: 37.52420605474635
+-------------------第171次训练----------------------
+Epoch epoch Train RMSE:38.6278790138596
+Epoch epoch Val RMSE: 37.15071874567587
+Best model saved at epoch 171 with Val RMSE: 37.15071874567587
+-------------------第172次训练----------------------
+Epoch epoch Train RMSE:38.264592995985694
+Epoch epoch Val RMSE: 36.7874888506609
+Best model saved at epoch 172 with Val RMSE: 36.7874888506609
+-------------------第173次训练----------------------
+Epoch epoch Train RMSE:37.91351434927261
+Epoch epoch Val RMSE: 36.43747654909194
+Best model saved at epoch 173 with Val RMSE: 36.43747654909194
+-------------------第174次训练----------------------
+Epoch epoch Train RMSE:37.57490078423778
+Epoch epoch Val RMSE: 36.102638583562175
+Best model saved at epoch 174 with Val RMSE: 36.102638583562175
+-------------------第175次训练----------------------
+Epoch epoch Train RMSE:37.2501048656242
+Epoch epoch Val RMSE: 35.78263507144562
+Best model saved at epoch 175 with Val RMSE: 35.78263507144562
+-------------------第176次训练----------------------
+Epoch epoch Train RMSE:36.93643749793776
+Epoch epoch Val RMSE: 35.47872932300423
+Best model saved at epoch 176 with Val RMSE: 35.47872932300423
+-------------------第177次训练----------------------
+Epoch epoch Train RMSE:36.640368469251236
+Epoch epoch Val RMSE: 35.18273655035769
+Best model saved at epoch 177 with Val RMSE: 35.18273655035769
+-------------------第178次训练----------------------
+Epoch epoch Train RMSE:36.358209988856025
+Epoch epoch Val RMSE: 34.895505284527694
+Best model saved at epoch 178 with Val RMSE: 34.895505284527694
+-------------------第179次训练----------------------
+Epoch epoch Train RMSE:36.084688391728214
+Epoch epoch Val RMSE: 34.610115680561876
+Best model saved at epoch 179 with Val RMSE: 34.610115680561876
+-------------------第180次训练----------------------
+Epoch epoch Train RMSE:35.81524551812311
+Epoch epoch Val RMSE: 34.32989227926954
+Best model saved at epoch 180 with Val RMSE: 34.32989227926954
+-------------------第181次训练----------------------
+Epoch epoch Train RMSE:35.55092009951184
+Epoch epoch Val RMSE: 34.05646269604622
+Best model saved at epoch 181 with Val RMSE: 34.05646269604622
+-------------------第182次训练----------------------
+Epoch epoch Train RMSE:35.291524467196794
+Epoch epoch Val RMSE: 33.79109188269891
+Best model saved at epoch 182 with Val RMSE: 33.79109188269891
+-------------------第183次训练----------------------
+Epoch epoch Train RMSE:35.03805827016888
+Epoch epoch Val RMSE: 33.5318142718132
+Best model saved at epoch 183 with Val RMSE: 33.5318142718132
+-------------------第184次训练----------------------
+Epoch epoch Train RMSE:34.78873003293865
+Epoch epoch Val RMSE: 33.2773325159184
+Best model saved at epoch 184 with Val RMSE: 33.2773325159184
+-------------------第185次训练----------------------
+Epoch epoch Train RMSE:34.54264871254266
+Epoch epoch Val RMSE: 33.0265137480716
+Best model saved at epoch 185 with Val RMSE: 33.0265137480716
+-------------------第186次训练----------------------
+Epoch epoch Train RMSE:34.29933077768246
+Epoch epoch Val RMSE: 32.780030437871964
+Best model saved at epoch 186 with Val RMSE: 32.780030437871964
+-------------------第187次训练----------------------
+Epoch epoch Train RMSE:34.060177673127306
+Epoch epoch Val RMSE: 32.53879895601557
+Best model saved at epoch 187 with Val RMSE: 32.53879895601557
+-------------------第188次训练----------------------
+Epoch epoch Train RMSE:33.824810388996454
+Epoch epoch Val RMSE: 32.30426522547468
+Best model saved at epoch 188 with Val RMSE: 32.30426522547468
+-------------------第189次训练----------------------
+Epoch epoch Train RMSE:33.594126088011095
+Epoch epoch Val RMSE: 32.075936816502335
+Best model saved at epoch 189 with Val RMSE: 32.075936816502335
+-------------------第190次训练----------------------
+Epoch epoch Train RMSE:33.36944922532529
+Epoch epoch Val RMSE: 31.851730170333763
+Best model saved at epoch 190 with Val RMSE: 31.851730170333763
+-------------------第191次训练----------------------
+Epoch epoch Train RMSE:33.149040509775695
+Epoch epoch Val RMSE: 31.631977020332506
+Best model saved at epoch 191 with Val RMSE: 31.631977020332506
+-------------------第192次训练----------------------
+Epoch epoch Train RMSE:32.9317068256889
+Epoch epoch Val RMSE: 31.416218100936735
+Best model saved at epoch 192 with Val RMSE: 31.416218100936735
+-------------------第193次训练----------------------
+Epoch epoch Train RMSE:32.718242593964305
+Epoch epoch Val RMSE: 31.204166584080262
+Best model saved at epoch 193 with Val RMSE: 31.204166584080262
+-------------------第194次训练----------------------
+Epoch epoch Train RMSE:32.509043213004595
+Epoch epoch Val RMSE: 30.99593597352724
+Best model saved at epoch 194 with Val RMSE: 30.99593597352724
+-------------------第195次训练----------------------
+Epoch epoch Train RMSE:32.30308622845211
+Epoch epoch Val RMSE: 30.791110214828546
+Best model saved at epoch 195 with Val RMSE: 30.791110214828546
+-------------------第196次训练----------------------
+Epoch epoch Train RMSE:32.09972863008346
+Epoch epoch Val RMSE: 30.589219970734277
+Best model saved at epoch 196 with Val RMSE: 30.589219970734277
+-------------------第197次训练----------------------
+Epoch epoch Train RMSE:31.898697724263073
+Epoch epoch Val RMSE: 30.388997184875052
+Best model saved at epoch 197 with Val RMSE: 30.388997184875052
+-------------------第198次训练----------------------
+Epoch epoch Train RMSE:31.70004547789768
+Epoch epoch Val RMSE: 30.190781314288433
+Best model saved at epoch 198 with Val RMSE: 30.190781314288433
+-------------------第199次训练----------------------
+Epoch epoch Train RMSE:31.50390794521074
+Epoch epoch Val RMSE: 29.994811563054117
+Best model saved at epoch 199 with Val RMSE: 29.994811563054117
+-------------------第200次训练----------------------
+Epoch epoch Train RMSE:31.3099542066397
+Epoch epoch Val RMSE: 29.800537268384524
+Best model saved at epoch 200 with Val RMSE: 29.800537268384524
+-------------------第201次训练----------------------
+Epoch epoch Train RMSE:31.117305187450057
+Epoch epoch Val RMSE: 29.607536222588244
+Best model saved at epoch 201 with Val RMSE: 29.607536222588244
+-------------------第202次训练----------------------
+Epoch epoch Train RMSE:30.92565074535114
+Epoch epoch Val RMSE: 29.415751528531125
+Best model saved at epoch 202 with Val RMSE: 29.415751528531125
+-------------------第203次训练----------------------
+Epoch epoch Train RMSE:30.73506608272341
+Epoch epoch Val RMSE: 29.225128815744764
+Best model saved at epoch 203 with Val RMSE: 29.225128815744764
+-------------------第204次训练----------------------
+Epoch epoch Train RMSE:30.546277567687156
+Epoch epoch Val RMSE: 29.034828055877565
+Best model saved at epoch 204 with Val RMSE: 29.034828055877565
+-------------------第205次训练----------------------
+Epoch epoch Train RMSE:30.357990792878056
+Epoch epoch Val RMSE: 28.845405770798774
+Best model saved at epoch 205 with Val RMSE: 28.845405770798774
+-------------------第206次训练----------------------
+Epoch epoch Train RMSE:30.170256624126104
+Epoch epoch Val RMSE: 28.65718288421552
+Best model saved at epoch 206 with Val RMSE: 28.65718288421552
+-------------------第207次训练----------------------
+Epoch epoch Train RMSE:29.98385999753138
+Epoch epoch Val RMSE: 28.470635528599352
+Best model saved at epoch 207 with Val RMSE: 28.470635528599352
+-------------------第208次训练----------------------
+Epoch epoch Train RMSE:29.799341140734555
+Epoch epoch Val RMSE: 28.285530364964764
+Best model saved at epoch 208 with Val RMSE: 28.285530364964764
+-------------------第209次训练----------------------
+Epoch epoch Train RMSE:29.616163263745758
+Epoch epoch Val RMSE: 28.101208470107984
+Best model saved at epoch 209 with Val RMSE: 28.101208470107984
+-------------------第210次训练----------------------
+Epoch epoch Train RMSE:29.4342632741536
+Epoch epoch Val RMSE: 27.91768754449464
+Best model saved at epoch 210 with Val RMSE: 27.91768754449464
+-------------------第211次训练----------------------
+Epoch epoch Train RMSE:29.253555473010454
+Epoch epoch Val RMSE: 27.735350995150913
+Best model saved at epoch 211 with Val RMSE: 27.735350995150913
+-------------------第212次训练----------------------
+Epoch epoch Train RMSE:29.074190147188
+Epoch epoch Val RMSE: 27.554234517470267
+Best model saved at epoch 212 with Val RMSE: 27.554234517470267
+-------------------第213次训练----------------------
+Epoch epoch Train RMSE:28.896278896806614
+Epoch epoch Val RMSE: 27.374686740145425
+Best model saved at epoch 213 with Val RMSE: 27.374686740145425
+-------------------第214次训练----------------------
+Epoch epoch Train RMSE:28.719522525994297
+Epoch epoch Val RMSE: 27.196729755156227
+Best model saved at epoch 214 with Val RMSE: 27.196729755156227
+-------------------第215次训练----------------------
+Epoch epoch Train RMSE:28.544254677564386
+Epoch epoch Val RMSE: 27.020315933469973
+Best model saved at epoch 215 with Val RMSE: 27.020315933469973
+-------------------第216次训练----------------------
+Epoch epoch Train RMSE:28.371162323079044
+Epoch epoch Val RMSE: 26.845309726223594
+Best model saved at epoch 216 with Val RMSE: 26.845309726223594
+-------------------第217次训练----------------------
+Epoch epoch Train RMSE:28.199775813949856
+Epoch epoch Val RMSE: 26.67163929670311
+Best model saved at epoch 217 with Val RMSE: 26.67163929670311
+-------------------第218次训练----------------------
+Epoch epoch Train RMSE:28.029513472200712
+Epoch epoch Val RMSE: 26.50028790011653
+Best model saved at epoch 218 with Val RMSE: 26.50028790011653
+-------------------第219次训练----------------------
+Epoch epoch Train RMSE:27.86084719890307
+Epoch epoch Val RMSE: 26.33124865557497
+Best model saved at epoch 219 with Val RMSE: 26.33124865557497
+-------------------第220次训练----------------------
+Epoch epoch Train RMSE:27.693606699936744
+Epoch epoch Val RMSE: 26.164385588853172
+Best model saved at epoch 220 with Val RMSE: 26.164385588853172
+-------------------第221次训练----------------------
+Epoch epoch Train RMSE:27.528307962128956
+Epoch epoch Val RMSE: 25.999130234475512
+Best model saved at epoch 221 with Val RMSE: 25.999130234475512
+-------------------第222次训练----------------------
+Epoch epoch Train RMSE:27.36446648262864
+Epoch epoch Val RMSE: 25.83486730471716
+Best model saved at epoch 222 with Val RMSE: 25.83486730471716
+-------------------第223次训练----------------------
+Epoch epoch Train RMSE:27.201189755617193
+Epoch epoch Val RMSE: 25.67101313792161
+Best model saved at epoch 223 with Val RMSE: 25.67101313792161
+-------------------第224次训练----------------------
+Epoch epoch Train RMSE:27.03835821460701
+Epoch epoch Val RMSE: 25.50733752429142
+Best model saved at epoch 224 with Val RMSE: 25.50733752429142
+-------------------第225次训练----------------------
+Epoch epoch Train RMSE:26.876002661165384
+Epoch epoch Val RMSE: 25.34362717679856
+Best model saved at epoch 225 with Val RMSE: 25.34362717679856
+-------------------第226次训练----------------------
+Epoch epoch Train RMSE:26.713901012847575
+Epoch epoch Val RMSE: 25.180312880071234
+Best model saved at epoch 226 with Val RMSE: 25.180312880071234
+-------------------第227次训练----------------------
+Epoch epoch Train RMSE:26.552049874521224
+Epoch epoch Val RMSE: 25.017484120485616
+Best model saved at epoch 227 with Val RMSE: 25.017484120485616
+-------------------第228次训练----------------------
+Epoch epoch Train RMSE:26.390265363520527
+Epoch epoch Val RMSE: 24.855301461502886
+Best model saved at epoch 228 with Val RMSE: 24.855301461502886
+-------------------第229次训练----------------------
+Epoch epoch Train RMSE:26.228398617585647
+Epoch epoch Val RMSE: 24.693356208104085
+Best model saved at epoch 229 with Val RMSE: 24.693356208104085
+-------------------第230次训练----------------------
+Epoch epoch Train RMSE:26.066586254155194
+Epoch epoch Val RMSE: 24.531796122503827
+Best model saved at epoch 230 with Val RMSE: 24.531796122503827
+-------------------第231次训练----------------------
+Epoch epoch Train RMSE:25.90509317757924
+Epoch epoch Val RMSE: 24.370541208774863
+Best model saved at epoch 231 with Val RMSE: 24.370541208774863
+-------------------第232次训练----------------------
+Epoch epoch Train RMSE:25.743863754224883
+Epoch epoch Val RMSE: 24.20965302941551
+Best model saved at epoch 232 with Val RMSE: 24.20965302941551
+-------------------第233次训练----------------------
+Epoch epoch Train RMSE:25.58241626533069
+Epoch epoch Val RMSE: 24.048834390607688
+Best model saved at epoch 233 with Val RMSE: 24.048834390607688
+-------------------第234次训练----------------------
+Epoch epoch Train RMSE:25.420812583439258
+Epoch epoch Val RMSE: 23.888674350139883
+Best model saved at epoch 234 with Val RMSE: 23.888674350139883
+-------------------第235次训练----------------------
+Epoch epoch Train RMSE:25.259456865356636
+Epoch epoch Val RMSE: 23.729870427127942
+Best model saved at epoch 235 with Val RMSE: 23.729870427127942
+-------------------第236次训练----------------------
+Epoch epoch Train RMSE:25.098655439740444
+Epoch epoch Val RMSE: 23.571885564428232
+Best model saved at epoch 236 with Val RMSE: 23.571885564428232
+-------------------第237次训练----------------------
+Epoch epoch Train RMSE:24.938426371029934
+Epoch epoch Val RMSE: 23.413880025148146
+Best model saved at epoch 237 with Val RMSE: 23.413880025148146
+-------------------第238次训练----------------------
+Epoch epoch Train RMSE:24.778983975841303
+Epoch epoch Val RMSE: 23.255733972456262
+Best model saved at epoch 238 with Val RMSE: 23.255733972456262
+-------------------第239次训练----------------------
+Epoch epoch Train RMSE:24.620151410353877
+Epoch epoch Val RMSE: 23.09764270727237
+Best model saved at epoch 239 with Val RMSE: 23.09764270727237
+-------------------第240次训练----------------------
+Epoch epoch Train RMSE:24.461696031835288
+Epoch epoch Val RMSE: 22.939438407961436
+Best model saved at epoch 240 with Val RMSE: 22.939438407961436
+-------------------第241次训练----------------------
+Epoch epoch Train RMSE:24.303690513142108
+Epoch epoch Val RMSE: 22.782053740965715
+Best model saved at epoch 241 with Val RMSE: 22.782053740965715
+-------------------第242次训练----------------------
+Epoch epoch Train RMSE:24.146048895131763
+Epoch epoch Val RMSE: 22.625851104071064
+Best model saved at epoch 242 with Val RMSE: 22.625851104071064
+-------------------第243次训练----------------------
+Epoch epoch Train RMSE:23.98923886960503
+Epoch epoch Val RMSE: 22.470961078620448
+Best model saved at epoch 243 with Val RMSE: 22.470961078620448
+-------------------第244次训练----------------------
+Epoch epoch Train RMSE:23.833101427065937
+Epoch epoch Val RMSE: 22.31756893249443
+Best model saved at epoch 244 with Val RMSE: 22.31756893249443
+-------------------第245次训练----------------------
+Epoch epoch Train RMSE:23.678085509568493
+Epoch epoch Val RMSE: 22.165194966882694
+Best model saved at epoch 245 with Val RMSE: 22.165194966882694
+-------------------第246次训练----------------------
+Epoch epoch Train RMSE:23.523421932077213
+Epoch epoch Val RMSE: 22.013608711564295
+Best model saved at epoch 246 with Val RMSE: 22.013608711564295
+-------------------第247次训练----------------------
+Epoch epoch Train RMSE:23.368890463689247
+Epoch epoch Val RMSE: 21.86310572278566
+Best model saved at epoch 247 with Val RMSE: 21.86310572278566
+-------------------第248次训练----------------------
+Epoch epoch Train RMSE:23.214399091841955
+Epoch epoch Val RMSE: 21.713693768456636
+Best model saved at epoch 248 with Val RMSE: 21.713693768456636
+-------------------第249次训练----------------------
+Epoch epoch Train RMSE:23.059992294641084
+Epoch epoch Val RMSE: 21.565183256959585
+Best model saved at epoch 249 with Val RMSE: 21.565183256959585
+-------------------第250次训练----------------------
+Epoch epoch Train RMSE:22.90544795236359
+Epoch epoch Val RMSE: 21.417169745606195
+Best model saved at epoch 250 with Val RMSE: 21.417169745606195
+-------------------第251次训练----------------------
+Epoch epoch Train RMSE:22.750888010656585
+Epoch epoch Val RMSE: 21.26931566982116
+Best model saved at epoch 251 with Val RMSE: 21.26931566982116
+-------------------第252次训练----------------------
+Epoch epoch Train RMSE:22.59644720458354
+Epoch epoch Val RMSE: 21.121526850215517
+Best model saved at epoch 252 with Val RMSE: 21.121526850215517
+-------------------第253次训练----------------------
+Epoch epoch Train RMSE:22.4421354728127
+Epoch epoch Val RMSE: 20.97362715146505
+Best model saved at epoch 253 with Val RMSE: 20.97362715146505
+-------------------第254次训练----------------------
+Epoch epoch Train RMSE:22.28804312753989
+Epoch epoch Val RMSE: 20.825928534315253
+Best model saved at epoch 254 with Val RMSE: 20.825928534315253
+-------------------第255次训练----------------------
+Epoch epoch Train RMSE:22.134081684621215
+Epoch epoch Val RMSE: 20.678520904712713
+Best model saved at epoch 255 with Val RMSE: 20.678520904712713
+-------------------第256次训练----------------------
+Epoch epoch Train RMSE:21.980017864022184
+Epoch epoch Val RMSE: 20.531966430612837
+Best model saved at epoch 256 with Val RMSE: 20.531966430612837
+-------------------第257次训练----------------------
+Epoch epoch Train RMSE:21.824732282641737
+Epoch epoch Val RMSE: 20.38069082719597
+Best model saved at epoch 257 with Val RMSE: 20.38069082719597
+-------------------第258次训练----------------------
+Epoch epoch Train RMSE:21.662627014738714
+Epoch epoch Val RMSE: 20.235368128378976
+Best model saved at epoch 258 with Val RMSE: 20.235368128378976
+-------------------第259次训练----------------------
+Epoch epoch Train RMSE:21.505206520066324
+Epoch epoch Val RMSE: 20.092976177022422
+Best model saved at epoch 259 with Val RMSE: 20.092976177022422
+-------------------第260次训练----------------------
+Epoch epoch Train RMSE:21.353211837138662
+Epoch epoch Val RMSE: 19.948745665161038
+Best model saved at epoch 260 with Val RMSE: 19.948745665161038
+-------------------第261次训练----------------------
+Epoch epoch Train RMSE:21.19967184712493
+Epoch epoch Val RMSE: 19.804464834793645
+Best model saved at epoch 261 with Val RMSE: 19.804464834793645
+-------------------第262次训练----------------------
+Epoch epoch Train RMSE:21.046028193803576
+Epoch epoch Val RMSE: 19.66065645784788
+Best model saved at epoch 262 with Val RMSE: 19.66065645784788
+-------------------第263次训练----------------------
+Epoch epoch Train RMSE:20.89281320346036
+Epoch epoch Val RMSE: 19.517482647776326
+Best model saved at epoch 263 with Val RMSE: 19.517482647776326
+-------------------第264次训练----------------------
+Epoch epoch Train RMSE:20.740165861932464
+Epoch epoch Val RMSE: 19.374778697072824
+Best model saved at epoch 264 with Val RMSE: 19.374778697072824
+-------------------第265次训练----------------------
+Epoch epoch Train RMSE:20.587832722294298
+Epoch epoch Val RMSE: 19.232417808881717
+Best model saved at epoch 265 with Val RMSE: 19.232417808881717
+-------------------第266次训练----------------------
+Epoch epoch Train RMSE:20.435586355601977
+Epoch epoch Val RMSE: 19.090722576072455
+Best model saved at epoch 266 with Val RMSE: 19.090722576072455
+-------------------第267次训练----------------------
+Epoch epoch Train RMSE:20.28359647322614
+Epoch epoch Val RMSE: 18.950326333972786
+Best model saved at epoch 267 with Val RMSE: 18.950326333972786
+-------------------第268次训练----------------------
+Epoch epoch Train RMSE:20.132544957234742
+Epoch epoch Val RMSE: 18.811243566587628
+Best model saved at epoch 268 with Val RMSE: 18.811243566587628
+-------------------第269次训练----------------------
+Epoch epoch Train RMSE:19.984582680703518
+Epoch epoch Val RMSE: 18.673957127633326
+Best model saved at epoch 269 with Val RMSE: 18.673957127633326
+-------------------第270次训练----------------------
+Epoch epoch Train RMSE:19.836562890151153
+Epoch epoch Val RMSE: 18.53727966301117
+Best model saved at epoch 270 with Val RMSE: 18.53727966301117
+-------------------第271次训练----------------------
+Epoch epoch Train RMSE:19.687761965023
+Epoch epoch Val RMSE: 18.40250087825616
+Best model saved at epoch 271 with Val RMSE: 18.40250087825616
+-------------------第272次训练----------------------
+Epoch epoch Train RMSE:19.53988012458631
+Epoch epoch Val RMSE: 18.269104038061517
+Best model saved at epoch 272 with Val RMSE: 18.269104038061517
+-------------------第273次训练----------------------
+Epoch epoch Train RMSE:19.39460795868516
+Epoch epoch Val RMSE: 18.137596646451673
+Best model saved at epoch 273 with Val RMSE: 18.137596646451673
+-------------------第274次训练----------------------
+Epoch epoch Train RMSE:19.2508283164424
+Epoch epoch Val RMSE: 18.00717698173599
+Best model saved at epoch 274 with Val RMSE: 18.00717698173599
+-------------------第275次训练----------------------
+Epoch epoch Train RMSE:19.106783699765103
+Epoch epoch Val RMSE: 17.878497868533483
+Best model saved at epoch 275 with Val RMSE: 17.878497868533483
+-------------------第276次训练----------------------
+Epoch epoch Train RMSE:18.962766605482027
+Epoch epoch Val RMSE: 17.751629821741016
+Best model saved at epoch 276 with Val RMSE: 17.751629821741016
+-------------------第277次训练----------------------
+Epoch epoch Train RMSE:18.819356587647913
+Epoch epoch Val RMSE: 17.627110564566976
+Best model saved at epoch 277 with Val RMSE: 17.627110564566976
+-------------------第278次训练----------------------
+Epoch epoch Train RMSE:18.67766891670664
+Epoch epoch Val RMSE: 17.50384217727059
+Best model saved at epoch 278 with Val RMSE: 17.50384217727059
+-------------------第279次训练----------------------
+Epoch epoch Train RMSE:18.537235213360937
+Epoch epoch Val RMSE: 17.382322675682975
+Best model saved at epoch 279 with Val RMSE: 17.382322675682975
+-------------------第280次训练----------------------
+Epoch epoch Train RMSE:18.39799627921051
+Epoch epoch Val RMSE: 17.263310259145424
+Best model saved at epoch 280 with Val RMSE: 17.263310259145424
+-------------------第281次训练----------------------
+Epoch epoch Train RMSE:18.259858277555338
+Epoch epoch Val RMSE: 17.14612117755928
+Best model saved at epoch 281 with Val RMSE: 17.14612117755928
+-------------------第282次训练----------------------
+Epoch epoch Train RMSE:18.123085499642265
+Epoch epoch Val RMSE: 17.030461564319094
+Best model saved at epoch 282 with Val RMSE: 17.030461564319094
+-------------------第283次训练----------------------
+Epoch epoch Train RMSE:17.98795593829078
+Epoch epoch Val RMSE: 16.915421062644658
+Best model saved at epoch 283 with Val RMSE: 16.915421062644658
+-------------------第284次训练----------------------
+Epoch epoch Train RMSE:17.854191546012906
+Epoch epoch Val RMSE: 16.801789796948995
+Best model saved at epoch 284 with Val RMSE: 16.801789796948995
+-------------------第285次训练----------------------
+Epoch epoch Train RMSE:17.721874035663877
+Epoch epoch Val RMSE: 16.689046152330256
+Best model saved at epoch 285 with Val RMSE: 16.689046152330256
+-------------------第286次训练----------------------
+Epoch epoch Train RMSE:17.591085499834854
+Epoch epoch Val RMSE: 16.577803771334107
+Best model saved at epoch 286 with Val RMSE: 16.577803771334107
+-------------------第287次训练----------------------
+Epoch epoch Train RMSE:17.46188738327928
+Epoch epoch Val RMSE: 16.46869070198053
+Best model saved at epoch 287 with Val RMSE: 16.46869070198053
+-------------------第288次训练----------------------
+Epoch epoch Train RMSE:17.334614535200497
+Epoch epoch Val RMSE: 16.36120676826934
+Best model saved at epoch 288 with Val RMSE: 16.36120676826934
+-------------------第289次训练----------------------
+Epoch epoch Train RMSE:17.209181105056704
+Epoch epoch Val RMSE: 16.25676598175501
+Best model saved at epoch 289 with Val RMSE: 16.25676598175501
+-------------------第290次训练----------------------
+Epoch epoch Train RMSE:17.08594910979258
+Epoch epoch Val RMSE: 16.15600821869375
+Best model saved at epoch 290 with Val RMSE: 16.15600821869375
+-------------------第291次训练----------------------
+Epoch epoch Train RMSE:16.965118525434217
+Epoch epoch Val RMSE: 16.059155780270643
+Best model saved at epoch 291 with Val RMSE: 16.059155780270643
+-------------------第292次训练----------------------
+Epoch epoch Train RMSE:16.847008214843832
+Epoch epoch Val RMSE: 15.965042071957562
+Best model saved at epoch 292 with Val RMSE: 15.965042071957562
+-------------------第293次训练----------------------
+Epoch epoch Train RMSE:16.731481535274586
+Epoch epoch Val RMSE: 15.87305877110573
+Best model saved at epoch 293 with Val RMSE: 15.87305877110573
+-------------------第294次训练----------------------
+Epoch epoch Train RMSE:16.618342622639524
+Epoch epoch Val RMSE: 15.782406362337065
+Best model saved at epoch 294 with Val RMSE: 15.782406362337065
+-------------------第295次训练----------------------
+Epoch epoch Train RMSE:16.507349400449353
+Epoch epoch Val RMSE: 15.693291191707823
+Best model saved at epoch 295 with Val RMSE: 15.693291191707823
+-------------------第296次训练----------------------
+Epoch epoch Train RMSE:16.39873153619187
+Epoch epoch Val RMSE: 15.606655246665804
+Best model saved at epoch 296 with Val RMSE: 15.606655246665804
+-------------------第297次训练----------------------
+Epoch epoch Train RMSE:16.2930778549152
+Epoch epoch Val RMSE: 15.522435348408052
+Best model saved at epoch 297 with Val RMSE: 15.522435348408052
+-------------------第298次训练----------------------
+Epoch epoch Train RMSE:16.18998174900772
+Epoch epoch Val RMSE: 15.441000105334165
+Best model saved at epoch 298 with Val RMSE: 15.441000105334165
+-------------------第299次训练----------------------
+Epoch epoch Train RMSE:16.089284688484735
+Epoch epoch Val RMSE: 15.361611592465598
+Best model saved at epoch 299 with Val RMSE: 15.361611592465598
+-------------------第300次训练----------------------
+Epoch epoch Train RMSE:15.989928413502836
+Epoch epoch Val RMSE: 15.284295213577277
+Best model saved at epoch 300 with Val RMSE: 15.284295213577277
+-------------------第301次训练----------------------
+Epoch epoch Train RMSE:15.892271243542261
+Epoch epoch Val RMSE: 15.208546313880406
+Best model saved at epoch 301 with Val RMSE: 15.208546313880406
+-------------------第302次训练----------------------
+Epoch epoch Train RMSE:15.796665390238912
+Epoch epoch Val RMSE: 15.13382179939553
+Best model saved at epoch 302 with Val RMSE: 15.13382179939553
+-------------------第303次训练----------------------
+Epoch epoch Train RMSE:15.702828141628112
+Epoch epoch Val RMSE: 15.059531018172667
+Best model saved at epoch 303 with Val RMSE: 15.059531018172667
+-------------------第304次训练----------------------
+Epoch epoch Train RMSE:15.610357885565266
+Epoch epoch Val RMSE: 14.98830975531561
+Best model saved at epoch 304 with Val RMSE: 14.98830975531561
+-------------------第305次训练----------------------
+Epoch epoch Train RMSE:15.520331553427598
+Epoch epoch Val RMSE: 14.91931680050884
+Best model saved at epoch 305 with Val RMSE: 14.91931680050884
+-------------------第306次训练----------------------
+Epoch epoch Train RMSE:15.432989164157915
+Epoch epoch Val RMSE: 14.852480984880943
+Best model saved at epoch 306 with Val RMSE: 14.852480984880943
+-------------------第307次训练----------------------
+Epoch epoch Train RMSE:15.347794941629644
+Epoch epoch Val RMSE: 14.787689161340317
+Best model saved at epoch 307 with Val RMSE: 14.787689161340317
+-------------------第308次训练----------------------
+Epoch epoch Train RMSE:15.264710382337446
+Epoch epoch Val RMSE: 14.725068827599383
+Best model saved at epoch 308 with Val RMSE: 14.725068827599383
+-------------------第309次训练----------------------
+Epoch epoch Train RMSE:15.183127947415121
+Epoch epoch Val RMSE: 14.663142618990097
+Best model saved at epoch 309 with Val RMSE: 14.663142618990097
+-------------------第310次训练----------------------
+Epoch epoch Train RMSE:15.102134381954922
+Epoch epoch Val RMSE: 14.601898989568532
+Best model saved at epoch 310 with Val RMSE: 14.601898989568532
+-------------------第311次训练----------------------
+Epoch epoch Train RMSE:15.02189767199766
+Epoch epoch Val RMSE: 14.541533869416618
+Best model saved at epoch 311 with Val RMSE: 14.541533869416618
+-------------------第312次训练----------------------
+Epoch epoch Train RMSE:14.942585227178206
+Epoch epoch Val RMSE: 14.482910608956725
+Best model saved at epoch 312 with Val RMSE: 14.482910608956725
+-------------------第313次训练----------------------
+Epoch epoch Train RMSE:14.864860091899883
+Epoch epoch Val RMSE: 14.425682879437144
+Best model saved at epoch 313 with Val RMSE: 14.425682879437144
+-------------------第314次训练----------------------
+Epoch epoch Train RMSE:14.790246915065135
+Epoch epoch Val RMSE: 14.370061142060687
+Best model saved at epoch 314 with Val RMSE: 14.370061142060687
+-------------------第315次训练----------------------
+Epoch epoch Train RMSE:14.71765106699053
+Epoch epoch Val RMSE: 14.316424369019913
+Best model saved at epoch 315 with Val RMSE: 14.316424369019913
+-------------------第316次训练----------------------
+Epoch epoch Train RMSE:14.646520187022826
+Epoch epoch Val RMSE: 14.263919389925922
+Best model saved at epoch 316 with Val RMSE: 14.263919389925922
+-------------------第317次训练----------------------
+Epoch epoch Train RMSE:14.576468517725484
+Epoch epoch Val RMSE: 14.212123391455103
+Best model saved at epoch 317 with Val RMSE: 14.212123391455103
+-------------------第318次训练----------------------
+Epoch epoch Train RMSE:14.507841949350832
+Epoch epoch Val RMSE: 14.160601824886143
+Best model saved at epoch 318 with Val RMSE: 14.160601824886143
+-------------------第319次训练----------------------
+Epoch epoch Train RMSE:14.440918092574492
+Epoch epoch Val RMSE: 14.109184120213541
+Best model saved at epoch 319 with Val RMSE: 14.109184120213541
+-------------------第320次训练----------------------
+Epoch epoch Train RMSE:14.375426709020022
+Epoch epoch Val RMSE: 14.058643134290868
+Best model saved at epoch 320 with Val RMSE: 14.058643134290868
+-------------------第321次训练----------------------
+Epoch epoch Train RMSE:14.311103319543754
+Epoch epoch Val RMSE: 14.008964937953571
+Best model saved at epoch 321 with Val RMSE: 14.008964937953571
+-------------------第322次训练----------------------
+Epoch epoch Train RMSE:14.247775255507273
+Epoch epoch Val RMSE: 13.959812795700937
+Best model saved at epoch 322 with Val RMSE: 13.959812795700937
+-------------------第323次训练----------------------
+Epoch epoch Train RMSE:14.185415509726663
+Epoch epoch Val RMSE: 13.911186250829706
+Best model saved at epoch 323 with Val RMSE: 13.911186250829706
+-------------------第324次训练----------------------
+Epoch epoch Train RMSE:14.124197878047525
+Epoch epoch Val RMSE: 13.863491474878305
+Best model saved at epoch 324 with Val RMSE: 13.863491474878305
+-------------------第325次训练----------------------
+Epoch epoch Train RMSE:14.064609759273951
+Epoch epoch Val RMSE: 13.816209666045633
+Best model saved at epoch 325 with Val RMSE: 13.816209666045633
+-------------------第326次训练----------------------
+Epoch epoch Train RMSE:14.005996509796148
+Epoch epoch Val RMSE: 13.768730029880832
+Best model saved at epoch 326 with Val RMSE: 13.768730029880832
+-------------------第327次训练----------------------
+Epoch epoch Train RMSE:13.94833705383487
+Epoch epoch Val RMSE: 13.722010752858434
+Best model saved at epoch 327 with Val RMSE: 13.722010752858434
+-------------------第328次训练----------------------
+Epoch epoch Train RMSE:13.89169434420905
+Epoch epoch Val RMSE: 13.676891936652677
+Best model saved at epoch 328 with Val RMSE: 13.676891936652677
+-------------------第329次训练----------------------
+Epoch epoch Train RMSE:13.836669213253318
+Epoch epoch Val RMSE: 13.632512532516476
+Best model saved at epoch 329 with Val RMSE: 13.632512532516476
+-------------------第330次训练----------------------
+Epoch epoch Train RMSE:13.783086745160148
+Epoch epoch Val RMSE: 13.589216647107781
+Best model saved at epoch 330 with Val RMSE: 13.589216647107781
+-------------------第331次训练----------------------
+Epoch epoch Train RMSE:13.730540429222573
+Epoch epoch Val RMSE: 13.546288711902273
+Best model saved at epoch 331 with Val RMSE: 13.546288711902273
+-------------------第332次训练----------------------
+Epoch epoch Train RMSE:13.678782853082977
+Epoch epoch Val RMSE: 13.50366161280432
+Best model saved at epoch 332 with Val RMSE: 13.50366161280432
+-------------------第333次训练----------------------
+Epoch epoch Train RMSE:13.62776533989266
+Epoch epoch Val RMSE: 13.461471396478288
+Best model saved at epoch 333 with Val RMSE: 13.461471396478288
+-------------------第334次训练----------------------
+Epoch epoch Train RMSE:13.577478812658965
+Epoch epoch Val RMSE: 13.420318548796518
+Best model saved at epoch 334 with Val RMSE: 13.420318548796518
+-------------------第335次训练----------------------
+Epoch epoch Train RMSE:13.52825626795143
+Epoch epoch Val RMSE: 13.379924117302222
+Best model saved at epoch 335 with Val RMSE: 13.379924117302222
+-------------------第336次训练----------------------
+Epoch epoch Train RMSE:13.479777696174416
+Epoch epoch Val RMSE: 13.33997357641803
+Best model saved at epoch 336 with Val RMSE: 13.33997357641803
+-------------------第337次训练----------------------
+Epoch epoch Train RMSE:13.432058536695077
+Epoch epoch Val RMSE: 13.300768057078626
+Best model saved at epoch 337 with Val RMSE: 13.300768057078626
+-------------------第338次训练----------------------
+Epoch epoch Train RMSE:13.385465431371937
+Epoch epoch Val RMSE: 13.262307263267298
+Best model saved at epoch 338 with Val RMSE: 13.262307263267298
+-------------------第339次训练----------------------
+Epoch epoch Train RMSE:13.339865483144814
+Epoch epoch Val RMSE: 13.224076156221534
+Best model saved at epoch 339 with Val RMSE: 13.224076156221534
+-------------------第340次训练----------------------
+Epoch epoch Train RMSE:13.294428778546733
+Epoch epoch Val RMSE: 13.186092934413894
+Best model saved at epoch 340 with Val RMSE: 13.186092934413894
+-------------------第341次训练----------------------
+Epoch epoch Train RMSE:13.249356236203633
+Epoch epoch Val RMSE: 13.149738358480155
+Best model saved at epoch 341 with Val RMSE: 13.149738358480155
+-------------------第342次训练----------------------
+Epoch epoch Train RMSE:13.20550898410572
+Epoch epoch Val RMSE: 13.113873515817788
+Best model saved at epoch 342 with Val RMSE: 13.113873515817788
+-------------------第343次训练----------------------
+Epoch epoch Train RMSE:13.163249348958317
+Epoch epoch Val RMSE: 13.07861793892546
+Best model saved at epoch 343 with Val RMSE: 13.07861793892546
+-------------------第344次训练----------------------
+Epoch epoch Train RMSE:13.121715316291422
+Epoch epoch Val RMSE: 13.044555604090279
+Best model saved at epoch 344 with Val RMSE: 13.044555604090279
+-------------------第345次训练----------------------
+Epoch epoch Train RMSE:13.080804730312968
+Epoch epoch Val RMSE: 13.01192807453211
+Best model saved at epoch 345 with Val RMSE: 13.01192807453211
+-------------------第346次训练----------------------
+Epoch epoch Train RMSE:13.040735831065094
+Epoch epoch Val RMSE: 12.979953862418302
+Best model saved at epoch 346 with Val RMSE: 12.979953862418302
+-------------------第347次训练----------------------
+Epoch epoch Train RMSE:13.0015932720688
+Epoch epoch Val RMSE: 12.94797434631578
+Best model saved at epoch 347 with Val RMSE: 12.94797434631578
+-------------------第348次训练----------------------
+Epoch epoch Train RMSE:12.962970521309076
+Epoch epoch Val RMSE: 12.915479708042872
+Best model saved at epoch 348 with Val RMSE: 12.915479708042872
+-------------------第349次训练----------------------
+Epoch epoch Train RMSE:12.924705776503375
+Epoch epoch Val RMSE: 12.8820781324955
+Best model saved at epoch 349 with Val RMSE: 12.8820781324955
+-------------------第350次训练----------------------
+Epoch epoch Train RMSE:12.886786833898656
+Epoch epoch Val RMSE: 12.848889587160707
+Best model saved at epoch 350 with Val RMSE: 12.848889587160707
+-------------------第351次训练----------------------
+Epoch epoch Train RMSE:12.849620507718615
+Epoch epoch Val RMSE: 12.816821155848888
+Best model saved at epoch 351 with Val RMSE: 12.816821155848888
+-------------------第352次训练----------------------
+Epoch epoch Train RMSE:12.813381853226788
+Epoch epoch Val RMSE: 12.785392556248823
+Best model saved at epoch 352 with Val RMSE: 12.785392556248823
+-------------------第353次训练----------------------
+Epoch epoch Train RMSE:12.77771514287515
+Epoch epoch Val RMSE: 12.75466175499668
+Best model saved at epoch 353 with Val RMSE: 12.75466175499668
+-------------------第354次训练----------------------
+Epoch epoch Train RMSE:12.7423120395508
+Epoch epoch Val RMSE: 12.724423354597695
+Best model saved at epoch 354 with Val RMSE: 12.724423354597695
+-------------------第355次训练----------------------
+Epoch epoch Train RMSE:12.707514568697999
+Epoch epoch Val RMSE: 12.6943010414384
+Best model saved at epoch 355 with Val RMSE: 12.6943010414384
+-------------------第356次训练----------------------
+Epoch epoch Train RMSE:12.673341565103549
+Epoch epoch Val RMSE: 12.664280583023533
+Best model saved at epoch 356 with Val RMSE: 12.664280583023533
+-------------------第357次训练----------------------
+Epoch epoch Train RMSE:12.639460072635
+Epoch epoch Val RMSE: 12.633502174665013
+Best model saved at epoch 357 with Val RMSE: 12.633502174665013
+-------------------第358次训练----------------------
+Epoch epoch Train RMSE:12.605745949074858
+Epoch epoch Val RMSE: 12.602764226061492
+Best model saved at epoch 358 with Val RMSE: 12.602764226061492
+-------------------第359次训练----------------------
+Epoch epoch Train RMSE:12.572364388351005
+Epoch epoch Val RMSE: 12.572820115791941
+Best model saved at epoch 359 with Val RMSE: 12.572820115791941
+-------------------第360次训练----------------------
+Epoch epoch Train RMSE:12.539503010174984
+Epoch epoch Val RMSE: 12.543298422948743
+Best model saved at epoch 360 with Val RMSE: 12.543298422948743
+-------------------第361次训练----------------------
+Epoch epoch Train RMSE:12.507181774775068
+Epoch epoch Val RMSE: 12.514291146931026
+Best model saved at epoch 361 with Val RMSE: 12.514291146931026
+-------------------第362次训练----------------------
+Epoch epoch Train RMSE:12.47535779053864
+Epoch epoch Val RMSE: 12.484898103871833
+Best model saved at epoch 362 with Val RMSE: 12.484898103871833
+-------------------第363次训练----------------------
+Epoch epoch Train RMSE:12.443611828637088
+Epoch epoch Val RMSE: 12.455457748889641
+Best model saved at epoch 363 with Val RMSE: 12.455457748889641
+-------------------第364次训练----------------------
+Epoch epoch Train RMSE:12.412046524476986
+Epoch epoch Val RMSE: 12.426101138408344
+Best model saved at epoch 364 with Val RMSE: 12.426101138408344
+-------------------第365次训练----------------------
+Epoch epoch Train RMSE:12.38091036751015
+Epoch epoch Val RMSE: 12.397942132314174
+Best model saved at epoch 365 with Val RMSE: 12.397942132314174
+-------------------第366次训练----------------------
+Epoch epoch Train RMSE:12.350624816162515
+Epoch epoch Val RMSE: 12.370820543833556
+Best model saved at epoch 366 with Val RMSE: 12.370820543833556
+-------------------第367次训练----------------------
+Epoch epoch Train RMSE:12.320853715522187
+Epoch epoch Val RMSE: 12.344470657365056
+Best model saved at epoch 367 with Val RMSE: 12.344470657365056
+-------------------第368次训练----------------------
+Epoch epoch Train RMSE:12.291687080668076
+Epoch epoch Val RMSE: 12.319644307538177
+Best model saved at epoch 368 with Val RMSE: 12.319644307538177
+-------------------第369次训练----------------------
+Epoch epoch Train RMSE:12.263311510522007
+Epoch epoch Val RMSE: 12.296091367383339
+Best model saved at epoch 369 with Val RMSE: 12.296091367383339
+-------------------第370次训练----------------------
+Epoch epoch Train RMSE:12.23501168222809
+Epoch epoch Val RMSE: 12.273494067143673
+Best model saved at epoch 370 with Val RMSE: 12.273494067143673
+-------------------第371次训练----------------------
+Epoch epoch Train RMSE:12.20679187265293
+Epoch epoch Val RMSE: 12.25116584056901
+Best model saved at epoch 371 with Val RMSE: 12.25116584056901
+-------------------第372次训练----------------------
+Epoch epoch Train RMSE:12.178763520316382
+Epoch epoch Val RMSE: 12.2285653810779
+Best model saved at epoch 372 with Val RMSE: 12.2285653810779
+-------------------第373次训练----------------------
+Epoch epoch Train RMSE:12.150882114366288
+Epoch epoch Val RMSE: 12.204916691853251
+Best model saved at epoch 373 with Val RMSE: 12.204916691853251
+-------------------第374次训练----------------------
+Epoch epoch Train RMSE:12.123122866333846
+Epoch epoch Val RMSE: 12.180824994990846
+Best model saved at epoch 374 with Val RMSE: 12.180824994990846
+-------------------第375次训练----------------------
+Epoch epoch Train RMSE:12.095683413969487
+Epoch epoch Val RMSE: 12.155827610552107
+Best model saved at epoch 375 with Val RMSE: 12.155827610552107
+-------------------第376次训练----------------------
+Epoch epoch Train RMSE:12.068251745605595
+Epoch epoch Val RMSE: 12.130425252103695
+Best model saved at epoch 376 with Val RMSE: 12.130425252103695
+-------------------第377次训练----------------------
+Epoch epoch Train RMSE:12.040796233047931
+Epoch epoch Val RMSE: 12.10496517486794
+Best model saved at epoch 377 with Val RMSE: 12.10496517486794
+-------------------第378次训练----------------------
+Epoch epoch Train RMSE:12.01384000578376
+Epoch epoch Val RMSE: 12.079497541878876
+Best model saved at epoch 378 with Val RMSE: 12.079497541878876
+-------------------第379次训练----------------------
+Epoch epoch Train RMSE:11.986695861894006
+Epoch epoch Val RMSE: 12.055028627504829
+Best model saved at epoch 379 with Val RMSE: 12.055028627504829
+-------------------第380次训练----------------------
+Epoch epoch Train RMSE:11.959867124297801
+Epoch epoch Val RMSE: 12.03147828517188
+Best model saved at epoch 380 with Val RMSE: 12.03147828517188
+-------------------第381次训练----------------------
+Epoch epoch Train RMSE:11.93322549554558
+Epoch epoch Val RMSE: 12.008882414110712
+Best model saved at epoch 381 with Val RMSE: 12.008882414110712
+-------------------第382次训练----------------------
+Epoch epoch Train RMSE:11.906824133138945
+Epoch epoch Val RMSE: 11.98699437130164
+Best model saved at epoch 382 with Val RMSE: 11.98699437130164
+-------------------第383次训练----------------------
+Epoch epoch Train RMSE:11.880619044760198
+Epoch epoch Val RMSE: 11.964719407409723
+Best model saved at epoch 383 with Val RMSE: 11.964719407409723
+-------------------第384次训练----------------------
+Epoch epoch Train RMSE:11.854433258938405
+Epoch epoch Val RMSE: 11.941206910750335
+Best model saved at epoch 384 with Val RMSE: 11.941206910750335
+-------------------第385次训练----------------------
+Epoch epoch Train RMSE:11.828146285689236
+Epoch epoch Val RMSE: 11.916754306568757
+Best model saved at epoch 385 with Val RMSE: 11.916754306568757
+-------------------第386次训练----------------------
+Epoch epoch Train RMSE:11.801972072488763
+Epoch epoch Val RMSE: 11.891700325062592
+Best model saved at epoch 386 with Val RMSE: 11.891700325062592
+-------------------第387次训练----------------------
+Epoch epoch Train RMSE:11.776320825187057
+Epoch epoch Val RMSE: 11.867841309548792
+Best model saved at epoch 387 with Val RMSE: 11.867841309548792
+-------------------第388次训练----------------------
+Epoch epoch Train RMSE:11.750935618708796
+Epoch epoch Val RMSE: 11.845127800589772
+Best model saved at epoch 388 with Val RMSE: 11.845127800589772
+-------------------第389次训练----------------------
+Epoch epoch Train RMSE:11.725913825954501
+Epoch epoch Val RMSE: 11.823055334860438
+Best model saved at epoch 389 with Val RMSE: 11.823055334860438
+-------------------第390次训练----------------------
+Epoch epoch Train RMSE:11.701454033121601
+Epoch epoch Val RMSE: 11.800989426333272
+Best model saved at epoch 390 with Val RMSE: 11.800989426333272
+-------------------第391次训练----------------------
+Epoch epoch Train RMSE:11.67755911836419
+Epoch epoch Val RMSE: 11.77927598680995
+Best model saved at epoch 391 with Val RMSE: 11.77927598680995
+-------------------第392次训练----------------------
+Epoch epoch Train RMSE:11.653754000312718
+Epoch epoch Val RMSE: 11.758532733339463
+Best model saved at epoch 392 with Val RMSE: 11.758532733339463
+-------------------第393次训练----------------------
+Epoch epoch Train RMSE:11.629978221502274
+Epoch epoch Val RMSE: 11.737934817059228
+Best model saved at epoch 393 with Val RMSE: 11.737934817059228
+-------------------第394次训练----------------------
+Epoch epoch Train RMSE:11.606294410632925
+Epoch epoch Val RMSE: 11.716225639569455
+Best model saved at epoch 394 with Val RMSE: 11.716225639569455
+-------------------第395次训练----------------------
+Epoch epoch Train RMSE:11.582676125596741
+Epoch epoch Val RMSE: 11.693292008794174
+Best model saved at epoch 395 with Val RMSE: 11.693292008794174
+-------------------第396次训练----------------------
+Epoch epoch Train RMSE:11.559117167728063
+Epoch epoch Val RMSE: 11.670344690300698
+Best model saved at epoch 396 with Val RMSE: 11.670344690300698
+-------------------第397次训练----------------------
+Epoch epoch Train RMSE:11.535786550465062
+Epoch epoch Val RMSE: 11.647386223310402
+Best model saved at epoch 397 with Val RMSE: 11.647386223310402
+-------------------第398次训练----------------------
+Epoch epoch Train RMSE:11.512478236738048
+Epoch epoch Val RMSE: 11.624142194703888
+Best model saved at epoch 398 with Val RMSE: 11.624142194703888
+-------------------第399次训练----------------------
+Epoch epoch Train RMSE:11.489467275568837
+Epoch epoch Val RMSE: 11.60077793538238
+Best model saved at epoch 399 with Val RMSE: 11.60077793538238
+-------------------第400次训练----------------------
+Epoch epoch Train RMSE:11.466472014911561
+Epoch epoch Val RMSE: 11.578731876175024
+Best model saved at epoch 400 with Val RMSE: 11.578731876175024
+-------------------第401次训练----------------------
+Epoch epoch Train RMSE:11.443756560194052
+Epoch epoch Val RMSE: 11.558089451232643
+Best model saved at epoch 401 with Val RMSE: 11.558089451232643
+-------------------第402次训练----------------------
+Epoch epoch Train RMSE:11.420938476909829
+Epoch epoch Val RMSE: 11.53810044334943
+Best model saved at epoch 402 with Val RMSE: 11.53810044334943
+-------------------第403次训练----------------------
+Epoch epoch Train RMSE:11.398414742523546
+Epoch epoch Val RMSE: 11.518058861268274
+Best model saved at epoch 403 with Val RMSE: 11.518058861268274
+-------------------第404次训练----------------------
+Epoch epoch Train RMSE:11.37597383794982
+Epoch epoch Val RMSE: 11.498548333138894
+Best model saved at epoch 404 with Val RMSE: 11.498548333138894
+-------------------第405次训练----------------------
+Epoch epoch Train RMSE:11.353960974460424
+Epoch epoch Val RMSE: 11.479251222016359
+Best model saved at epoch 405 with Val RMSE: 11.479251222016359
+-------------------第406次训练----------------------
+Epoch epoch Train RMSE:11.332103288507666
+Epoch epoch Val RMSE: 11.460283111217533
+Best model saved at epoch 406 with Val RMSE: 11.460283111217533
+-------------------第407次训练----------------------
+Epoch epoch Train RMSE:11.310599994748772
+Epoch epoch Val RMSE: 11.440635376472008
+Best model saved at epoch 407 with Val RMSE: 11.440635376472008
+-------------------第408次训练----------------------
+Epoch epoch Train RMSE:11.289205097499046
+Epoch epoch Val RMSE: 11.42131924092506
+Best model saved at epoch 408 with Val RMSE: 11.42131924092506
+-------------------第409次训练----------------------
+Epoch epoch Train RMSE:11.268180906425908
+Epoch epoch Val RMSE: 11.402298250594386
+Best model saved at epoch 409 with Val RMSE: 11.402298250594386
+-------------------第410次训练----------------------
+Epoch epoch Train RMSE:11.247268005949545
+Epoch epoch Val RMSE: 11.382966657758452
+Best model saved at epoch 410 with Val RMSE: 11.382966657758452
+-------------------第411次训练----------------------
+Epoch epoch Train RMSE:11.22669603750173
+Epoch epoch Val RMSE: 11.364062741690153
+Best model saved at epoch 411 with Val RMSE: 11.364062741690153
+-------------------第412次训练----------------------
+Epoch epoch Train RMSE:11.206253104520624
+Epoch epoch Val RMSE: 11.34537345261481
+Best model saved at epoch 412 with Val RMSE: 11.34537345261481
+-------------------第413次训练----------------------
+Epoch epoch Train RMSE:11.185897627150789
+Epoch epoch Val RMSE: 11.32741915904446
+Best model saved at epoch 413 with Val RMSE: 11.32741915904446
+-------------------第414次训练----------------------
+Epoch epoch Train RMSE:11.165776990682918
+Epoch epoch Val RMSE: 11.308972899516215
+Best model saved at epoch 414 with Val RMSE: 11.308972899516215
+-------------------第415次训练----------------------
+Epoch epoch Train RMSE:11.14570936092464
+Epoch epoch Val RMSE: 11.290421833709557
+Best model saved at epoch 415 with Val RMSE: 11.290421833709557
+-------------------第416次训练----------------------
+Epoch epoch Train RMSE:11.125776628110655
+Epoch epoch Val RMSE: 11.272144478753914
+Best model saved at epoch 416 with Val RMSE: 11.272144478753914
+-------------------第417次训练----------------------
+Epoch epoch Train RMSE:11.10591734826459
+Epoch epoch Val RMSE: 11.254128270870519
+Best model saved at epoch 417 with Val RMSE: 11.254128270870519
+-------------------第418次训练----------------------
+Epoch epoch Train RMSE:11.086000470553186
+Epoch epoch Val RMSE: 11.2360804593664
+Best model saved at epoch 418 with Val RMSE: 11.2360804593664
+-------------------第419次训练----------------------
+Epoch epoch Train RMSE:11.06628491153034
+Epoch epoch Val RMSE: 11.217459176696806
+Best model saved at epoch 419 with Val RMSE: 11.217459176696806
+-------------------第420次训练----------------------
+Epoch epoch Train RMSE:11.046546596625832
+Epoch epoch Val RMSE: 11.198496949293679
+Best model saved at epoch 420 with Val RMSE: 11.198496949293679
+-------------------第421次训练----------------------
+Epoch epoch Train RMSE:11.026807544304953
+Epoch epoch Val RMSE: 11.180041336228822
+Best model saved at epoch 421 with Val RMSE: 11.180041336228822
+-------------------第422次训练----------------------
+Epoch epoch Train RMSE:11.00730237462414
+Epoch epoch Val RMSE: 11.161877150635501
+Best model saved at epoch 422 with Val RMSE: 11.161877150635501
+-------------------第423次训练----------------------
+Epoch epoch Train RMSE:10.987736541666898
+Epoch epoch Val RMSE: 11.143551221477093
+Best model saved at epoch 423 with Val RMSE: 11.143551221477093
+-------------------第424次训练----------------------
+Epoch epoch Train RMSE:10.968181367138374
+Epoch epoch Val RMSE: 11.124922848551826
+Best model saved at epoch 424 with Val RMSE: 11.124922848551826
+-------------------第425次训练----------------------
+Epoch epoch Train RMSE:10.94863621131396
+Epoch epoch Val RMSE: 11.10652392322758
+Best model saved at epoch 425 with Val RMSE: 11.10652392322758
+-------------------第426次训练----------------------
+Epoch epoch Train RMSE:10.928913691670388
+Epoch epoch Val RMSE: 11.088265108118138
+Best model saved at epoch 426 with Val RMSE: 11.088265108118138
+-------------------第427次训练----------------------
+Epoch epoch Train RMSE:10.9092380398163
+Epoch epoch Val RMSE: 11.06950613462286
+Best model saved at epoch 427 with Val RMSE: 11.06950613462286
+-------------------第428次训练----------------------
+Epoch epoch Train RMSE:10.889499162799066
+Epoch epoch Val RMSE: 11.050897235605536
+Best model saved at epoch 428 with Val RMSE: 11.050897235605536
+-------------------第429次训练----------------------
+Epoch epoch Train RMSE:10.869773222550137
+Epoch epoch Val RMSE: 11.032640753115489
+Best model saved at epoch 429 with Val RMSE: 11.032640753115489
+-------------------第430次训练----------------------
+Epoch epoch Train RMSE:10.850198812465122
+Epoch epoch Val RMSE: 11.01481289947538
+Best model saved at epoch 430 with Val RMSE: 11.01481289947538
+-------------------第431次训练----------------------
+Epoch epoch Train RMSE:10.830888756012463
+Epoch epoch Val RMSE: 10.997147623787498
+Best model saved at epoch 431 with Val RMSE: 10.997147623787498
+-------------------第432次训练----------------------
+Epoch epoch Train RMSE:10.811776726847949
+Epoch epoch Val RMSE: 10.979899681758681
+Best model saved at epoch 432 with Val RMSE: 10.979899681758681
+-------------------第433次训练----------------------
+Epoch epoch Train RMSE:10.792846104646086
+Epoch epoch Val RMSE: 10.963129152101788
+Best model saved at epoch 433 with Val RMSE: 10.963129152101788
+-------------------第434次训练----------------------
+Epoch epoch Train RMSE:10.774109175603895
+Epoch epoch Val RMSE: 10.946437127157338
+Best model saved at epoch 434 with Val RMSE: 10.946437127157338
+-------------------第435次训练----------------------
+Epoch epoch Train RMSE:10.755476864963889
+Epoch epoch Val RMSE: 10.930275934615555
+Best model saved at epoch 435 with Val RMSE: 10.930275934615555
+-------------------第436次训练----------------------
+Epoch epoch Train RMSE:10.736975297997322
+Epoch epoch Val RMSE: 10.915218305724402
+Best model saved at epoch 436 with Val RMSE: 10.915218305724402
+-------------------第437次训练----------------------
+Epoch epoch Train RMSE:10.718735052604373
+Epoch epoch Val RMSE: 10.900810743505396
+Best model saved at epoch 437 with Val RMSE: 10.900810743505396
+-------------------第438次训练----------------------
+Epoch epoch Train RMSE:10.700715755872983
+Epoch epoch Val RMSE: 10.886051219106932
+Best model saved at epoch 438 with Val RMSE: 10.886051219106932
+-------------------第439次训练----------------------
+Epoch epoch Train RMSE:10.682973159534932
+Epoch epoch Val RMSE: 10.871934129730157
+Best model saved at epoch 439 with Val RMSE: 10.871934129730157
+-------------------第440次训练----------------------
+Epoch epoch Train RMSE:10.665515082502939
+Epoch epoch Val RMSE: 10.857748093621936
+Best model saved at epoch 440 with Val RMSE: 10.857748093621936
+-------------------第441次训练----------------------
+Epoch epoch Train RMSE:10.648316414159314
+Epoch epoch Val RMSE: 10.843472435996453
+Best model saved at epoch 441 with Val RMSE: 10.843472435996453
+-------------------第442次训练----------------------
+Epoch epoch Train RMSE:10.631184292813922
+Epoch epoch Val RMSE: 10.829317453843215
+Best model saved at epoch 442 with Val RMSE: 10.829317453843215
+-------------------第443次训练----------------------
+Epoch epoch Train RMSE:10.61404500437889
+Epoch epoch Val RMSE: 10.815343934832168
+Best model saved at epoch 443 with Val RMSE: 10.815343934832168
+-------------------第444次训练----------------------
+Epoch epoch Train RMSE:10.596957191051796
+Epoch epoch Val RMSE: 10.801125248816671
+Best model saved at epoch 444 with Val RMSE: 10.801125248816671
+-------------------第445次训练----------------------
+Epoch epoch Train RMSE:10.580053066416236
+Epoch epoch Val RMSE: 10.786917526415028
+Best model saved at epoch 445 with Val RMSE: 10.786917526415028
+-------------------第446次训练----------------------
+Epoch epoch Train RMSE:10.563257314405062
+Epoch epoch Val RMSE: 10.77228100097037
+Best model saved at epoch 446 with Val RMSE: 10.77228100097037
+-------------------第447次训练----------------------
+Epoch epoch Train RMSE:10.5465371763026
+Epoch epoch Val RMSE: 10.757408605458155
+Best model saved at epoch 447 with Val RMSE: 10.757408605458155
+-------------------第448次训练----------------------
+Epoch epoch Train RMSE:10.529841569395169
+Epoch epoch Val RMSE: 10.742231889112833
+Best model saved at epoch 448 with Val RMSE: 10.742231889112833
+-------------------第449次训练----------------------
+Epoch epoch Train RMSE:10.513238463166259
+Epoch epoch Val RMSE: 10.727961816388364
+Best model saved at epoch 449 with Val RMSE: 10.727961816388364
+-------------------第450次训练----------------------
+Epoch epoch Train RMSE:10.496790804217259
+Epoch epoch Val RMSE: 10.71294706428843
+Best model saved at epoch 450 with Val RMSE: 10.71294706428843
+-------------------第451次训练----------------------
+Epoch epoch Train RMSE:10.480490952851062
+Epoch epoch Val RMSE: 10.698039607920542
+Best model saved at epoch 451 with Val RMSE: 10.698039607920542
+-------------------第452次训练----------------------
+Epoch epoch Train RMSE:10.46438553203141
+Epoch epoch Val RMSE: 10.682799616280443
+Best model saved at epoch 452 with Val RMSE: 10.682799616280443
+-------------------第453次训练----------------------
+Epoch epoch Train RMSE:10.448308955720044
+Epoch epoch Val RMSE: 10.66694457963662
+Best model saved at epoch 453 with Val RMSE: 10.66694457963662
+-------------------第454次训练----------------------
+Epoch epoch Train RMSE:10.432353869725835
+Epoch epoch Val RMSE: 10.65193728883958
+Best model saved at epoch 454 with Val RMSE: 10.65193728883958
+-------------------第455次训练----------------------
+Epoch epoch Train RMSE:10.416581624001811
+Epoch epoch Val RMSE: 10.637648290727917
+Best model saved at epoch 455 with Val RMSE: 10.637648290727917
+-------------------第456次训练----------------------
+Epoch epoch Train RMSE:10.400933267827309
+Epoch epoch Val RMSE: 10.622952611792204
+Best model saved at epoch 456 with Val RMSE: 10.622952611792204
+-------------------第457次训练----------------------
+Epoch epoch Train RMSE:10.385387322407661
+Epoch epoch Val RMSE: 10.609240164482836
+Best model saved at epoch 457 with Val RMSE: 10.609240164482836
+-------------------第458次训练----------------------
+Epoch epoch Train RMSE:10.36993615538202
+Epoch epoch Val RMSE: 10.594654866061331
+Best model saved at epoch 458 with Val RMSE: 10.594654866061331
+-------------------第459次训练----------------------
+Epoch epoch Train RMSE:10.35464318840017
+Epoch epoch Val RMSE: 10.580749997415708
+Best model saved at epoch 459 with Val RMSE: 10.580749997415708
+-------------------第460次训练----------------------
+Epoch epoch Train RMSE:10.339447140698239
+Epoch epoch Val RMSE: 10.566456792855089
+Best model saved at epoch 460 with Val RMSE: 10.566456792855089
+-------------------第461次训练----------------------
+Epoch epoch Train RMSE:10.324259393837893
+Epoch epoch Val RMSE: 10.552583090774283
+Best model saved at epoch 461 with Val RMSE: 10.552583090774283
+-------------------第462次训练----------------------
+Epoch epoch Train RMSE:10.30914362994388
+Epoch epoch Val RMSE: 10.53901254968704
+Best model saved at epoch 462 with Val RMSE: 10.53901254968704
+-------------------第463次训练----------------------
+Epoch epoch Train RMSE:10.294044950853639
+Epoch epoch Val RMSE: 10.52516573596498
+Best model saved at epoch 463 with Val RMSE: 10.52516573596498
+-------------------第464次训练----------------------
+Epoch epoch Train RMSE:10.2789445048739
+Epoch epoch Val RMSE: 10.511614597333327
+Best model saved at epoch 464 with Val RMSE: 10.511614597333327
+-------------------第465次训练----------------------
+Epoch epoch Train RMSE:10.263950809423324
+Epoch epoch Val RMSE: 10.497250151453356
+Best model saved at epoch 465 with Val RMSE: 10.497250151453356
+-------------------第466次训练----------------------
+Epoch epoch Train RMSE:10.249011108332866
+Epoch epoch Val RMSE: 10.483968212348751
+Best model saved at epoch 466 with Val RMSE: 10.483968212348751
+-------------------第467次训练----------------------
+Epoch epoch Train RMSE:10.23413234743352
+Epoch epoch Val RMSE: 10.470261376442119
+Best model saved at epoch 467 with Val RMSE: 10.470261376442119
+-------------------第468次训练----------------------
+Epoch epoch Train RMSE:10.219267012556516
+Epoch epoch Val RMSE: 10.457464985051312
+Best model saved at epoch 468 with Val RMSE: 10.457464985051312
+-------------------第469次训练----------------------
+Epoch epoch Train RMSE:10.204385256084262
+Epoch epoch Val RMSE: 10.443874217309983
+Best model saved at epoch 469 with Val RMSE: 10.443874217309983
+-------------------第470次训练----------------------
+Epoch epoch Train RMSE:10.189610923699059
+Epoch epoch Val RMSE: 10.431194662286748
+Best model saved at epoch 470 with Val RMSE: 10.431194662286748
+-------------------第471次训练----------------------
+Epoch epoch Train RMSE:10.174998845280761
+Epoch epoch Val RMSE: 10.417587565087684
+Best model saved at epoch 471 with Val RMSE: 10.417587565087684
+-------------------第472次训练----------------------
+Epoch epoch Train RMSE:10.160533576831385
+Epoch epoch Val RMSE: 10.404443349177793
+Best model saved at epoch 472 with Val RMSE: 10.404443349177793
+-------------------第473次训练----------------------
+Epoch epoch Train RMSE:10.146166117783034
+Epoch epoch Val RMSE: 10.390380489369347
+Best model saved at epoch 473 with Val RMSE: 10.390380489369347
+-------------------第474次训练----------------------
+Epoch epoch Train RMSE:10.1319966572343
+Epoch epoch Val RMSE: 10.37772636900028
+Best model saved at epoch 474 with Val RMSE: 10.37772636900028
+-------------------第475次训练----------------------
+Epoch epoch Train RMSE:10.117908019106789
+Epoch epoch Val RMSE: 10.363534129853798
+Best model saved at epoch 475 with Val RMSE: 10.363534129853798
+-------------------第476次训练----------------------
+Epoch epoch Train RMSE:10.103865429559736
+Epoch epoch Val RMSE: 10.351200244251004
+Best model saved at epoch 476 with Val RMSE: 10.351200244251004
+-------------------第477次训练----------------------
+Epoch epoch Train RMSE:10.089863409775658
+Epoch epoch Val RMSE: 10.334921396931943
+Best model saved at epoch 477 with Val RMSE: 10.334921396931943
+-------------------第478次训练----------------------
+Epoch epoch Train RMSE:10.075924466033618
+Epoch epoch Val RMSE: 10.325763103373628
+Best model saved at epoch 478 with Val RMSE: 10.325763103373628
+-------------------第479次训练----------------------
+Epoch epoch Train RMSE:10.062041278121313
+Epoch epoch Val RMSE: 10.306553461292882
+Best model saved at epoch 479 with Val RMSE: 10.306553461292882
+-------------------第480次训练----------------------
+Epoch epoch Train RMSE:10.04826532832401
+Epoch epoch Val RMSE: 10.302492406814988
+Best model saved at epoch 480 with Val RMSE: 10.302492406814988
+-------------------第481次训练----------------------
+Epoch epoch Train RMSE:10.034513043808712
+Epoch epoch Val RMSE: 10.282525537089535
+Best model saved at epoch 481 with Val RMSE: 10.282525537089535
+-------------------第482次训练----------------------
+Epoch epoch Train RMSE:10.02059570369127
+Epoch epoch Val RMSE: 10.273495796531366
+Best model saved at epoch 482 with Val RMSE: 10.273495796531366
+-------------------第483次训练----------------------
+Epoch epoch Train RMSE:10.006741349536494
+Epoch epoch Val RMSE: 10.264176776056457
+Best model saved at epoch 483 with Val RMSE: 10.264176776056457
+-------------------第484次训练----------------------
+Epoch epoch Train RMSE:9.99319989740289
+Epoch epoch Val RMSE: 10.245847651805287
+Best model saved at epoch 484 with Val RMSE: 10.245847651805287
+-------------------第485次训练----------------------
+Epoch epoch Train RMSE:9.979643128766632
+Epoch epoch Val RMSE: 10.2385673963256
+Best model saved at epoch 485 with Val RMSE: 10.2385673963256
+-------------------第486次训练----------------------
+Epoch epoch Train RMSE:9.96590370991869
+Epoch epoch Val RMSE: 10.225460543905147
+Best model saved at epoch 486 with Val RMSE: 10.225460543905147
+-------------------第487次训练----------------------
+Epoch epoch Train RMSE:9.952383735397342
+Epoch epoch Val RMSE: 10.20920053548418
+Best model saved at epoch 487 with Val RMSE: 10.20920053548418
+-------------------第488次训练----------------------
+Epoch epoch Train RMSE:9.939038427497966
+Epoch epoch Val RMSE: 10.202457236714702
+Best model saved at epoch 488 with Val RMSE: 10.202457236714702
+-------------------第489次训练----------------------
+Epoch epoch Train RMSE:9.925602538606638
+Epoch epoch Val RMSE: 10.186835331677205
+Best model saved at epoch 489 with Val RMSE: 10.186835331677205
+-------------------第490次训练----------------------
+Epoch epoch Train RMSE:9.912076470080851
+Epoch epoch Val RMSE: 10.1727337687124
+Best model saved at epoch 490 with Val RMSE: 10.1727337687124
+-------------------第491次训练----------------------
+Epoch epoch Train RMSE:9.89881362742368
+Epoch epoch Val RMSE: 10.16527581211773
+Best model saved at epoch 491 with Val RMSE: 10.16527581211773
+-------------------第492次训练----------------------
+Epoch epoch Train RMSE:9.88555845930042
+Epoch epoch Val RMSE: 10.149543684299887
+Best model saved at epoch 492 with Val RMSE: 10.149543684299887
+-------------------第493次训练----------------------
+Epoch epoch Train RMSE:9.872224828228033
+Epoch epoch Val RMSE: 10.138637071614797
+Best model saved at epoch 493 with Val RMSE: 10.138637071614797
+-------------------第494次训练----------------------
+Epoch epoch Train RMSE:9.858963705392078
+Epoch epoch Val RMSE: 10.129750208886376
+Best model saved at epoch 494 with Val RMSE: 10.129750208886376
+-------------------第495次训练----------------------
+Epoch epoch Train RMSE:9.845815677979457
+Epoch epoch Val RMSE: 10.113639957789717
+Best model saved at epoch 495 with Val RMSE: 10.113639957789717
+-------------------第496次训练----------------------
+Epoch epoch Train RMSE:9.832701668144242
+Epoch epoch Val RMSE: 10.104009274439962
+Best model saved at epoch 496 with Val RMSE: 10.104009274439962
+-------------------第497次训练----------------------
+Epoch epoch Train RMSE:9.819554605425125
+Epoch epoch Val RMSE: 10.093378113311779
+Best model saved at epoch 497 with Val RMSE: 10.093378113311779
+-------------------第498次训练----------------------
+Epoch epoch Train RMSE:9.806617479994097
+Epoch epoch Val RMSE: 10.078738550243287
+Best model saved at epoch 498 with Val RMSE: 10.078738550243287
+-------------------第499次训练----------------------
+Epoch epoch Train RMSE:9.793768431275533
+Epoch epoch Val RMSE: 10.070183705053033
+Best model saved at epoch 499 with Val RMSE: 10.070183705053033
+-------------------第500次训练----------------------
+Epoch epoch Train RMSE:9.780936434171162
+Epoch epoch Val RMSE: 10.056517913834268
+Best model saved at epoch 500 with Val RMSE: 10.056517913834268
+-------------------第501次训练----------------------
+Epoch epoch Train RMSE:9.768185992320499
+Epoch epoch Val RMSE: 10.043135497327306
+Best model saved at epoch 501 with Val RMSE: 10.043135497327306
+-------------------第502次训练----------------------
+Epoch epoch Train RMSE:9.755587028543406
+Epoch epoch Val RMSE: 10.033800983197253
+Best model saved at epoch 502 with Val RMSE: 10.033800983197253
+-------------------第503次训练----------------------
+Epoch epoch Train RMSE:9.743004661373357
+Epoch epoch Val RMSE: 10.020562583982583
+Best model saved at epoch 503 with Val RMSE: 10.020562583982583
+-------------------第504次训练----------------------
+Epoch epoch Train RMSE:9.730482079226118
+Epoch epoch Val RMSE: 10.009625951769424
+Best model saved at epoch 504 with Val RMSE: 10.009625951769424
+-------------------第505次训练----------------------
+Epoch epoch Train RMSE:9.718103123568534
+Epoch epoch Val RMSE: 9.999913024524107
+Best model saved at epoch 505 with Val RMSE: 9.999913024524107
+-------------------第506次训练----------------------
+Epoch epoch Train RMSE:9.705864020617575
+Epoch epoch Val RMSE: 9.98629584662542
+Best model saved at epoch 506 with Val RMSE: 9.98629584662542
+-------------------第507次训练----------------------
+Epoch epoch Train RMSE:9.693659835976554
+Epoch epoch Val RMSE: 9.976846593816253
+Best model saved at epoch 507 with Val RMSE: 9.976846593816253
+-------------------第508次训练----------------------
+Epoch epoch Train RMSE:9.6814863674795
+Epoch epoch Val RMSE: 9.965708492834825
+Best model saved at epoch 508 with Val RMSE: 9.965708492834825
+-------------------第509次训练----------------------
+Epoch epoch Train RMSE:9.66936464039019
+Epoch epoch Val RMSE: 9.954662162378483
+Best model saved at epoch 509 with Val RMSE: 9.954662162378483
+-------------------第510次训练----------------------
+Epoch epoch Train RMSE:9.657286949404813
+Epoch epoch Val RMSE: 9.945635842028707
+Best model saved at epoch 510 with Val RMSE: 9.945635842028707
+-------------------第511次训练----------------------
+Epoch epoch Train RMSE:9.645247131946808
+Epoch epoch Val RMSE: 9.93320088991628
+Best model saved at epoch 511 with Val RMSE: 9.93320088991628
+-------------------第512次训练----------------------
+Epoch epoch Train RMSE:9.633254833847575
+Epoch epoch Val RMSE: 9.92153204377747
+Best model saved at epoch 512 with Val RMSE: 9.92153204377747
+-------------------第513次训练----------------------
+Epoch epoch Train RMSE:9.621287236686175
+Epoch epoch Val RMSE: 9.91025094185151
+Best model saved at epoch 513 with Val RMSE: 9.91025094185151
+-------------------第514次训练----------------------
+Epoch epoch Train RMSE:9.609411918755299
+Epoch epoch Val RMSE: 9.898115313915984
+Best model saved at epoch 514 with Val RMSE: 9.898115313915984
+-------------------第515次训练----------------------
+Epoch epoch Train RMSE:9.597592258511742
+Epoch epoch Val RMSE: 9.889094856584173
+Best model saved at epoch 515 with Val RMSE: 9.889094856584173
+-------------------第516次训练----------------------
+Epoch epoch Train RMSE:9.5858296556943
+Epoch epoch Val RMSE: 9.878992360117985
+Best model saved at epoch 516 with Val RMSE: 9.878992360117985
+-------------------第517次训练----------------------
+Epoch epoch Train RMSE:9.574065750001488
+Epoch epoch Val RMSE: 9.869989596808766
+Best model saved at epoch 517 with Val RMSE: 9.869989596808766
+-------------------第518次训练----------------------
+Epoch epoch Train RMSE:9.56230173341743
+Epoch epoch Val RMSE: 9.860569320862917
+Best model saved at epoch 518 with Val RMSE: 9.860569320862917
+-------------------第519次训练----------------------
+Epoch epoch Train RMSE:9.550559174309752
+Epoch epoch Val RMSE: 9.849806699453627
+Best model saved at epoch 519 with Val RMSE: 9.849806699453627
+-------------------第520次训练----------------------
+Epoch epoch Train RMSE:9.538837352098271
+Epoch epoch Val RMSE: 9.840261271039719
+Best model saved at epoch 520 with Val RMSE: 9.840261271039719
+-------------------第521次训练----------------------
+Epoch epoch Train RMSE:9.527076282633471
+Epoch epoch Val RMSE: 9.829338641654596
+Best model saved at epoch 521 with Val RMSE: 9.829338641654596
+-------------------第522次训练----------------------
+Epoch epoch Train RMSE:9.515248158075838
+Epoch epoch Val RMSE: 9.819521973079196
+Best model saved at epoch 522 with Val RMSE: 9.819521973079196
+-------------------第523次训练----------------------
+Epoch epoch Train RMSE:9.503338678849758
+Epoch epoch Val RMSE: 9.809138603072002
+Best model saved at epoch 523 with Val RMSE: 9.809138603072002
+-------------------第524次训练----------------------
+Epoch epoch Train RMSE:9.491188379773714
+Epoch epoch Val RMSE: 9.798151301184241
+Best model saved at epoch 524 with Val RMSE: 9.798151301184241
+-------------------第525次训练----------------------
+Epoch epoch Train RMSE:9.478818871681662
+Epoch epoch Val RMSE: 9.787726552394746
+Best model saved at epoch 525 with Val RMSE: 9.787726552394746
+-------------------第526次训练----------------------
+Epoch epoch Train RMSE:9.466061251269874
+Epoch epoch Val RMSE: 9.77446006591045
+Best model saved at epoch 526 with Val RMSE: 9.77446006591045
+-------------------第527次训练----------------------
+Epoch epoch Train RMSE:9.452795303522285
+Epoch epoch Val RMSE: 9.762238866070767
+Best model saved at epoch 527 with Val RMSE: 9.762238866070767
+-------------------第528次训练----------------------
+Epoch epoch Train RMSE:9.439602043039582
+Epoch epoch Val RMSE: 9.747713652326576
+Best model saved at epoch 528 with Val RMSE: 9.747713652326576
+-------------------第529次训练----------------------
+Epoch epoch Train RMSE:9.426317473998289
+Epoch epoch Val RMSE: 9.735815440676856
+Best model saved at epoch 529 with Val RMSE: 9.735815440676856
+-------------------第530次训练----------------------
+Epoch epoch Train RMSE:9.41382220582847
+Epoch epoch Val RMSE: 9.720579704925251
+Best model saved at epoch 530 with Val RMSE: 9.720579704925251
+-------------------第531次训练----------------------
+Epoch epoch Train RMSE:9.402647221940928
+Epoch epoch Val RMSE: 9.710111747122253
+Best model saved at epoch 531 with Val RMSE: 9.710111747122253
+-------------------第532次训练----------------------
+Epoch epoch Train RMSE:9.392071858431732
+Epoch epoch Val RMSE: 9.695938471306192
+Best model saved at epoch 532 with Val RMSE: 9.695938471306192
+-------------------第533次训练----------------------
+Epoch epoch Train RMSE:9.381300373183588
+Epoch epoch Val RMSE: 9.689080091022776
+Best model saved at epoch 533 with Val RMSE: 9.689080091022776
+-------------------第534次训练----------------------
+Epoch epoch Train RMSE:9.370131792670353
+Epoch epoch Val RMSE: 9.676487329783315
+Best model saved at epoch 534 with Val RMSE: 9.676487329783315
+-------------------第535次训练----------------------
+Epoch epoch Train RMSE:9.358631951540488
+Epoch epoch Val RMSE: 9.673750638507054
+Best model saved at epoch 535 with Val RMSE: 9.673750638507054
+-------------------第536次训练----------------------
+Epoch epoch Train RMSE:9.346957163448009
+Epoch epoch Val RMSE: 9.658737701649104
+Best model saved at epoch 536 with Val RMSE: 9.658737701649104
+-------------------第537次训练----------------------
+Epoch epoch Train RMSE:9.335143549530025
+Epoch epoch Val RMSE: 9.660652613738879
+-------------------第538次训练----------------------
+Epoch epoch Train RMSE:9.323147210763874
+Epoch epoch Val RMSE: 9.64408626897224
+Best model saved at epoch 538 with Val RMSE: 9.64408626897224
+-------------------第539次训练----------------------
+Epoch epoch Train RMSE:9.311091578950426
+Epoch epoch Val RMSE: 9.646277354973888
+-------------------第540次训练----------------------
+Epoch epoch Train RMSE:9.298896838973697
+Epoch epoch Val RMSE: 9.63285012094742
+Best model saved at epoch 540 with Val RMSE: 9.63285012094742
+-------------------第541次训练----------------------
+Epoch epoch Train RMSE:9.286918989570635
+Epoch epoch Val RMSE: 9.62557268296789
+Best model saved at epoch 541 with Val RMSE: 9.62557268296789
+-------------------第542次训练----------------------
+Epoch epoch Train RMSE:9.275833758694974
+Epoch epoch Val RMSE: 9.62105172163983
+Best model saved at epoch 542 with Val RMSE: 9.62105172163983
+-------------------第543次训练----------------------
+Epoch epoch Train RMSE:9.264715500656536
+Epoch epoch Val RMSE: 9.605168111780575
+Best model saved at epoch 543 with Val RMSE: 9.605168111780575
+-------------------第544次训练----------------------
+Epoch epoch Train RMSE:9.253162565093877
+Epoch epoch Val RMSE: 9.602489752571579
+Best model saved at epoch 544 with Val RMSE: 9.602489752571579
+-------------------第545次训练----------------------
+Epoch epoch Train RMSE:9.241093652249631
+Epoch epoch Val RMSE: 9.586654972003847
+Best model saved at epoch 545 with Val RMSE: 9.586654972003847
+-------------------第546次训练----------------------
+Epoch epoch Train RMSE:9.228738629911389
+Epoch epoch Val RMSE: 9.576589937399511
+Best model saved at epoch 546 with Val RMSE: 9.576589937399511
+-------------------第547次训练----------------------
+Epoch epoch Train RMSE:9.216587239682577
+Epoch epoch Val RMSE: 9.567696948071502
+Best model saved at epoch 547 with Val RMSE: 9.567696948071502
+-------------------第548次训练----------------------
+Epoch epoch Train RMSE:9.20488106985929
+Epoch epoch Val RMSE: 9.550488476468633
+Best model saved at epoch 548 with Val RMSE: 9.550488476468633
+-------------------第549次训练----------------------
+Epoch epoch Train RMSE:9.193484893648659
+Epoch epoch Val RMSE: 9.543939267063598
+Best model saved at epoch 549 with Val RMSE: 9.543939267063598
+-------------------第550次训练----------------------
+Epoch epoch Train RMSE:9.181833193377868
+Epoch epoch Val RMSE: 9.528832701276992
+Best model saved at epoch 550 with Val RMSE: 9.528832701276992
+-------------------第551次训练----------------------
+Epoch epoch Train RMSE:9.169981570958512
+Epoch epoch Val RMSE: 9.519517224676783
+Best model saved at epoch 551 with Val RMSE: 9.519517224676783
+-------------------第552次训练----------------------
+Epoch epoch Train RMSE:9.15827955855554
+Epoch epoch Val RMSE: 9.512234088324059
+Best model saved at epoch 552 with Val RMSE: 9.512234088324059
+-------------------第553次训练----------------------
+Epoch epoch Train RMSE:9.146610119851523
+Epoch epoch Val RMSE: 9.498743074487129
+Best model saved at epoch 553 with Val RMSE: 9.498743074487129
+-------------------第554次训练----------------------
+Epoch epoch Train RMSE:9.135326238610192
+Epoch epoch Val RMSE: 9.494687652994683
+Best model saved at epoch 554 with Val RMSE: 9.494687652994683
+-------------------第555次训练----------------------
+Epoch epoch Train RMSE:9.124081500086179
+Epoch epoch Val RMSE: 9.480918996184233
+Best model saved at epoch 555 with Val RMSE: 9.480918996184233
+-------------------第556次训练----------------------
+Epoch epoch Train RMSE:9.112682651525942
+Epoch epoch Val RMSE: 9.473595314278045
+Best model saved at epoch 556 with Val RMSE: 9.473595314278045
+-------------------第557次训练----------------------
+Epoch epoch Train RMSE:9.101134562766877
+Epoch epoch Val RMSE: 9.462414324635876
+Best model saved at epoch 557 with Val RMSE: 9.462414324635876
+-------------------第558次训练----------------------
+Epoch epoch Train RMSE:9.089548720099287
+Epoch epoch Val RMSE: 9.447696255626248
+Best model saved at epoch 558 with Val RMSE: 9.447696255626248
+-------------------第559次训练----------------------
+Epoch epoch Train RMSE:9.077712766968883
+Epoch epoch Val RMSE: 9.440701983585283
+Best model saved at epoch 559 with Val RMSE: 9.440701983585283
+-------------------第560次训练----------------------
+Epoch epoch Train RMSE:9.0657729980002
+Epoch epoch Val RMSE: 9.424155394252555
+Best model saved at epoch 560 with Val RMSE: 9.424155394252555
+-------------------第561次训练----------------------
+Epoch epoch Train RMSE:9.053694452528543
+Epoch epoch Val RMSE: 9.419293962653613
+Best model saved at epoch 561 with Val RMSE: 9.419293962653613
+-------------------第562次训练----------------------
+Epoch epoch Train RMSE:9.041282915213399
+Epoch epoch Val RMSE: 9.405930016229913
+Best model saved at epoch 562 with Val RMSE: 9.405930016229913
+-------------------第563次训练----------------------
+Epoch epoch Train RMSE:9.028394623899826
+Epoch epoch Val RMSE: 9.397173079040387
+Best model saved at epoch 563 with Val RMSE: 9.397173079040387
+-------------------第564次训练----------------------
+Epoch epoch Train RMSE:9.01579932402956
+Epoch epoch Val RMSE: 9.391504433784034
+Best model saved at epoch 564 with Val RMSE: 9.391504433784034
+-------------------第565次训练----------------------
+Epoch epoch Train RMSE:9.00496155353072
+Epoch epoch Val RMSE: 9.379323547307562
+Best model saved at epoch 565 with Val RMSE: 9.379323547307562
+-------------------第566次训练----------------------
+Epoch epoch Train RMSE:8.994474622259421
+Epoch epoch Val RMSE: 9.375964712734023
+Best model saved at epoch 566 with Val RMSE: 9.375964712734023
+-------------------第567次训练----------------------
+Epoch epoch Train RMSE:8.983538514048817
+Epoch epoch Val RMSE: 9.360416717382131
+Best model saved at epoch 567 with Val RMSE: 9.360416717382131
+-------------------第568次训练----------------------
+Epoch epoch Train RMSE:8.972086109851915
+Epoch epoch Val RMSE: 9.351965517109392
+Best model saved at epoch 568 with Val RMSE: 9.351965517109392
+-------------------第569次训练----------------------
+Epoch epoch Train RMSE:8.960194191871887
+Epoch epoch Val RMSE: 9.338808724279124
+Best model saved at epoch 569 with Val RMSE: 9.338808724279124
+-------------------第570次训练----------------------
+Epoch epoch Train RMSE:8.948187566763476
+Epoch epoch Val RMSE: 9.330043576252237
+Best model saved at epoch 570 with Val RMSE: 9.330043576252237
+-------------------第571次训练----------------------
+Epoch epoch Train RMSE:8.93605083107557
+Epoch epoch Val RMSE: 9.326133221451311
+Best model saved at epoch 571 with Val RMSE: 9.326133221451311
+-------------------第572次训练----------------------
+Epoch epoch Train RMSE:8.923846720064343
+Epoch epoch Val RMSE: 9.318189687788996
+Best model saved at epoch 572 with Val RMSE: 9.318189687788996
+-------------------第573次训练----------------------
+Epoch epoch Train RMSE:8.911719212298358
+Epoch epoch Val RMSE: 9.316525811601778
+Best model saved at epoch 573 with Val RMSE: 9.316525811601778
+-------------------第574次训练----------------------
+Epoch epoch Train RMSE:8.899900080087802
+Epoch epoch Val RMSE: 9.304483739766233
+Best model saved at epoch 574 with Val RMSE: 9.304483739766233
+-------------------第575次训练----------------------
+Epoch epoch Train RMSE:8.8881051459767
+Epoch epoch Val RMSE: 9.300615138557578
+Best model saved at epoch 575 with Val RMSE: 9.300615138557578
+-------------------第576次训练----------------------
+Epoch epoch Train RMSE:8.876626738705463
+Epoch epoch Val RMSE: 9.289776619811486
+Best model saved at epoch 576 with Val RMSE: 9.289776619811486
+-------------------第577次训练----------------------
+Epoch epoch Train RMSE:8.865281062266908
+Epoch epoch Val RMSE: 9.284302078006919
+Best model saved at epoch 577 with Val RMSE: 9.284302078006919
+-------------------第578次训练----------------------
+Epoch epoch Train RMSE:8.854059579239053
+Epoch epoch Val RMSE: 9.27657932705965
+Best model saved at epoch 578 with Val RMSE: 9.27657932705965
+-------------------第579次训练----------------------
+Epoch epoch Train RMSE:8.842444225736111
+Epoch epoch Val RMSE: 9.267897740471247
+Best model saved at epoch 579 with Val RMSE: 9.267897740471247
+-------------------第580次训练----------------------
+Epoch epoch Train RMSE:8.830569524661636
+Epoch epoch Val RMSE: 9.261352583308947
+Best model saved at epoch 580 with Val RMSE: 9.261352583308947
+-------------------第581次训练----------------------
+Epoch epoch Train RMSE:8.818870460341794
+Epoch epoch Val RMSE: 9.248871605583163
+Best model saved at epoch 581 with Val RMSE: 9.248871605583163
+-------------------第582次训练----------------------
+Epoch epoch Train RMSE:8.80723468589886
+Epoch epoch Val RMSE: 9.242687737413188
+Best model saved at epoch 582 with Val RMSE: 9.242687737413188
+-------------------第583次训练----------------------
+Epoch epoch Train RMSE:8.795845906585809
+Epoch epoch Val RMSE: 9.228501364076283
+Best model saved at epoch 583 with Val RMSE: 9.228501364076283
+-------------------第584次训练----------------------
+Epoch epoch Train RMSE:8.784745901793746
+Epoch epoch Val RMSE: 9.221942310094068
+Best model saved at epoch 584 with Val RMSE: 9.221942310094068
+-------------------第585次训练----------------------
+Epoch epoch Train RMSE:8.773506633047969
+Epoch epoch Val RMSE: 9.207714445510275
+Best model saved at epoch 585 with Val RMSE: 9.207714445510275
+-------------------第586次训练----------------------
+Epoch epoch Train RMSE:8.762095782960012
+Epoch epoch Val RMSE: 9.201523231789194
+Best model saved at epoch 586 with Val RMSE: 9.201523231789194
+-------------------第587次训练----------------------
+Epoch epoch Train RMSE:8.750459495468563
+Epoch epoch Val RMSE: 9.19043503156058
+Best model saved at epoch 587 with Val RMSE: 9.19043503156058
+-------------------第588次训练----------------------
+Epoch epoch Train RMSE:8.73892862976872
+Epoch epoch Val RMSE: 9.187791469388111
+Best model saved at epoch 588 with Val RMSE: 9.187791469388111
+-------------------第589次训练----------------------
+Epoch epoch Train RMSE:8.727323958217644
+Epoch epoch Val RMSE: 9.17797399233643
+Best model saved at epoch 589 with Val RMSE: 9.17797399233643
+-------------------第590次训练----------------------
+Epoch epoch Train RMSE:8.715748916461779
+Epoch epoch Val RMSE: 9.174604643325408
+Best model saved at epoch 590 with Val RMSE: 9.174604643325408
+-------------------第591次训练----------------------
+Epoch epoch Train RMSE:8.704044094899626
+Epoch epoch Val RMSE: 9.160395702493945
+Best model saved at epoch 591 with Val RMSE: 9.160395702493945
+-------------------第592次训练----------------------
+Epoch epoch Train RMSE:8.69236695884199
+Epoch epoch Val RMSE: 9.159021368263993
+Best model saved at epoch 592 with Val RMSE: 9.159021368263993
+-------------------第593次训练----------------------
+Epoch epoch Train RMSE:8.680524262096371
+Epoch epoch Val RMSE: 9.1412004860239
+Best model saved at epoch 593 with Val RMSE: 9.1412004860239
+-------------------第594次训练----------------------
+Epoch epoch Train RMSE:8.668660105794041
+Epoch epoch Val RMSE: 9.146337357682958
+-------------------第595次训练----------------------
+Epoch epoch Train RMSE:8.656533357134576
+Epoch epoch Val RMSE: 9.124673079813686
+Best model saved at epoch 595 with Val RMSE: 9.124673079813686
+-------------------第596次训练----------------------
+Epoch epoch Train RMSE:8.643882537509729
+Epoch epoch Val RMSE: 9.132065637233143
+-------------------第597次训练----------------------
+Epoch epoch Train RMSE:8.630739375650858
+Epoch epoch Val RMSE: 9.111996935863164
+Best model saved at epoch 597 with Val RMSE: 9.111996935863164
+-------------------第598次训练----------------------
+Epoch epoch Train RMSE:8.61748984836194
+Epoch epoch Val RMSE: 9.11154688074745
+Best model saved at epoch 598 with Val RMSE: 9.11154688074745
+-------------------第599次训练----------------------
+Epoch epoch Train RMSE:8.604573705865269
+Epoch epoch Val RMSE: 9.102619054152466
+Best model saved at epoch 599 with Val RMSE: 9.102619054152466
+-------------------第600次训练----------------------
+Epoch epoch Train RMSE:8.592233530973262
+Epoch epoch Val RMSE: 9.089784576918484
+Best model saved at epoch 600 with Val RMSE: 9.089784576918484
+-------------------第601次训练----------------------
+Epoch epoch Train RMSE:8.580114804369016
+Epoch epoch Val RMSE: 9.09166911329405
+-------------------第602次训练----------------------
+Epoch epoch Train RMSE:8.56812853183739
+Epoch epoch Val RMSE: 9.073453190236348
+Best model saved at epoch 602 with Val RMSE: 9.073453190236348
+-------------------第603次训练----------------------
+Epoch epoch Train RMSE:8.555896746725326
+Epoch epoch Val RMSE: 9.075740428805503
+-------------------第604次训练----------------------
+Epoch epoch Train RMSE:8.543310339107023
+Epoch epoch Val RMSE: 9.061910254922067
+Best model saved at epoch 604 with Val RMSE: 9.061910254922067
+-------------------第605次训练----------------------
+Epoch epoch Train RMSE:8.530786746236576
+Epoch epoch Val RMSE: 9.053747120063742
+Best model saved at epoch 605 with Val RMSE: 9.053747120063742
+-------------------第606次训练----------------------
+Epoch epoch Train RMSE:8.518556422765071
+Epoch epoch Val RMSE: 9.047271350881678
+Best model saved at epoch 606 with Val RMSE: 9.047271350881678
+-------------------第607次训练----------------------
+Epoch epoch Train RMSE:8.506394169109136
+Epoch epoch Val RMSE: 9.030099762527067
+Best model saved at epoch 607 with Val RMSE: 9.030099762527067
+-------------------第608次训练----------------------
+Epoch epoch Train RMSE:8.494245937709419
+Epoch epoch Val RMSE: 9.02686411872202
+Best model saved at epoch 608 with Val RMSE: 9.02686411872202
+-------------------第609次训练----------------------
+Epoch epoch Train RMSE:8.48186263231013
+Epoch epoch Val RMSE: 9.012258446534304
+Best model saved at epoch 609 with Val RMSE: 9.012258446534304
+-------------------第610次训练----------------------
+Epoch epoch Train RMSE:8.469455816268862
+Epoch epoch Val RMSE: 9.008946105084457
+Best model saved at epoch 610 with Val RMSE: 9.008946105084457
+-------------------第611次训练----------------------
+Epoch epoch Train RMSE:8.457198594620305
+Epoch epoch Val RMSE: 9.001530834977286
+Best model saved at epoch 611 with Val RMSE: 9.001530834977286
+-------------------第612次训练----------------------
+Epoch epoch Train RMSE:8.44499811510118
+Epoch epoch Val RMSE: 8.990007151090602
+Best model saved at epoch 612 with Val RMSE: 8.990007151090602
+-------------------第613次训练----------------------
+Epoch epoch Train RMSE:8.433063612332617
+Epoch epoch Val RMSE: 8.986656045350873
+Best model saved at epoch 613 with Val RMSE: 8.986656045350873
+-------------------第614次训练----------------------
+Epoch epoch Train RMSE:8.421014348997135
+Epoch epoch Val RMSE: 8.970197713622838
+Best model saved at epoch 614 with Val RMSE: 8.970197713622838
+-------------------第615次训练----------------------
+Epoch epoch Train RMSE:8.408949181114512
+Epoch epoch Val RMSE: 8.965870890232164
+Best model saved at epoch 615 with Val RMSE: 8.965870890232164
+-------------------第616次训练----------------------
+Epoch epoch Train RMSE:8.396897569575641
+Epoch epoch Val RMSE: 8.95041219944864
+Best model saved at epoch 616 with Val RMSE: 8.95041219944864
+-------------------第617次训练----------------------
+Epoch epoch Train RMSE:8.384911437047437
+Epoch epoch Val RMSE: 8.945366658542383
+Best model saved at epoch 617 with Val RMSE: 8.945366658542383
+-------------------第618次训练----------------------
+Epoch epoch Train RMSE:8.372914524335952
+Epoch epoch Val RMSE: 8.936204936492459
+Best model saved at epoch 618 with Val RMSE: 8.936204936492459
+-------------------第619次训练----------------------
+Epoch epoch Train RMSE:8.36081872754827
+Epoch epoch Val RMSE: 8.927483768154612
+Best model saved at epoch 619 with Val RMSE: 8.927483768154612
+-------------------第620次训练----------------------
+Epoch epoch Train RMSE:8.348629099985285
+Epoch epoch Val RMSE: 8.922119564839784
+Best model saved at epoch 620 with Val RMSE: 8.922119564839784
+-------------------第621次训练----------------------
+Epoch epoch Train RMSE:8.33631319810001
+Epoch epoch Val RMSE: 8.910812975852709
+Best model saved at epoch 621 with Val RMSE: 8.910812975852709
+-------------------第622次训练----------------------
+Epoch epoch Train RMSE:8.323921330767176
+Epoch epoch Val RMSE: 8.906901017873023
+Best model saved at epoch 622 with Val RMSE: 8.906901017873023
+-------------------第623次训练----------------------
+Epoch epoch Train RMSE:8.311501349786331
+Epoch epoch Val RMSE: 8.894058610356305
+Best model saved at epoch 623 with Val RMSE: 8.894058610356305
+-------------------第624次训练----------------------
+Epoch epoch Train RMSE:8.298933617901515
+Epoch epoch Val RMSE: 8.888051496904206
+Best model saved at epoch 624 with Val RMSE: 8.888051496904206
+-------------------第625次训练----------------------
+Epoch epoch Train RMSE:8.286265801175725
+Epoch epoch Val RMSE: 8.87543239346109
+Best model saved at epoch 625 with Val RMSE: 8.87543239346109
+-------------------第626次训练----------------------
+Epoch epoch Train RMSE:8.273572133583496
+Epoch epoch Val RMSE: 8.866794715281799
+Best model saved at epoch 626 with Val RMSE: 8.866794715281799
+-------------------第627次训练----------------------
+Epoch epoch Train RMSE:8.260877432044712
+Epoch epoch Val RMSE: 8.858024588438157
+Best model saved at epoch 627 with Val RMSE: 8.858024588438157
+-------------------第628次训练----------------------
+Epoch epoch Train RMSE:8.248175679419917
+Epoch epoch Val RMSE: 8.84753854433294
+Best model saved at epoch 628 with Val RMSE: 8.84753854433294
+-------------------第629次训练----------------------
+Epoch epoch Train RMSE:8.235464527066005
+Epoch epoch Val RMSE: 8.842488660602886
+Best model saved at epoch 629 with Val RMSE: 8.842488660602886
+-------------------第630次训练----------------------
+Epoch epoch Train RMSE:8.22260011486183
+Epoch epoch Val RMSE: 8.828267594257682
+Best model saved at epoch 630 with Val RMSE: 8.828267594257682
+-------------------第631次训练----------------------
+Epoch epoch Train RMSE:8.209603096850206
+Epoch epoch Val RMSE: 8.826667381739899
+Best model saved at epoch 631 with Val RMSE: 8.826667381739899
+-------------------第632次训练----------------------
+Epoch epoch Train RMSE:8.196535671946068
+Epoch epoch Val RMSE: 8.808148980594927
+Best model saved at epoch 632 with Val RMSE: 8.808148980594927
+-------------------第633次训练----------------------
+Epoch epoch Train RMSE:8.183167687297964
+Epoch epoch Val RMSE: 8.808627095973467
+-------------------第634次训练----------------------
+Epoch epoch Train RMSE:8.169643352666359
+Epoch epoch Val RMSE: 8.78388432530461
+Best model saved at epoch 634 with Val RMSE: 8.78388432530461
+-------------------第635次训练----------------------
+Epoch epoch Train RMSE:8.156133541284236
+Epoch epoch Val RMSE: 8.78734965948698
+-------------------第636次训练----------------------
+Epoch epoch Train RMSE:8.142266340501763
+Epoch epoch Val RMSE: 8.758800331777927
+Best model saved at epoch 636 with Val RMSE: 8.758800331777927
+-------------------第637次训练----------------------
+Epoch epoch Train RMSE:8.12796154334515
+Epoch epoch Val RMSE: 8.761592923611667
+-------------------第638次训练----------------------
+Epoch epoch Train RMSE:8.113165114870542
+Epoch epoch Val RMSE: 8.738297838886801
+Best model saved at epoch 638 with Val RMSE: 8.738297838886801
+-------------------第639次训练----------------------
+Epoch epoch Train RMSE:8.098374154139194
+Epoch epoch Val RMSE: 8.73429027100004
+Best model saved at epoch 639 with Val RMSE: 8.73429027100004
+-------------------第640次训练----------------------
+Epoch epoch Train RMSE:8.083827944170821
+Epoch epoch Val RMSE: 8.723060772779556
+Best model saved at epoch 640 with Val RMSE: 8.723060772779556
+-------------------第641次训练----------------------
+Epoch epoch Train RMSE:8.06953348127813
+Epoch epoch Val RMSE: 8.707417222406344
+Best model saved at epoch 641 with Val RMSE: 8.707417222406344
+-------------------第642次训练----------------------
+Epoch epoch Train RMSE:8.055497788262326
+Epoch epoch Val RMSE: 8.70531760629472
+Best model saved at epoch 642 with Val RMSE: 8.70531760629472
+-------------------第643次训练----------------------
+Epoch epoch Train RMSE:8.041600307790354
+Epoch epoch Val RMSE: 8.685045073836422
+Best model saved at epoch 643 with Val RMSE: 8.685045073836422
+-------------------第644次训练----------------------
+Epoch epoch Train RMSE:8.027601311257305
+Epoch epoch Val RMSE: 8.686785112785001
+-------------------第645次训练----------------------
+Epoch epoch Train RMSE:8.01353168481142
+Epoch epoch Val RMSE: 8.669893935455658
+Best model saved at epoch 645 with Val RMSE: 8.669893935455658
+-------------------第646次训练----------------------
+Epoch epoch Train RMSE:7.99927255184136
+Epoch epoch Val RMSE: 8.666728924258681
+Best model saved at epoch 646 with Val RMSE: 8.666728924258681
+-------------------第647次训练----------------------
+Epoch epoch Train RMSE:7.98507944123672
+Epoch epoch Val RMSE: 8.656700370447792
+Best model saved at epoch 647 with Val RMSE: 8.656700370447792
+-------------------第648次训练----------------------
+Epoch epoch Train RMSE:7.970955816412312
+Epoch epoch Val RMSE: 8.64632665000428
+Best model saved at epoch 648 with Val RMSE: 8.64632665000428
+-------------------第649次训练----------------------
+Epoch epoch Train RMSE:7.956654423146389
+Epoch epoch Val RMSE: 8.640741550977049
+Best model saved at epoch 649 with Val RMSE: 8.640741550977049
+-------------------第650次训练----------------------
+Epoch epoch Train RMSE:7.9427828292271485
+Epoch epoch Val RMSE: 8.626499653790955
+Best model saved at epoch 650 with Val RMSE: 8.626499653790955
+-------------------第651次训练----------------------
+Epoch epoch Train RMSE:7.929298308645
+Epoch epoch Val RMSE: 8.624038863878315
+Best model saved at epoch 651 with Val RMSE: 8.624038863878315
+-------------------第652次训练----------------------
+Epoch epoch Train RMSE:7.915748409087834
+Epoch epoch Val RMSE: 8.60845864848838
+Best model saved at epoch 652 with Val RMSE: 8.60845864848838
+-------------------第653次训练----------------------
+Epoch epoch Train RMSE:7.902207136269697
+Epoch epoch Val RMSE: 8.60580963138397
+Best model saved at epoch 653 with Val RMSE: 8.60580963138397
+-------------------第654次训练----------------------
+Epoch epoch Train RMSE:7.888925017989024
+Epoch epoch Val RMSE: 8.592664615407207
+Best model saved at epoch 654 with Val RMSE: 8.592664615407207
+-------------------第655次训练----------------------
+Epoch epoch Train RMSE:7.87563381974709
+Epoch epoch Val RMSE: 8.591179924641237
+Best model saved at epoch 655 with Val RMSE: 8.591179924641237
+-------------------第656次训练----------------------
+Epoch epoch Train RMSE:7.8623960842913085
+Epoch epoch Val RMSE: 8.579546145370795
+Best model saved at epoch 656 with Val RMSE: 8.579546145370795
+-------------------第657次训练----------------------
+Epoch epoch Train RMSE:7.849167613222372
+Epoch epoch Val RMSE: 8.573703981557731
+Best model saved at epoch 657 with Val RMSE: 8.573703981557731
+-------------------第658次训练----------------------
+Epoch epoch Train RMSE:7.836006141430413
+Epoch epoch Val RMSE: 8.559765455651323
+Best model saved at epoch 658 with Val RMSE: 8.559765455651323
+-------------------第659次训练----------------------
+Epoch epoch Train RMSE:7.822924685484683
+Epoch epoch Val RMSE: 8.550447543739578
+Best model saved at epoch 659 with Val RMSE: 8.550447543739578
+-------------------第660次训练----------------------
+Epoch epoch Train RMSE:7.810014497203779
+Epoch epoch Val RMSE: 8.539561488308264
+Best model saved at epoch 660 with Val RMSE: 8.539561488308264
+-------------------第661次训练----------------------
+Epoch epoch Train RMSE:7.797097120771434
+Epoch epoch Val RMSE: 8.529785477689938
+Best model saved at epoch 661 with Val RMSE: 8.529785477689938
+-------------------第662次训练----------------------
+Epoch epoch Train RMSE:7.784116408541097
+Epoch epoch Val RMSE: 8.522676624494393
+Best model saved at epoch 662 with Val RMSE: 8.522676624494393
+-------------------第663次训练----------------------
+Epoch epoch Train RMSE:7.771087505966628
+Epoch epoch Val RMSE: 8.514153309612755
+Best model saved at epoch 663 with Val RMSE: 8.514153309612755
+-------------------第664次训练----------------------
+Epoch epoch Train RMSE:7.757844461949516
+Epoch epoch Val RMSE: 8.50746769201986
+Best model saved at epoch 664 with Val RMSE: 8.50746769201986
+-------------------第665次训练----------------------
+Epoch epoch Train RMSE:7.744622118149451
+Epoch epoch Val RMSE: 8.497100784427749
+Best model saved at epoch 665 with Val RMSE: 8.497100784427749
+-------------------第666次训练----------------------
+Epoch epoch Train RMSE:7.731369760213298
+Epoch epoch Val RMSE: 8.490138448028938
+Best model saved at epoch 666 with Val RMSE: 8.490138448028938
+-------------------第667次训练----------------------
+Epoch epoch Train RMSE:7.7182819672436755
+Epoch epoch Val RMSE: 8.477568704680495
+Best model saved at epoch 667 with Val RMSE: 8.477568704680495
+-------------------第668次训练----------------------
+Epoch epoch Train RMSE:7.705059064060707
+Epoch epoch Val RMSE: 8.473797972290543
+Best model saved at epoch 668 with Val RMSE: 8.473797972290543
+-------------------第669次训练----------------------
+Epoch epoch Train RMSE:7.691806734352017
+Epoch epoch Val RMSE: 8.4551879847477
+Best model saved at epoch 669 with Val RMSE: 8.4551879847477
+-------------------第670次训练----------------------
+Epoch epoch Train RMSE:7.67887928494477
+Epoch epoch Val RMSE: 8.45939496773941
+-------------------第671次训练----------------------
+Epoch epoch Train RMSE:7.666133309208155
+Epoch epoch Val RMSE: 8.431653971569817
+Best model saved at epoch 671 with Val RMSE: 8.431653971569817
+-------------------第672次训练----------------------
+Epoch epoch Train RMSE:7.6537538780191365
+Epoch epoch Val RMSE: 8.450265679330416
+-------------------第673次训练----------------------
+Epoch epoch Train RMSE:7.641985126655599
+Epoch epoch Val RMSE: 8.407687493263234
+Best model saved at epoch 673 with Val RMSE: 8.407687493263234
+-------------------第674次训练----------------------
+Epoch epoch Train RMSE:7.630615167979373
+Epoch epoch Val RMSE: 8.436904999275319
+-------------------第675次训练----------------------
+Epoch epoch Train RMSE:7.617917883652992
+Epoch epoch Val RMSE: 8.39020899588496
+Best model saved at epoch 675 with Val RMSE: 8.39020899588496
+-------------------第676次训练----------------------
+Epoch epoch Train RMSE:7.602550038628076
+Epoch epoch Val RMSE: 8.39913196620011
+-------------------第677次训练----------------------
+Epoch epoch Train RMSE:7.586335758083411
+Epoch epoch Val RMSE: 8.38778712410821
+Best model saved at epoch 677 with Val RMSE: 8.38778712410821
+-------------------第678次训练----------------------
+Epoch epoch Train RMSE:7.572744193511446
+Epoch epoch Val RMSE: 8.36340440270139
+Best model saved at epoch 678 with Val RMSE: 8.36340440270139
+-------------------第679次训练----------------------
+Epoch epoch Train RMSE:7.561365720317758
+Epoch epoch Val RMSE: 8.382377449684807
+-------------------第680次训练----------------------
+Epoch epoch Train RMSE:7.549133594644166
+Epoch epoch Val RMSE: 8.34426752549973
+Best model saved at epoch 680 with Val RMSE: 8.34426752549973
+-------------------第681次训练----------------------
+Epoch epoch Train RMSE:7.534640613432335
+Epoch epoch Val RMSE: 8.347764096168113
+-------------------第682次训练----------------------
+Epoch epoch Train RMSE:7.519637529687243
+Epoch epoch Val RMSE: 8.337883533538212
+Best model saved at epoch 682 with Val RMSE: 8.337883533538212
+-------------------第683次训练----------------------
+Epoch epoch Train RMSE:7.5064572828959335
+Epoch epoch Val RMSE: 8.314925449424798
+Best model saved at epoch 683 with Val RMSE: 8.314925449424798
+-------------------第684次训练----------------------
+Epoch epoch Train RMSE:7.494540452668175
+Epoch epoch Val RMSE: 8.329399197493835
+-------------------第685次训练----------------------
+Epoch epoch Train RMSE:7.481601272787829
+Epoch epoch Val RMSE: 8.30225446485584
+Best model saved at epoch 685 with Val RMSE: 8.30225446485584
+-------------------第686次训练----------------------
+Epoch epoch Train RMSE:7.4675102960740976
+Epoch epoch Val RMSE: 8.30204126466234
+Best model saved at epoch 686 with Val RMSE: 8.30204126466234
+-------------------第687次训练----------------------
+Epoch epoch Train RMSE:7.453424923538193
+Epoch epoch Val RMSE: 8.297365105875196
+Best model saved at epoch 687 with Val RMSE: 8.297365105875196
+-------------------第688次训练----------------------
+Epoch epoch Train RMSE:7.440750822103295
+Epoch epoch Val RMSE: 8.27365604792791
+Best model saved at epoch 688 with Val RMSE: 8.27365604792791
+-------------------第689次训练----------------------
+Epoch epoch Train RMSE:7.428420736021059
+Epoch epoch Val RMSE: 8.282255982530137
+-------------------第690次训练----------------------
+Epoch epoch Train RMSE:7.415045943320428
+Epoch epoch Val RMSE: 8.260156102217913
+Best model saved at epoch 690 with Val RMSE: 8.260156102217913
+-------------------第691次训练----------------------
+Epoch epoch Train RMSE:7.400876184090389
+Epoch epoch Val RMSE: 8.25429492474008
+Best model saved at epoch 691 with Val RMSE: 8.25429492474008
+-------------------第692次训练----------------------
+Epoch epoch Train RMSE:7.387340501331801
+Epoch epoch Val RMSE: 8.252361999855566
+Best model saved at epoch 692 with Val RMSE: 8.252361999855566
+-------------------第693次训练----------------------
+Epoch epoch Train RMSE:7.37429728635409
+Epoch epoch Val RMSE: 8.229220954297462
+Best model saved at epoch 693 with Val RMSE: 8.229220954297462
+-------------------第694次训练----------------------
+Epoch epoch Train RMSE:7.361064093417632
+Epoch epoch Val RMSE: 8.233775050042782
+-------------------第695次训练----------------------
+Epoch epoch Train RMSE:7.347188461152429
+Epoch epoch Val RMSE: 8.216125301248777
+Best model saved at epoch 695 with Val RMSE: 8.216125301248777
+-------------------第696次训练----------------------
+Epoch epoch Train RMSE:7.332836596686915
+Epoch epoch Val RMSE: 8.209685341756073
+Best model saved at epoch 696 with Val RMSE: 8.209685341756073
+-------------------第697次训练----------------------
+Epoch epoch Train RMSE:7.318899109817507
+Epoch epoch Val RMSE: 8.209413047560052
+Best model saved at epoch 697 with Val RMSE: 8.209413047560052
+-------------------第698次训练----------------------
+Epoch epoch Train RMSE:7.305128506490347
+Epoch epoch Val RMSE: 8.190584722752456
+Best model saved at epoch 698 with Val RMSE: 8.190584722752456
+-------------------第699次训练----------------------
+Epoch epoch Train RMSE:7.291439670480838
+Epoch epoch Val RMSE: 8.194096128600524
+-------------------第700次训练----------------------
+Epoch epoch Train RMSE:7.277378608427652
+Epoch epoch Val RMSE: 8.175251658821189
+Best model saved at epoch 700 with Val RMSE: 8.175251658821189
+-------------------第701次训练----------------------
+Epoch epoch Train RMSE:7.262957864795911
+Epoch epoch Val RMSE: 8.169633547013015
+Best model saved at epoch 701 with Val RMSE: 8.169633547013015
+-------------------第702次训练----------------------
+Epoch epoch Train RMSE:7.24867631075196
+Epoch epoch Val RMSE: 8.164415269740838
+Best model saved at epoch 702 with Val RMSE: 8.164415269740838
+-------------------第703次训练----------------------
+Epoch epoch Train RMSE:7.234781801720482
+Epoch epoch Val RMSE: 8.15071052309245
+Best model saved at epoch 703 with Val RMSE: 8.15071052309245
+-------------------第704次训练----------------------
+Epoch epoch Train RMSE:7.220905989339895
+Epoch epoch Val RMSE: 8.153846123395015
+-------------------第705次训练----------------------
+Epoch epoch Train RMSE:7.2069478844263815
+Epoch epoch Val RMSE: 8.138733979169697
+Best model saved at epoch 705 with Val RMSE: 8.138733979169697
+-------------------第706次训练----------------------
+Epoch epoch Train RMSE:7.192977542981619
+Epoch epoch Val RMSE: 8.134772893529165
+Best model saved at epoch 706 with Val RMSE: 8.134772893529165
+-------------------第707次训练----------------------
+Epoch epoch Train RMSE:7.179038731399462
+Epoch epoch Val RMSE: 8.12394449273835
+Best model saved at epoch 707 with Val RMSE: 8.12394449273835
+-------------------第708次训练----------------------
+Epoch epoch Train RMSE:7.1652333208682375
+Epoch epoch Val RMSE: 8.111733742190951
+Best model saved at epoch 708 with Val RMSE: 8.111733742190951
+-------------------第709次训练----------------------
+Epoch epoch Train RMSE:7.151356185660832
+Epoch epoch Val RMSE: 8.10764795630032
+Best model saved at epoch 709 with Val RMSE: 8.10764795630032
+-------------------第710次训练----------------------
+Epoch epoch Train RMSE:7.13743737188277
+Epoch epoch Val RMSE: 8.09268570313023
+Best model saved at epoch 710 with Val RMSE: 8.09268570313023
+-------------------第711次训练----------------------
+Epoch epoch Train RMSE:7.123465121735079
+Epoch epoch Val RMSE: 8.088032356205032
+Best model saved at epoch 711 with Val RMSE: 8.088032356205032
+-------------------第712次训练----------------------
+Epoch epoch Train RMSE:7.109348171309268
+Epoch epoch Val RMSE: 8.072815439553523
+Best model saved at epoch 712 with Val RMSE: 8.072815439553523
+-------------------第713次训练----------------------
+Epoch epoch Train RMSE:7.095252596315199
+Epoch epoch Val RMSE: 8.066041153965243
+Best model saved at epoch 713 with Val RMSE: 8.066041153965243
+-------------------第714次训练----------------------
+Epoch epoch Train RMSE:7.081104182116535
+Epoch epoch Val RMSE: 8.05109112849774
+Best model saved at epoch 714 with Val RMSE: 8.05109112849774
+-------------------第715次训练----------------------
+Epoch epoch Train RMSE:7.0666737334497975
+Epoch epoch Val RMSE: 8.039392284750475
+Best model saved at epoch 715 with Val RMSE: 8.039392284750475
+-------------------第716次训练----------------------
+Epoch epoch Train RMSE:7.052281642212256
+Epoch epoch Val RMSE: 8.024630776346017
+Best model saved at epoch 716 with Val RMSE: 8.024630776346017
+-------------------第717次训练----------------------
+Epoch epoch Train RMSE:7.037689650912336
+Epoch epoch Val RMSE: 8.010743080370698
+Best model saved at epoch 717 with Val RMSE: 8.010743080370698
+-------------------第718次训练----------------------
+Epoch epoch Train RMSE:7.022934264420609
+Epoch epoch Val RMSE: 8.00130738066003
+Best model saved at epoch 718 with Val RMSE: 8.00130738066003
+-------------------第719次训练----------------------
+Epoch epoch Train RMSE:7.007983967906433
+Epoch epoch Val RMSE: 7.989808266336089
+Best model saved at epoch 719 with Val RMSE: 7.989808266336089
+-------------------第720次训练----------------------
+Epoch epoch Train RMSE:6.9930270751184604
+Epoch epoch Val RMSE: 7.976702861690485
+Best model saved at epoch 720 with Val RMSE: 7.976702861690485
+-------------------第721次训练----------------------
+Epoch epoch Train RMSE:6.97811192375902
+Epoch epoch Val RMSE: 7.963077935005698
+Best model saved at epoch 721 with Val RMSE: 7.963077935005698
+-------------------第722次训练----------------------
+Epoch epoch Train RMSE:6.963159893548689
+Epoch epoch Val RMSE: 7.947721853072652
+Best model saved at epoch 722 with Val RMSE: 7.947721853072652
+-------------------第723次训练----------------------
+Epoch epoch Train RMSE:6.948082078816759
+Epoch epoch Val RMSE: 7.936358031779674
+Best model saved at epoch 723 with Val RMSE: 7.936358031779674
+-------------------第724次训练----------------------
+Epoch epoch Train RMSE:6.932822635377565
+Epoch epoch Val RMSE: 7.919852997542666
+Best model saved at epoch 724 with Val RMSE: 7.919852997542666
+-------------------第725次训练----------------------
+Epoch epoch Train RMSE:6.917639820931607
+Epoch epoch Val RMSE: 7.9067090771949164
+Best model saved at epoch 725 with Val RMSE: 7.9067090771949164
+-------------------第726次训练----------------------
+Epoch epoch Train RMSE:6.902292075446778
+Epoch epoch Val RMSE: 7.889057993382304
+Best model saved at epoch 726 with Val RMSE: 7.889057993382304
+-------------------第727次训练----------------------
+Epoch epoch Train RMSE:6.886679421505683
+Epoch epoch Val RMSE: 7.873867619555411
+Best model saved at epoch 727 with Val RMSE: 7.873867619555411
+-------------------第728次训练----------------------
+Epoch epoch Train RMSE:6.8709660572984115
+Epoch epoch Val RMSE: 7.855428201427546
+Best model saved at epoch 728 with Val RMSE: 7.855428201427546
+-------------------第729次训练----------------------
+Epoch epoch Train RMSE:6.854991302818608
+Epoch epoch Val RMSE: 7.839651792539735
+Best model saved at epoch 729 with Val RMSE: 7.839651792539735
+-------------------第730次训练----------------------
+Epoch epoch Train RMSE:6.838255187457475
+Epoch epoch Val RMSE: 7.820824422477262
+Best model saved at epoch 730 with Val RMSE: 7.820824422477262
+-------------------第731次训练----------------------
+Epoch epoch Train RMSE:6.820963230966236
+Epoch epoch Val RMSE: 7.803996592995562
+Best model saved at epoch 731 with Val RMSE: 7.803996592995562
+-------------------第732次训练----------------------
+Epoch epoch Train RMSE:6.803946068156969
+Epoch epoch Val RMSE: 7.787064306522454
+Best model saved at epoch 732 with Val RMSE: 7.787064306522454
+-------------------第733次训练----------------------
+Epoch epoch Train RMSE:6.787406412115209
+Epoch epoch Val RMSE: 7.772352163946278
+Best model saved at epoch 733 with Val RMSE: 7.772352163946278
+-------------------第734次训练----------------------
+Epoch epoch Train RMSE:6.771031710335086
+Epoch epoch Val RMSE: 7.757639411462823
+Best model saved at epoch 734 with Val RMSE: 7.757639411462823
+-------------------第735次训练----------------------
+Epoch epoch Train RMSE:6.754784195486033
+Epoch epoch Val RMSE: 7.743474366437321
+Best model saved at epoch 735 with Val RMSE: 7.743474366437321
+-------------------第736次训练----------------------
+Epoch epoch Train RMSE:6.738641011682264
+Epoch epoch Val RMSE: 7.723027947317608
+Best model saved at epoch 736 with Val RMSE: 7.723027947317608
+-------------------第737次训练----------------------
+Epoch epoch Train RMSE:6.722426433281282
+Epoch epoch Val RMSE: 7.7132652657334635
+Best model saved at epoch 737 with Val RMSE: 7.7132652657334635
+-------------------第738次训练----------------------
+Epoch epoch Train RMSE:6.706438574934911
+Epoch epoch Val RMSE: 7.685362231740066
+Best model saved at epoch 738 with Val RMSE: 7.685362231740066
+-------------------第739次训练----------------------
+Epoch epoch Train RMSE:6.6909766741305985
+Epoch epoch Val RMSE: 7.690863145026529
+-------------------第740次训练----------------------
+Epoch epoch Train RMSE:6.6768677230833875
+Epoch epoch Val RMSE: 7.651553835171605
+Best model saved at epoch 740 with Val RMSE: 7.651553835171605
+-------------------第741次训练----------------------
+Epoch epoch Train RMSE:6.664599702208215
+Epoch epoch Val RMSE: 7.683734747054062
+-------------------第742次训练----------------------
+Epoch epoch Train RMSE:6.654240121199127
+Epoch epoch Val RMSE: 7.624454666398177
+Best model saved at epoch 742 with Val RMSE: 7.624454666398177
+-------------------第743次训练----------------------
+Epoch epoch Train RMSE:6.645303671207837
+Epoch epoch Val RMSE: 7.678390688369043
+-------------------第744次训练----------------------
+Epoch epoch Train RMSE:6.634323469223302
+Epoch epoch Val RMSE: 7.604472059274921
+Best model saved at epoch 744 with Val RMSE: 7.604472059274921
+-------------------第745次训练----------------------
+Epoch epoch Train RMSE:6.613812771666741
+Epoch epoch Val RMSE: 7.623927306718303
+-------------------第746次训练----------------------
+Epoch epoch Train RMSE:6.5888711678558085
+Epoch epoch Val RMSE: 7.600085970743707
+Best model saved at epoch 746 with Val RMSE: 7.600085970743707
+-------------------第747次训练----------------------
+Epoch epoch Train RMSE:6.570855915399264
+Epoch epoch Val RMSE: 7.5700073810576685
+Best model saved at epoch 747 with Val RMSE: 7.5700073810576685
+-------------------第748次训练----------------------
+Epoch epoch Train RMSE:6.562119827157727
+Epoch epoch Val RMSE: 7.608290076019669
+-------------------第749次训练----------------------
+Epoch epoch Train RMSE:6.55227649527306
+Epoch epoch Val RMSE: 7.550748664165978
+Best model saved at epoch 749 with Val RMSE: 7.550748664165978
+-------------------第750次训练----------------------
+Epoch epoch Train RMSE:6.532728694003229
+Epoch epoch Val RMSE: 7.561922413861552
+-------------------第751次训练----------------------
+Epoch epoch Train RMSE:6.5103513017551995
+Epoch epoch Val RMSE: 7.554179761327836
+-------------------第752次训练----------------------
+Epoch epoch Train RMSE:6.496111954086039
+Epoch epoch Val RMSE: 7.518010448889995
+Best model saved at epoch 752 with Val RMSE: 7.518010448889995
+-------------------第753次训练----------------------
+Epoch epoch Train RMSE:6.485959367340727
+Epoch epoch Val RMSE: 7.542891120214849
+-------------------第754次训练----------------------
+Epoch epoch Train RMSE:6.470741739339205
+Epoch epoch Val RMSE: 7.499490847789216
+Best model saved at epoch 754 with Val RMSE: 7.499490847789216
+-------------------第755次训练----------------------
+Epoch epoch Train RMSE:6.450979989293535
+Epoch epoch Val RMSE: 7.493163489773372
+Best model saved at epoch 755 with Val RMSE: 7.493163489773372
+-------------------第756次训练----------------------
+Epoch epoch Train RMSE:6.43408349494486
+Epoch epoch Val RMSE: 7.498383411388063
+-------------------第757次训练----------------------
+Epoch epoch Train RMSE:6.421716989768366
+Epoch epoch Val RMSE: 7.462889091533472
+Best model saved at epoch 757 with Val RMSE: 7.462889091533472
+-------------------第758次训练----------------------
+Epoch epoch Train RMSE:6.408817725689605
+Epoch epoch Val RMSE: 7.47778820486162
+-------------------第759次训练----------------------
+Epoch epoch Train RMSE:6.391951817298685
+Epoch epoch Val RMSE: 7.449820435683385
+Best model saved at epoch 759 with Val RMSE: 7.449820435683385
+-------------------第760次训练----------------------
+Epoch epoch Train RMSE:6.374295064808515
+Epoch epoch Val RMSE: 7.4380333973646895
+Best model saved at epoch 760 with Val RMSE: 7.4380333973646895
+-------------------第761次训练----------------------
+Epoch epoch Train RMSE:6.359552554339515
+Epoch epoch Val RMSE: 7.444978432300652
+-------------------第762次训练----------------------
+Epoch epoch Train RMSE:6.346745126917788
+Epoch epoch Val RMSE: 7.409421603837776
+Best model saved at epoch 762 with Val RMSE: 7.409421603837776
+-------------------第763次训练----------------------
+Epoch epoch Train RMSE:6.332358670108975
+Epoch epoch Val RMSE: 7.41580832440052
+-------------------第764次训练----------------------
+Epoch epoch Train RMSE:6.315884428816289
+Epoch epoch Val RMSE: 7.389463047037664
+Best model saved at epoch 764 with Val RMSE: 7.389463047037664
+-------------------第765次训练----------------------
+Epoch epoch Train RMSE:6.299405557350357
+Epoch epoch Val RMSE: 7.372410206369187
+Best model saved at epoch 765 with Val RMSE: 7.372410206369187
+-------------------第766次训练----------------------
+Epoch epoch Train RMSE:6.284835778809305
+Epoch epoch Val RMSE: 7.37230930706539
+Best model saved at epoch 766 with Val RMSE: 7.37230930706539
+-------------------第767次训练----------------------
+Epoch epoch Train RMSE:6.271287903727235
+Epoch epoch Val RMSE: 7.3411307351095925
+Best model saved at epoch 767 with Val RMSE: 7.3411307351095925
+-------------------第768次训练----------------------
+Epoch epoch Train RMSE:6.256688010996182
+Epoch epoch Val RMSE: 7.34617438373007
+-------------------第769次训练----------------------
+Epoch epoch Train RMSE:6.240881104006525
+Epoch epoch Val RMSE: 7.32429270795993
+Best model saved at epoch 769 with Val RMSE: 7.32429270795993
+-------------------第770次训练----------------------
+Epoch epoch Train RMSE:6.225075729706119
+Epoch epoch Val RMSE: 7.310126286158131
+Best model saved at epoch 770 with Val RMSE: 7.310126286158131
+-------------------第771次训练----------------------
+Epoch epoch Train RMSE:6.210572660274951
+Epoch epoch Val RMSE: 7.308254215706818
+Best model saved at epoch 771 with Val RMSE: 7.308254215706818
+-------------------第772次训练----------------------
+Epoch epoch Train RMSE:6.196823339973146
+Epoch epoch Val RMSE: 7.281362901066083
+Best model saved at epoch 772 with Val RMSE: 7.281362901066083
+-------------------第773次训练----------------------
+Epoch epoch Train RMSE:6.182917275359225
+Epoch epoch Val RMSE: 7.287043153763033
+-------------------第774次训练----------------------
+Epoch epoch Train RMSE:6.167859280021273
+Epoch epoch Val RMSE: 7.264672789165564
+Best model saved at epoch 774 with Val RMSE: 7.264672789165564
+-------------------第775次训练----------------------
+Epoch epoch Train RMSE:6.152327008905794
+Epoch epoch Val RMSE: 7.2609992940566395
+Best model saved at epoch 775 with Val RMSE: 7.2609992940566395
+-------------------第776次训练----------------------
+Epoch epoch Train RMSE:6.137456877454001
+Epoch epoch Val RMSE: 7.2524383653811455
+Best model saved at epoch 776 with Val RMSE: 7.2524383653811455
+-------------------第777次训练----------------------
+Epoch epoch Train RMSE:6.123089239287256
+Epoch epoch Val RMSE: 7.233657043292189
+Best model saved at epoch 777 with Val RMSE: 7.233657043292189
+-------------------第778次训练----------------------
+Epoch epoch Train RMSE:6.10888420143347
+Epoch epoch Val RMSE: 7.23294402567616
+Best model saved at epoch 778 with Val RMSE: 7.23294402567616
+-------------------第779次训练----------------------
+Epoch epoch Train RMSE:6.094992173575554
+Epoch epoch Val RMSE: 7.209438908049397
+Best model saved at epoch 779 with Val RMSE: 7.209438908049397
+-------------------第780次训练----------------------
+Epoch epoch Train RMSE:6.080548036370359
+Epoch epoch Val RMSE: 7.209215613671455
+Best model saved at epoch 780 with Val RMSE: 7.209215613671455
+-------------------第781次训练----------------------
+Epoch epoch Train RMSE:6.065594070410742
+Epoch epoch Val RMSE: 7.193863945530029
+Best model saved at epoch 781 with Val RMSE: 7.193863945530029
+-------------------第782次训练----------------------
+Epoch epoch Train RMSE:6.0508244354696785
+Epoch epoch Val RMSE: 7.187193225450456
+Best model saved at epoch 782 with Val RMSE: 7.187193225450456
+-------------------第783次训练----------------------
+Epoch epoch Train RMSE:6.03629894117468
+Epoch epoch Val RMSE: 7.18060184007194
+Best model saved at epoch 783 with Val RMSE: 7.18060184007194
+-------------------第784次训练----------------------
+Epoch epoch Train RMSE:6.02203234005254
+Epoch epoch Val RMSE: 7.159854164556346
+Best model saved at epoch 784 with Val RMSE: 7.159854164556346
+-------------------第785次训练----------------------
+Epoch epoch Train RMSE:6.007830596221933
+Epoch epoch Val RMSE: 7.158498618986201
+Best model saved at epoch 785 with Val RMSE: 7.158498618986201
+-------------------第786次训练----------------------
+Epoch epoch Train RMSE:5.9934663166459465
+Epoch epoch Val RMSE: 7.138570076651052
+Best model saved at epoch 786 with Val RMSE: 7.138570076651052
+-------------------第787次训练----------------------
+Epoch epoch Train RMSE:5.978923017298127
+Epoch epoch Val RMSE: 7.141654643609139
+-------------------第788次训练----------------------
+Epoch epoch Train RMSE:5.964307160090126
+Epoch epoch Val RMSE: 7.120245702554519
+Best model saved at epoch 788 with Val RMSE: 7.120245702554519
+-------------------第789次训练----------------------
+Epoch epoch Train RMSE:5.949554093265427
+Epoch epoch Val RMSE: 7.1154812590128635
+Best model saved at epoch 789 with Val RMSE: 7.1154812590128635
+-------------------第790次训练----------------------
+Epoch epoch Train RMSE:5.934648330926406
+Epoch epoch Val RMSE: 7.0992568903213655
+Best model saved at epoch 790 with Val RMSE: 7.0992568903213655
+-------------------第791次训练----------------------
+Epoch epoch Train RMSE:5.919975358550879
+Epoch epoch Val RMSE: 7.091516353151258
+Best model saved at epoch 791 with Val RMSE: 7.091516353151258
+-------------------第792次训练----------------------
+Epoch epoch Train RMSE:5.905395445991331
+Epoch epoch Val RMSE: 7.082876063528066
+Best model saved at epoch 792 with Val RMSE: 7.082876063528066
+-------------------第793次训练----------------------
+Epoch epoch Train RMSE:5.890763258386592
+Epoch epoch Val RMSE: 7.072069554638482
+Best model saved at epoch 793 with Val RMSE: 7.072069554638482
+-------------------第794次训练----------------------
+Epoch epoch Train RMSE:5.8761475436576625
+Epoch epoch Val RMSE: 7.061827500994951
+Best model saved at epoch 794 with Val RMSE: 7.061827500994951
+-------------------第795次训练----------------------
+Epoch epoch Train RMSE:5.861660361606106
+Epoch epoch Val RMSE: 7.049124956949721
+Best model saved at epoch 795 with Val RMSE: 7.049124956949721
+-------------------第796次训练----------------------
+Epoch epoch Train RMSE:5.847040076400135
+Epoch epoch Val RMSE: 7.039944169083204
+Best model saved at epoch 796 with Val RMSE: 7.039944169083204
+-------------------第797次训练----------------------
+Epoch epoch Train RMSE:5.832567255488351
+Epoch epoch Val RMSE: 7.023526302535793
+Best model saved at epoch 797 with Val RMSE: 7.023526302535793
+-------------------第798次训练----------------------
+Epoch epoch Train RMSE:5.818084331259262
+Epoch epoch Val RMSE: 7.016665103335293
+Best model saved at epoch 798 with Val RMSE: 7.016665103335293
+-------------------第799次训练----------------------
+Epoch epoch Train RMSE:5.803599772960489
+Epoch epoch Val RMSE: 6.999827519062942
+Best model saved at epoch 799 with Val RMSE: 6.999827519062942
+-------------------第800次训练----------------------
+Epoch epoch Train RMSE:5.78928522049638
+Epoch epoch Val RMSE: 6.997275503468157
+Best model saved at epoch 800 with Val RMSE: 6.997275503468157
+-------------------第801次训练----------------------
+Epoch epoch Train RMSE:5.774945424800466
+Epoch epoch Val RMSE: 6.976353350640867
+Best model saved at epoch 801 with Val RMSE: 6.976353350640867
+-------------------第802次训练----------------------
+Epoch epoch Train RMSE:5.760716610412156
+Epoch epoch Val RMSE: 6.977731160428639
+-------------------第803次训练----------------------
+Epoch epoch Train RMSE:5.746667310769266
+Epoch epoch Val RMSE: 6.9500808052470076
+Best model saved at epoch 803 with Val RMSE: 6.9500808052470076
+-------------------第804次训练----------------------
+Epoch epoch Train RMSE:5.733128549925485
+Epoch epoch Val RMSE: 6.9606610210069295
+-------------------第805次训练----------------------
+Epoch epoch Train RMSE:5.7200032512949
+Epoch epoch Val RMSE: 6.924369138771467
+Best model saved at epoch 805 with Val RMSE: 6.924369138771467
+-------------------第806次训练----------------------
+Epoch epoch Train RMSE:5.707267865988123
+Epoch epoch Val RMSE: 6.947271115931201
+-------------------第807次训练----------------------
+Epoch epoch Train RMSE:5.695304462442889
+Epoch epoch Val RMSE: 6.897453402078037
+Best model saved at epoch 807 with Val RMSE: 6.897453402078037
+-------------------第808次训练----------------------
+Epoch epoch Train RMSE:5.683489716616607
+Epoch epoch Val RMSE: 6.932166721546897
+-------------------第809次训练----------------------
+Epoch epoch Train RMSE:5.671669191772246
+Epoch epoch Val RMSE: 6.8745807866684965
+Best model saved at epoch 809 with Val RMSE: 6.8745807866684965
+-------------------第810次训练----------------------
+Epoch epoch Train RMSE:5.658769752328087
+Epoch epoch Val RMSE: 6.909902305961329
+-------------------第811次训练----------------------
+Epoch epoch Train RMSE:5.643730344347348
+Epoch epoch Val RMSE: 6.85064489294393
+Best model saved at epoch 811 with Val RMSE: 6.85064489294393
+-------------------第812次训练----------------------
+Epoch epoch Train RMSE:5.626748724485224
+Epoch epoch Val RMSE: 6.871641691305754
+-------------------第813次训练----------------------
+Epoch epoch Train RMSE:5.60851109049645
+Epoch epoch Val RMSE: 6.834231371911857
+Best model saved at epoch 813 with Val RMSE: 6.834231371911857
+-------------------第814次训练----------------------
+Epoch epoch Train RMSE:5.590737495975049
+Epoch epoch Val RMSE: 6.829205669720726
+Best model saved at epoch 814 with Val RMSE: 6.829205669720726
+-------------------第815次训练----------------------
+Epoch epoch Train RMSE:5.575395188630077
+Epoch epoch Val RMSE: 6.825061660879313
+Best model saved at epoch 815 with Val RMSE: 6.825061660879313
+-------------------第816次训练----------------------
+Epoch epoch Train RMSE:5.562421819587529
+Epoch epoch Val RMSE: 6.7957678583742185
+Best model saved at epoch 816 with Val RMSE: 6.7957678583742185
+-------------------第817次训练----------------------
+Epoch epoch Train RMSE:5.550682630743387
+Epoch epoch Val RMSE: 6.814593352222299
+-------------------第818次训练----------------------
+Epoch epoch Train RMSE:5.538648237439864
+Epoch epoch Val RMSE: 6.7711539637624965
+Best model saved at epoch 818 with Val RMSE: 6.7711539637624965
+-------------------第819次训练----------------------
+Epoch epoch Train RMSE:5.525107728762283
+Epoch epoch Val RMSE: 6.790595159276357
+-------------------第820次训练----------------------
+Epoch epoch Train RMSE:5.510390783392169
+Epoch epoch Val RMSE: 6.747326922067859
+Best model saved at epoch 820 with Val RMSE: 6.747326922067859
+-------------------第821次训练----------------------
+Epoch epoch Train RMSE:5.494538803670338
+Epoch epoch Val RMSE: 6.755540340110866
+-------------------第822次训练----------------------
+Epoch epoch Train RMSE:5.478675946016516
+Epoch epoch Val RMSE: 6.731636782897267
+Best model saved at epoch 822 with Val RMSE: 6.731636782897267
+-------------------第823次训练----------------------
+Epoch epoch Train RMSE:5.46337975721824
+Epoch epoch Val RMSE: 6.723353028969135
+Best model saved at epoch 823 with Val RMSE: 6.723353028969135
+-------------------第824次训练----------------------
+Epoch epoch Train RMSE:5.448951151303524
+Epoch epoch Val RMSE: 6.717162330582061
+Best model saved at epoch 824 with Val RMSE: 6.717162330582061
+-------------------第825次训练----------------------
+Epoch epoch Train RMSE:5.435346856722289
+Epoch epoch Val RMSE: 6.695593384022073
+Best model saved at epoch 825 with Val RMSE: 6.695593384022073
+-------------------第826次训练----------------------
+Epoch epoch Train RMSE:5.422041744779259
+Epoch epoch Val RMSE: 6.701446821086444
+-------------------第827次训练----------------------
+Epoch epoch Train RMSE:5.408923596037703
+Epoch epoch Val RMSE: 6.669377951833611
+Best model saved at epoch 827 with Val RMSE: 6.669377951833611
+-------------------第828次训练----------------------
+Epoch epoch Train RMSE:5.395657785670203
+Epoch epoch Val RMSE: 6.6800095865329325
+-------------------第829次训练----------------------
+Epoch epoch Train RMSE:5.38212716178692
+Epoch epoch Val RMSE: 6.645097299154797
+Best model saved at epoch 829 with Val RMSE: 6.645097299154797
+-------------------第830次训练----------------------
+Epoch epoch Train RMSE:5.368415880742057
+Epoch epoch Val RMSE: 6.656726515642109
+-------------------第831次训练----------------------
+Epoch epoch Train RMSE:5.354142106095125
+Epoch epoch Val RMSE: 6.620063814161043
+Best model saved at epoch 831 with Val RMSE: 6.620063814161043
+-------------------第832次训练----------------------
+Epoch epoch Train RMSE:5.339576028001987
+Epoch epoch Val RMSE: 6.626877428741715
+-------------------第833次训练----------------------
+Epoch epoch Train RMSE:5.325128064831901
+Epoch epoch Val RMSE: 6.598691995650865
+Best model saved at epoch 833 with Val RMSE: 6.598691995650865
+-------------------第834次训练----------------------
+Epoch epoch Train RMSE:5.310484380378879
+Epoch epoch Val RMSE: 6.599799251393288
+-------------------第835次训练----------------------
+Epoch epoch Train RMSE:5.295990546549401
+Epoch epoch Val RMSE: 6.5781690727442825
+Best model saved at epoch 835 with Val RMSE: 6.5781690727442825
+-------------------第836次训练----------------------
+Epoch epoch Train RMSE:5.281797301696275
+Epoch epoch Val RMSE: 6.574962299659471
+Best model saved at epoch 836 with Val RMSE: 6.574962299659471
+-------------------第837次训练----------------------
+Epoch epoch Train RMSE:5.267787048021283
+Epoch epoch Val RMSE: 6.5600607562159166
+Best model saved at epoch 837 with Val RMSE: 6.5600607562159166
+-------------------第838次训练----------------------
+Epoch epoch Train RMSE:5.253816579741288
+Epoch epoch Val RMSE: 6.548785311055247
+Best model saved at epoch 838 with Val RMSE: 6.548785311055247
+-------------------第839次训练----------------------
+Epoch epoch Train RMSE:5.2400587509589025
+Epoch epoch Val RMSE: 6.536821097430651
+Best model saved at epoch 839 with Val RMSE: 6.536821097430651
+-------------------第840次训练----------------------
+Epoch epoch Train RMSE:5.226414699773993
+Epoch epoch Val RMSE: 6.520893848207456
+Best model saved at epoch 840 with Val RMSE: 6.520893848207456
+-------------------第841次训练----------------------
+Epoch epoch Train RMSE:5.212900869931858
+Epoch epoch Val RMSE: 6.519046168854778
+Best model saved at epoch 841 with Val RMSE: 6.519046168854778
+-------------------第842次训练----------------------
+Epoch epoch Train RMSE:5.199733419187491
+Epoch epoch Val RMSE: 6.499115810411341
+Best model saved at epoch 842 with Val RMSE: 6.499115810411341
+-------------------第843次训练----------------------
+Epoch epoch Train RMSE:5.187007283170524
+Epoch epoch Val RMSE: 6.507156833623503
+-------------------第844次训练----------------------
+Epoch epoch Train RMSE:5.175347122123564
+Epoch epoch Val RMSE: 6.465999589839206
+Best model saved at epoch 844 with Val RMSE: 6.465999589839206
+-------------------第845次训练----------------------
+Epoch epoch Train RMSE:5.165494457702351
+Epoch epoch Val RMSE: 6.496861507076988
+-------------------第846次训练----------------------
+Epoch epoch Train RMSE:5.158793983576998
+Epoch epoch Val RMSE: 6.437329040034984
+Best model saved at epoch 846 with Val RMSE: 6.437329040034984
+-------------------第847次训练----------------------
+Epoch epoch Train RMSE:5.15530553317462
+Epoch epoch Val RMSE: 6.5033897950918105
+-------------------第848次训练----------------------
+Epoch epoch Train RMSE:5.153461789055478
+Epoch epoch Val RMSE: 6.4208627167494985
+Best model saved at epoch 848 with Val RMSE: 6.4208627167494985
+-------------------第849次训练----------------------
+Epoch epoch Train RMSE:5.144744057623958
+Epoch epoch Val RMSE: 6.478477940235588
+-------------------第850次训练----------------------
+Epoch epoch Train RMSE:5.12298023152898
+Epoch epoch Val RMSE: 6.394751971984771
+Best model saved at epoch 850 with Val RMSE: 6.394751971984771
+-------------------第851次训练----------------------
+Epoch epoch Train RMSE:5.091189249801555
+Epoch epoch Val RMSE: 6.401780965483691
+-------------------第852次训练----------------------
+Epoch epoch Train RMSE:5.064692646428133
+Epoch epoch Val RMSE: 6.397296286735002
+-------------------第853次训练----------------------
+Epoch epoch Train RMSE:5.05313808271971
+Epoch epoch Val RMSE: 6.362822027244722
+Best model saved at epoch 853 with Val RMSE: 6.362822027244722
+-------------------第854次训练----------------------
+Epoch epoch Train RMSE:5.050903035618456
+Epoch epoch Val RMSE: 6.404906192423136
+-------------------第855次训练----------------------
+Epoch epoch Train RMSE:5.045163835903004
+Epoch epoch Val RMSE: 6.337597198041928
+Best model saved at epoch 855 with Val RMSE: 6.337597198041928
+-------------------第856次训练----------------------
+Epoch epoch Train RMSE:5.027002852114856
+Epoch epoch Val RMSE: 6.35550086183882
+-------------------第857次训练----------------------
+Epoch epoch Train RMSE:5.003211515918796
+Epoch epoch Val RMSE: 6.325812173800541
+Best model saved at epoch 857 with Val RMSE: 6.325812173800541
+-------------------第858次训练----------------------
+Epoch epoch Train RMSE:4.98432391388642
+Epoch epoch Val RMSE: 6.309138243240074
+Best model saved at epoch 858 with Val RMSE: 6.309138243240074
+-------------------第859次训练----------------------
+Epoch epoch Train RMSE:4.974755454642579
+Epoch epoch Val RMSE: 6.334743476617722
+-------------------第860次训练----------------------
+Epoch epoch Train RMSE:4.968405657658474
+Epoch epoch Val RMSE: 6.287534388302145
+Best model saved at epoch 860 with Val RMSE: 6.287534388302145
+-------------------第861次训练----------------------
+Epoch epoch Train RMSE:4.957787855046786
+Epoch epoch Val RMSE: 6.310741519553097
+-------------------第862次训练----------------------
+Epoch epoch Train RMSE:4.940097753198536
+Epoch epoch Val RMSE: 6.273998116684772
+Best model saved at epoch 862 with Val RMSE: 6.273998116684772
+-------------------第863次训练----------------------
+Epoch epoch Train RMSE:4.921143880159713
+Epoch epoch Val RMSE: 6.271460044526146
+Best model saved at epoch 863 with Val RMSE: 6.271460044526146
+-------------------第864次训练----------------------
+Epoch epoch Train RMSE:4.906382953761849
+Epoch epoch Val RMSE: 6.275746225919168
+-------------------第865次训练----------------------
+Epoch epoch Train RMSE:4.896496450548533
+Epoch epoch Val RMSE: 6.245462525269127
+Best model saved at epoch 865 with Val RMSE: 6.245462525269127
+-------------------第866次训练----------------------
+Epoch epoch Train RMSE:4.887106705473454
+Epoch epoch Val RMSE: 6.2698077844971465
+-------------------第867次训练----------------------
+Epoch epoch Train RMSE:4.875139087746926
+Epoch epoch Val RMSE: 6.234144010543023
+Best model saved at epoch 867 with Val RMSE: 6.234144010543023
+-------------------第868次训练----------------------
+Epoch epoch Train RMSE:4.859520814921897
+Epoch epoch Val RMSE: 6.242532159602534
+-------------------第869次训练----------------------
+Epoch epoch Train RMSE:4.8437435027048155
+Epoch epoch Val RMSE: 6.2297869557406225
+Best model saved at epoch 869 with Val RMSE: 6.2297869557406225
+-------------------第870次训练----------------------
+Epoch epoch Train RMSE:4.830187903119645
+Epoch epoch Val RMSE: 6.21259098715517
+Best model saved at epoch 870 with Val RMSE: 6.21259098715517
+-------------------第871次训练----------------------
+Epoch epoch Train RMSE:4.819354241828208
+Epoch epoch Val RMSE: 6.224947960570948
+-------------------第872次训练----------------------
+Epoch epoch Train RMSE:4.809503390238723
+Epoch epoch Val RMSE: 6.1908452402574525
+Best model saved at epoch 872 with Val RMSE: 6.1908452402574525
+-------------------第873次训练----------------------
+Epoch epoch Train RMSE:4.797940511750523
+Epoch epoch Val RMSE: 6.20720455823186
+-------------------第874次训练----------------------
+Epoch epoch Train RMSE:4.7840571920236
+Epoch epoch Val RMSE: 6.180341182043661
+Best model saved at epoch 874 with Val RMSE: 6.180341182043661
+-------------------第875次训练----------------------
+Epoch epoch Train RMSE:4.76926330763553
+Epoch epoch Val RMSE: 6.17986157506089
+Best model saved at epoch 875 with Val RMSE: 6.17986157506089
+-------------------第876次训练----------------------
+Epoch epoch Train RMSE:4.755684111888669
+Epoch epoch Val RMSE: 6.1730112309529055
+Best model saved at epoch 876 with Val RMSE: 6.1730112309529055
+-------------------第877次训练----------------------
+Epoch epoch Train RMSE:4.743905826064875
+Epoch epoch Val RMSE: 6.153283348390205
+Best model saved at epoch 877 with Val RMSE: 6.153283348390205
+-------------------第878次训练----------------------
+Epoch epoch Train RMSE:4.733323990897688
+Epoch epoch Val RMSE: 6.165619666768633
+-------------------第879次训练----------------------
+Epoch epoch Train RMSE:4.723068181476423
+Epoch epoch Val RMSE: 6.137296206320915
+Best model saved at epoch 879 with Val RMSE: 6.137296206320915
+-------------------第880次训练----------------------
+Epoch epoch Train RMSE:4.711605701535642
+Epoch epoch Val RMSE: 6.153535660833566
+-------------------第881次训练----------------------
+Epoch epoch Train RMSE:4.699572872476372
+Epoch epoch Val RMSE: 6.124175347068422
+Best model saved at epoch 881 with Val RMSE: 6.124175347068422
+-------------------第882次训练----------------------
+Epoch epoch Train RMSE:4.686429117584678
+Epoch epoch Val RMSE: 6.131072790168912
+-------------------第883次训练----------------------
+Epoch epoch Train RMSE:4.673524291145469
+Epoch epoch Val RMSE: 6.11574275274268
+Best model saved at epoch 883 with Val RMSE: 6.11574275274268
+-------------------第884次训练----------------------
+Epoch epoch Train RMSE:4.6609935791652335
+Epoch epoch Val RMSE: 6.1120000404637524
+Best model saved at epoch 884 with Val RMSE: 6.1120000404637524
+-------------------第885次训练----------------------
+Epoch epoch Train RMSE:4.649341553040716
+Epoch epoch Val RMSE: 6.112821343523139
+-------------------第886次训练----------------------
+Epoch epoch Train RMSE:4.638474091178181
+Epoch epoch Val RMSE: 6.094530261044177
+Best model saved at epoch 886 with Val RMSE: 6.094530261044177
+-------------------第887次训练----------------------
+Epoch epoch Train RMSE:4.627992847315109
+Epoch epoch Val RMSE: 6.105006380444941
+-------------------第888次训练----------------------
+Epoch epoch Train RMSE:4.6176317649922485
+Epoch epoch Val RMSE: 6.076480437058374
+Best model saved at epoch 888 with Val RMSE: 6.076480437058374
+-------------------第889次训练----------------------
+Epoch epoch Train RMSE:4.60667956146629
+Epoch epoch Val RMSE: 6.088899374037823
+-------------------第890次训练----------------------
+Epoch epoch Train RMSE:4.595331451781623
+Epoch epoch Val RMSE: 6.063024753787425
+Best model saved at epoch 890 with Val RMSE: 6.063024753787425
+-------------------第891次训练----------------------
+Epoch epoch Train RMSE:4.583624859410578
+Epoch epoch Val RMSE: 6.073242108985568
+-------------------第892次训练----------------------
+Epoch epoch Train RMSE:4.571757500599426
+Epoch epoch Val RMSE: 6.053851063696233
+Best model saved at epoch 892 with Val RMSE: 6.053851063696233
+-------------------第893次训练----------------------
+Epoch epoch Train RMSE:4.559915934339916
+Epoch epoch Val RMSE: 6.058030516110897
+-------------------第894次训练----------------------
+Epoch epoch Train RMSE:4.548283414546962
+Epoch epoch Val RMSE: 6.044191065476531
+Best model saved at epoch 894 with Val RMSE: 6.044191065476531
+-------------------第895次训练----------------------
+Epoch epoch Train RMSE:4.536823922224614
+Epoch epoch Val RMSE: 6.037210790053231
+Best model saved at epoch 895 with Val RMSE: 6.037210790053231
+-------------------第896次训练----------------------
+Epoch epoch Train RMSE:4.525711147003132
+Epoch epoch Val RMSE: 6.034398023264113
+Best model saved at epoch 896 with Val RMSE: 6.034398023264113
+-------------------第897次训练----------------------
+Epoch epoch Train RMSE:4.514893997316752
+Epoch epoch Val RMSE: 6.0196104644771635
+Best model saved at epoch 897 with Val RMSE: 6.0196104644771635
+-------------------第898次训练----------------------
+Epoch epoch Train RMSE:4.504369521653131
+Epoch epoch Val RMSE: 6.024961365381998
+-------------------第899次训练----------------------
+Epoch epoch Train RMSE:4.494122587629492
+Epoch epoch Val RMSE: 6.003631446520872
+Best model saved at epoch 899 with Val RMSE: 6.003631446520872
+-------------------第900次训练----------------------
+Epoch epoch Train RMSE:4.484057052984378
+Epoch epoch Val RMSE: 6.018751407040821
+-------------------第901次训练----------------------
+Epoch epoch Train RMSE:4.474266009100312
+Epoch epoch Val RMSE: 5.9904996043947705
+Best model saved at epoch 901 with Val RMSE: 5.9904996043947705
+-------------------第902次训练----------------------
+Epoch epoch Train RMSE:4.464682054637152
+Epoch epoch Val RMSE: 6.014629965393172
+-------------------第903次训练----------------------
+Epoch epoch Train RMSE:4.455428748943705
+Epoch epoch Val RMSE: 5.978594106802743
+Best model saved at epoch 903 with Val RMSE: 5.978594106802743
+-------------------第904次训练----------------------
+Epoch epoch Train RMSE:4.446024055048655
+Epoch epoch Val RMSE: 6.00604515718753
+-------------------第905次训练----------------------
+Epoch epoch Train RMSE:4.43646335582116
+Epoch epoch Val RMSE: 5.965066941837741
+Best model saved at epoch 905 with Val RMSE: 5.965066941837741
+-------------------第906次训练----------------------
+Epoch epoch Train RMSE:4.425915277510537
+Epoch epoch Val RMSE: 5.995370350295888
+-------------------第907次训练----------------------
+Epoch epoch Train RMSE:4.414868522578591
+Epoch epoch Val RMSE: 5.9558445283108385
+Best model saved at epoch 907 with Val RMSE: 5.9558445283108385
+-------------------第908次训练----------------------
+Epoch epoch Train RMSE:4.40274232889553
+Epoch epoch Val RMSE: 5.978066408515311
+-------------------第909次训练----------------------
+Epoch epoch Train RMSE:4.390436460309125
+Epoch epoch Val RMSE: 5.944669230044568
+Best model saved at epoch 909 with Val RMSE: 5.944669230044568
+-------------------第910次训练----------------------
+Epoch epoch Train RMSE:4.3779319747860965
+Epoch epoch Val RMSE: 5.956964010891016
+-------------------第911次训练----------------------
+Epoch epoch Train RMSE:4.365636997301988
+Epoch epoch Val RMSE: 5.937788143193328
+Best model saved at epoch 911 with Val RMSE: 5.937788143193328
+-------------------第912次训练----------------------
+Epoch epoch Train RMSE:4.353645962817334
+Epoch epoch Val RMSE: 5.943022398432593
+-------------------第913次训练----------------------
+Epoch epoch Train RMSE:4.342558772908778
+Epoch epoch Val RMSE: 5.930397041499348
+Best model saved at epoch 913 with Val RMSE: 5.930397041499348
+-------------------第914次训练----------------------
+Epoch epoch Train RMSE:4.331585433763845
+Epoch epoch Val RMSE: 5.921879831276888
+Best model saved at epoch 914 with Val RMSE: 5.921879831276888
+-------------------第915次训练----------------------
+Epoch epoch Train RMSE:4.320846662559047
+Epoch epoch Val RMSE: 5.920138705922631
+Best model saved at epoch 915 with Val RMSE: 5.920138705922631
+-------------------第916次训练----------------------
+Epoch epoch Train RMSE:4.310392002768344
+Epoch epoch Val RMSE: 5.913076179931049
+Best model saved at epoch 916 with Val RMSE: 5.913076179931049
+-------------------第917次训练----------------------
+Epoch epoch Train RMSE:4.3000081794128695
+Epoch epoch Val RMSE: 5.920334910121052
+-------------------第918次训练----------------------
+Epoch epoch Train RMSE:4.289922909344087
+Epoch epoch Val RMSE: 5.901308283179671
+Best model saved at epoch 918 with Val RMSE: 5.901308283179671
+-------------------第919次训练----------------------
+Epoch epoch Train RMSE:4.280059203335582
+Epoch epoch Val RMSE: 5.909890642267795
+-------------------第920次训练----------------------
+Epoch epoch Train RMSE:4.270883972363977
+Epoch epoch Val RMSE: 5.880728343566814
+Best model saved at epoch 920 with Val RMSE: 5.880728343566814
+-------------------第921次训练----------------------
+Epoch epoch Train RMSE:4.262616001016177
+Epoch epoch Val RMSE: 5.908335806877935
+-------------------第922次训练----------------------
+Epoch epoch Train RMSE:4.256083678190178
+Epoch epoch Val RMSE: 5.867836663592103
+Best model saved at epoch 922 with Val RMSE: 5.867836663592103
+-------------------第923次训练----------------------
+Epoch epoch Train RMSE:4.252274297413027
+Epoch epoch Val RMSE: 5.920236325573057
+-------------------第924次训练----------------------
+Epoch epoch Train RMSE:4.252199389256822
+Epoch epoch Val RMSE: 5.853852214943125
+Best model saved at epoch 924 with Val RMSE: 5.853852214943125
+-------------------第925次训练----------------------
+Epoch epoch Train RMSE:4.255532646504871
+Epoch epoch Val RMSE: 5.935637171800001
+-------------------第926次训练----------------------
+Epoch epoch Train RMSE:4.260637770358456
+Epoch epoch Val RMSE: 5.845192797428613
+Best model saved at epoch 926 with Val RMSE: 5.845192797428613
+-------------------第927次训练----------------------
+Epoch epoch Train RMSE:4.257191575997736
+Epoch epoch Val RMSE: 5.918940720511541
+-------------------第928次训练----------------------
+Epoch epoch Train RMSE:4.237866528168541
+Epoch epoch Val RMSE: 5.827656663174134
+Best model saved at epoch 928 with Val RMSE: 5.827656663174134
+-------------------第929次训练----------------------
+Epoch epoch Train RMSE:4.202882667561058
+Epoch epoch Val RMSE: 5.849600571257983
+-------------------第930次训练----------------------
+Epoch epoch Train RMSE:4.1715222613195495
+Epoch epoch Val RMSE: 5.839484795092726
+-------------------第931次训练----------------------
+Epoch epoch Train RMSE:4.159659457206414
+Epoch epoch Val RMSE: 5.811734056766709
+Best model saved at epoch 931 with Val RMSE: 5.811734056766709
+-------------------第932次训练----------------------
+Epoch epoch Train RMSE:4.163969743851408
+Epoch epoch Val RMSE: 5.869740830894921
+-------------------第933次训练----------------------
+Epoch epoch Train RMSE:4.168395917001409
+Epoch epoch Val RMSE: 5.797120122533937
+Best model saved at epoch 933 with Val RMSE: 5.797120122533937
+-------------------第934次训练----------------------
+Epoch epoch Train RMSE:4.158550113590217
+Epoch epoch Val RMSE: 5.839387132023079
+-------------------第935次训练----------------------
+Epoch epoch Train RMSE:4.13601785256759
+Epoch epoch Val RMSE: 5.7932917375611375
+Best model saved at epoch 935 with Val RMSE: 5.7932917375611375
+-------------------第936次训练----------------------
+Epoch epoch Train RMSE:4.112701809925947
+Epoch epoch Val RMSE: 5.793300297638907
+-------------------第937次训练----------------------
+Epoch epoch Train RMSE:4.100695360344937
+Epoch epoch Val RMSE: 5.813919714363827
+-------------------第938次训练----------------------
+Epoch epoch Train RMSE:4.099091517584262
+Epoch epoch Val RMSE: 5.771825087764701
+Best model saved at epoch 938 with Val RMSE: 5.771825087764701
+-------------------第939次训练----------------------
+Epoch epoch Train RMSE:4.097858260332749
+Epoch epoch Val RMSE: 5.812127214188128
+-------------------第940次训练----------------------
+Epoch epoch Train RMSE:4.088945204466775
+Epoch epoch Val RMSE: 5.760278885235797
+Best model saved at epoch 940 with Val RMSE: 5.760278885235797
+-------------------第941次训练----------------------
+Epoch epoch Train RMSE:4.072146655936052
+Epoch epoch Val RMSE: 5.776093033567056
+-------------------第942次训练----------------------
+Epoch epoch Train RMSE:4.055257356616662
+Epoch epoch Val RMSE: 5.764118276829279
+-------------------第943次训练----------------------
+Epoch epoch Train RMSE:4.044417058295381
+Epoch epoch Val RMSE: 5.74471338471804
+Best model saved at epoch 943 with Val RMSE: 5.74471338471804
+-------------------第944次训练----------------------
+Epoch epoch Train RMSE:4.039360463350709
+Epoch epoch Val RMSE: 5.769452569072507
+-------------------第945次训练----------------------
+Epoch epoch Train RMSE:4.034845685501559
+Epoch epoch Val RMSE: 5.728533271686935
+Best model saved at epoch 945 with Val RMSE: 5.728533271686935
+-------------------第946次训练----------------------
+Epoch epoch Train RMSE:4.02657644545509
+Epoch epoch Val RMSE: 5.752977015194265
+-------------------第947次训练----------------------
+Epoch epoch Train RMSE:4.014120926066133
+Epoch epoch Val RMSE: 5.721287899012657
+Best model saved at epoch 947 with Val RMSE: 5.721287899012657
+-------------------第948次训练----------------------
+Epoch epoch Train RMSE:4.000620317043668
+Epoch epoch Val RMSE: 5.7200272598150566
+Best model saved at epoch 948 with Val RMSE: 5.7200272598150566
+-------------------第949次训练----------------------
+Epoch epoch Train RMSE:3.989776062190486
+Epoch epoch Val RMSE: 5.721741274443464
+-------------------第950次训练----------------------
+Epoch epoch Train RMSE:3.9824178039919116
+Epoch epoch Val RMSE: 5.700356843720571
+Best model saved at epoch 950 with Val RMSE: 5.700356843720571
+-------------------第951次训练----------------------
+Epoch epoch Train RMSE:3.976528324962124
+Epoch epoch Val RMSE: 5.721883280241312
+-------------------第952次训练----------------------
+Epoch epoch Train RMSE:3.9696851214395967
+Epoch epoch Val RMSE: 5.685329819693085
+Best model saved at epoch 952 with Val RMSE: 5.685329819693085
+-------------------第953次训练----------------------
+Epoch epoch Train RMSE:3.9609012639722554
+Epoch epoch Val RMSE: 5.701566300269356
+-------------------第954次训练----------------------
+Epoch epoch Train RMSE:3.9499658317536728
+Epoch epoch Val RMSE: 5.676473471638774
+Best model saved at epoch 954 with Val RMSE: 5.676473471638774
+-------------------第955次训练----------------------
+Epoch epoch Train RMSE:3.938466997842031
+Epoch epoch Val RMSE: 5.678264791293117
+-------------------第956次训练----------------------
+Epoch epoch Train RMSE:3.9283828541468413
+Epoch epoch Val RMSE: 5.674532685385623
+Best model saved at epoch 956 with Val RMSE: 5.674532685385623
+-------------------第957次训练----------------------
+Epoch epoch Train RMSE:3.920161385814686
+Epoch epoch Val RMSE: 5.657875459747906
+Best model saved at epoch 957 with Val RMSE: 5.657875459747906
+-------------------第958次训练----------------------
+Epoch epoch Train RMSE:3.913186955701012
+Epoch epoch Val RMSE: 5.673316793331746
+-------------------第959次训练----------------------
+Epoch epoch Train RMSE:3.9062901609263614
+Epoch epoch Val RMSE: 5.644936221685716
+Best model saved at epoch 959 with Val RMSE: 5.644936221685716
+-------------------第960次训练----------------------
+Epoch epoch Train RMSE:3.898669035310282
+Epoch epoch Val RMSE: 5.661087917737501
+-------------------第961次训练----------------------
+Epoch epoch Train RMSE:3.8897256692684032
+Epoch epoch Val RMSE: 5.632571740368727
+Best model saved at epoch 961 with Val RMSE: 5.632571740368727
+-------------------第962次训练----------------------
+Epoch epoch Train RMSE:3.8800026380392327
+Epoch epoch Val RMSE: 5.640956372278136
+-------------------第963次训练----------------------
+Epoch epoch Train RMSE:3.8701550127867033
+Epoch epoch Val RMSE: 5.6247592450647526
+Best model saved at epoch 963 with Val RMSE: 5.6247592450647526
+-------------------第964次训练----------------------
+Epoch epoch Train RMSE:3.8608408009219284
+Epoch epoch Val RMSE: 5.623611448352909
+Best model saved at epoch 964 with Val RMSE: 5.623611448352909
+-------------------第965次训练----------------------
+Epoch epoch Train RMSE:3.8521798588879737
+Epoch epoch Val RMSE: 5.621654787357347
+Best model saved at epoch 965 with Val RMSE: 5.621654787357347
+-------------------第966次训练----------------------
+Epoch epoch Train RMSE:3.844121899485055
+Epoch epoch Val RMSE: 5.610857329384086
+Best model saved at epoch 966 with Val RMSE: 5.610857329384086
+-------------------第967次训练----------------------
+Epoch epoch Train RMSE:3.8365199623816544
+Epoch epoch Val RMSE: 5.616799034724704
+-------------------第968次训练----------------------
+Epoch epoch Train RMSE:3.8289331945418112
+Epoch epoch Val RMSE: 5.596125263581779
+Best model saved at epoch 968 with Val RMSE: 5.596125263581779
+-------------------第969次训练----------------------
+Epoch epoch Train RMSE:3.821424076805986
+Epoch epoch Val RMSE: 5.605404439417673
+-------------------第970次训练----------------------
+Epoch epoch Train RMSE:3.81376814466253
+Epoch epoch Val RMSE: 5.582228745850182
+Best model saved at epoch 970 with Val RMSE: 5.582228745850182
+-------------------第971次训练----------------------
+Epoch epoch Train RMSE:3.8060326675480427
+Epoch epoch Val RMSE: 5.593174910152688
+-------------------第972次训练----------------------
+Epoch epoch Train RMSE:3.798156522011467
+Epoch epoch Val RMSE: 5.567869873367894
+Best model saved at epoch 972 with Val RMSE: 5.567869873367894
+-------------------第973次训练----------------------
+Epoch epoch Train RMSE:3.790174435146796
+Epoch epoch Val RMSE: 5.581483657918242
+-------------------第974次训练----------------------
+Epoch epoch Train RMSE:3.782084223252748
+Epoch epoch Val RMSE: 5.560083271473348
+Best model saved at epoch 974 with Val RMSE: 5.560083271473348
+-------------------第975次训练----------------------
+Epoch epoch Train RMSE:3.7738642164991516
+Epoch epoch Val RMSE: 5.569118890842331
+-------------------第976次训练----------------------
+Epoch epoch Train RMSE:3.765644500808557
+Epoch epoch Val RMSE: 5.548437795636344
+Best model saved at epoch 976 with Val RMSE: 5.548437795636344
+-------------------第977次训练----------------------
+Epoch epoch Train RMSE:3.757471398240278
+Epoch epoch Val RMSE: 5.553856638645084
+-------------------第978次训练----------------------
+Epoch epoch Train RMSE:3.7494461922198656
+Epoch epoch Val RMSE: 5.536373717940485
+Best model saved at epoch 978 with Val RMSE: 5.536373717940485
+-------------------第979次训练----------------------
+Epoch epoch Train RMSE:3.741500632178327
+Epoch epoch Val RMSE: 5.539697091535492
+-------------------第980次训练----------------------
+Epoch epoch Train RMSE:3.7337202830963094
+Epoch epoch Val RMSE: 5.523719791175227
+Best model saved at epoch 980 with Val RMSE: 5.523719791175227
+-------------------第981次训练----------------------
+Epoch epoch Train RMSE:3.726031443505699
+Epoch epoch Val RMSE: 5.527515249658302
+-------------------第982次训练----------------------
+Epoch epoch Train RMSE:3.718556246799006
+Epoch epoch Val RMSE: 5.513086010153177
+Best model saved at epoch 982 with Val RMSE: 5.513086010153177
+-------------------第983次训练----------------------
+Epoch epoch Train RMSE:3.711253841368607
+Epoch epoch Val RMSE: 5.51970212851422
+-------------------第984次训练----------------------
+Epoch epoch Train RMSE:3.704206091574801
+Epoch epoch Val RMSE: 5.500671692493882
+Best model saved at epoch 984 with Val RMSE: 5.500671692493882
+-------------------第985次训练----------------------
+Epoch epoch Train RMSE:3.697476743221328
+Epoch epoch Val RMSE: 5.513822179861075
+-------------------第986次训练----------------------
+Epoch epoch Train RMSE:3.691343728802551
+Epoch epoch Val RMSE: 5.4871341035896295
+Best model saved at epoch 986 with Val RMSE: 5.4871341035896295
+-------------------第987次训练----------------------
+Epoch epoch Train RMSE:3.68595698773131
+Epoch epoch Val RMSE: 5.50817177324467
+-------------------第988次训练----------------------
+Epoch epoch Train RMSE:3.68154296745479
+Epoch epoch Val RMSE: 5.470058785912442
+Best model saved at epoch 988 with Val RMSE: 5.470058785912442
+-------------------第989次训练----------------------
+Epoch epoch Train RMSE:3.678739972426565
+Epoch epoch Val RMSE: 5.510304075459749
+-------------------第990次训练----------------------
+Epoch epoch Train RMSE:3.6782520515323647
+Epoch epoch Val RMSE: 5.459504601218196
+Best model saved at epoch 990 with Val RMSE: 5.459504601218196
+-------------------第991次训练----------------------
+Epoch epoch Train RMSE:3.680440837743739
+Epoch epoch Val RMSE: 5.521772120088931
+-------------------第992次训练----------------------
+Epoch epoch Train RMSE:3.685172558785396
+Epoch epoch Val RMSE: 5.452601366670624
+Best model saved at epoch 992 with Val RMSE: 5.452601366670624
+-------------------第993次训练----------------------
+Epoch epoch Train RMSE:3.688654831912867
+Epoch epoch Val RMSE: 5.525176253463408
+-------------------第994次训练----------------------
+Epoch epoch Train RMSE:3.6877203406759516
+Epoch epoch Val RMSE: 5.440601385197889
+Best model saved at epoch 994 with Val RMSE: 5.440601385197889
+-------------------第995次训练----------------------
+Epoch epoch Train RMSE:3.674703344711088
+Epoch epoch Val RMSE: 5.493459280261537
+-------------------第996次训练----------------------
+Epoch epoch Train RMSE:3.6522262472742972
+Epoch epoch Val RMSE: 5.426481285552918
+Best model saved at epoch 996 with Val RMSE: 5.426481285552918
+-------------------第997次训练----------------------
+Epoch epoch Train RMSE:3.625404598413433
+Epoch epoch Val RMSE: 5.44315701571519
+-------------------第998次训练----------------------
+Epoch epoch Train RMSE:3.6049789806922465
+Epoch epoch Val RMSE: 5.4335477650147945
+-------------------第999次训练----------------------
+Epoch epoch Train RMSE:3.5964993782016403
+Epoch epoch Val RMSE: 5.4137699108686865
+Best model saved at epoch 999 with Val RMSE: 5.4137699108686865
+Training time: 5.000211715698242
+Train Score: 3.60 RMSE
+Test Score: 5.11 RMSE
+trainPlot shape : (2658, 1)
+trainPredictPlot shape : (2658, 1)
+./bp_images/2025-06-29_01-22-53真实值vs预测值.png保存成功
